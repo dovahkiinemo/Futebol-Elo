@@ -1,0 +1,741 @@
+ano,rodada,mandante,visitante,gol_prev_mandante,gol_prev_visitante,previsao,gol_time_mandante,gol_time_visitante,data,local,pontos_prev_mandante,pontos_prev_visitante,pontos_real_mandante,pontos_real_visitante,erro_mandante,erro_visitante
+2018,2,Bahia,Santos Fc,0,1,Visitante,1,0,2018-04-21,Arena Fonte Nova - Salvador - BA,0,3,3,0,-3,3
+2018,2,Flamengo,America,0,0,Empate,2,0,2018-04-21,Maracanã - Rio de Janeiro - RJ,1,1,3,0,-2,1
+2018,2,Parana,Corinthians,0,1,Visitante,0,4,2018-04-22,Durival Britto - Curitiba - PR,0,3,0,3,0,0
+2018,2,Fluminense,Cruzeiro,0,0,Empate,1,0,2018-04-22,Maracanã - Rio de Janeiro - RJ,1,1,3,0,-2,1
+2018,2,Palmeiras,Internacional,0,0,Empate,1,0,2018-04-22,Pacaembu - Sao Paulo - SP,1,1,3,0,-2,1
+2018,2,Chapecoense,Vasco da Gama,0,1,Visitante,1,1,2018-04-22,Arena Condá - Chapeco - SC,0,3,1,1,-1,2
+2018,2,Ceará,São Paulo,0,1,Visitante,0,0,2018-04-22,Arena Castelão - Fortaleza - CE,0,3,1,1,-1,2
+2018,2,Atlético Mineiro,Vitória,0,0,Empate,2,1,2018-04-22,Independência - Belo Horizonte - MG,1,1,3,0,-2,1
+2018,2,Grêmio,Athletico Paranaense,0,0,Empate,0,0,2018-04-22,Arena do Grêmio - Porto Alegre - RS,1,1,1,1,0,0
+2018,2,Sport Recife,Botafogo,0,0,Empate,1,1,2018-04-23,Ilha do Retiro - Recife - PE,1,1,1,1,0,0
+2018,3,Botafogo,Grêmio,0,0,Empate,2,1,2018-04-28 00:00:00,Nilton Santos - Rio de Janeiro - RJ,1,1,3,0,-2,1
+2018,3,Bahia,Athletico Paranaense,0,0,Empate,0,0,2018-04-29 00:00:00,Arena Fonte Nova - Salvador - BA,1,1,1,1,0,0
+2018,3,Palmeiras,Chapecoense,1,0,Mandante,0,0,2018-04-29 00:00:00,Allianz Parque - Sao Paulo - SP,3,0,1,1,2,-1
+2018,3,Fluminense,São Paulo,0,0,Empate,1,1,2018-04-29 00:00:00,Maracanã - Rio de Janeiro - RJ,1,1,1,1,0,0
+2018,3,Parana,Sport Recife,0,0,Empate,1,2,2018-04-29 00:00:00,Durival Britto - Curitiba - PR,1,1,0,3,1,-2
+2018,3,Atlético Mineiro,Corinthians,0,1,Visitante,1,0,2018-04-29 00:00:00,Independência - Belo Horizonte - MG,0,3,3,0,-3,3
+2018,3,Ceará,Flamengo,0,1,Visitante,0,3,2018-04-29 00:00:00,Arena Castelão - Fortaleza - CE,0,3,0,3,0,0
+2018,3,Internacional,Cruzeiro,1,0,Mandante,0,0,2018-04-29 00:00:00,Beira-Rio - Porto Alegre - RS,3,0,1,1,2,-1
+2018,3,America,Vitória,0,0,Empate,2,1,2018-04-30 00:00:00,Independência - Belo Horizonte - MG,1,1,3,0,-2,1
+2018,3,Santos Fc,Vasco da Gama,0,0,Empate,1,1,2018-09-27 00:00:00,Pacaembu - Sao Paulo - SP,1,1,1,1,0,0
+2018,4,São Paulo,Atlético Mineiro,0,0,Empate,2,2,2018-05-05 00:00:00,Morumbi - Sao Paulo - SP,1,1,1,1,0,0
+2018,4,Vasco da Gama,America,0,0,Empate,4,1,2018-05-05 00:00:00,São Januário - Rio de Janeiro - RJ,1,1,3,0,-2,1
+2018,4,Corinthians,Ceará,1,0,Mandante,1,1,2018-05-06 00:00:00,Neo Química Arena - Sao Paulo - SP,3,0,1,1,2,-1
+2018,4,Vitória,Fluminense,0,1,Visitante,1,2,2018-05-06 00:00:00,Manoel Barradas - Salvador - BA,0,3,0,3,0,0
+2018,4,Flamengo,Internacional,1,0,Mandante,2,0,2018-05-06 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,3,0,0,0
+2018,4,Athletico Paranaense,Palmeiras,0,0,Empate,1,3,2018-05-06 00:00:00,Arena da Baixada - Curitiba - PR,1,1,0,3,1,-2
+2018,4,Cruzeiro,Botafogo,0,1,Visitante,1,0,2018-05-06 00:00:00,Mineirão - Belo Horizonte - MG,0,3,3,0,-3,3
+2018,4,Grêmio,Santos Fc,0,0,Empate,5,1,2018-05-06 00:00:00,Arena do Grêmio - Porto Alegre - RS,1,1,3,0,-2,1
+2018,4,Sport Recife,Bahia,0,0,Empate,2,0,2018-05-06 00:00:00,Ilha do Retiro - Recife - PE,1,1,3,0,-2,1
+2018,4,Chapecoense,Parana,1,0,Mandante,1,1,2018-05-07 00:00:00,Arena Condá - Chapeco - SC,3,0,1,1,2,-1
+2018,5,Grêmio,Internacional,1,0,Mandante,0,0,2018-05-12 00:00:00,Arena do Grêmio - Porto Alegre - RS,3,0,1,1,2,-1
+2018,5,Cruzeiro,Sport Recife,0,1,Visitante,2,0,2018-05-13 00:00:00,Mineirão - Belo Horizonte - MG,0,3,3,0,-3,3
+2018,5,Vasco da Gama,Vitória,1,0,Mandante,2,3,2018-05-13 00:00:00,São Januário - Rio de Janeiro - RJ,3,0,0,3,3,-3
+2018,5,Chapecoense,Flamengo,0,1,Visitante,3,2,2018-05-13 00:00:00,Arena Condá - Chapeco - SC,0,3,3,0,-3,3
+2018,5,Bahia,São Paulo,0,1,Visitante,2,2,2018-05-13 00:00:00,Arena Fonte Nova - Salvador - BA,0,3,1,1,-1,2
+2018,5,Athletico Paranaense,Atlético Mineiro,0,0,Empate,1,2,2018-05-13 00:00:00,Arena da Baixada - Curitiba - PR,1,1,0,3,1,-2
+2018,5,Corinthians,Palmeiras,0,0,Empate,1,0,2018-05-13 00:00:00,Neo Química Arena - Sao Paulo - SP,1,1,3,0,-2,1
+2018,5,Santos Fc,Parana,1,0,Mandante,3,1,2018-05-13 00:00:00,Vila Belmiro - Santos - SP,3,0,3,0,0,0
+2018,5,Ceará,America,0,1,Visitante,2,2,2018-05-14 00:00:00,Arena Castelão - Fortaleza - CE,0,3,1,1,-1,2
+2018,5,Botafogo,Fluminense,0,0,Empate,2,1,2018-05-14 00:00:00,Nilton Santos - Rio de Janeiro - RJ,1,1,3,0,-2,1
+2018,6,Atlético Mineiro,Cruzeiro,1,0,Mandante,1,0,2018-05-19 00:00:00,Independência - Belo Horizonte - MG,3,0,3,0,0,0
+2018,6,Flamengo,Vasco da Gama,0,0,Empate,1,1,2018-05-19 00:00:00,Maracanã - Rio de Janeiro - RJ,1,1,1,1,0,0
+2018,6,Palmeiras,Bahia,1,0,Mandante,3,0,2018-05-19 00:00:00,Allianz Parque - Sao Paulo - SP,3,0,3,0,0,0
+2018,6,Vitória,Ceará,0,0,Empate,2,1,2018-05-20 00:00:00,Manoel Barradas - Salvador - BA,1,1,3,0,-2,1
+2018,6,Sport Recife,Corinthians,0,1,Visitante,1,1,2018-05-20 00:00:00,Arena Pernambuco - São Lourenço da Mata - PE,0,3,1,1,-1,2
+2018,6,America,Botafogo,0,0,Empate,1,0,2018-05-20 00:00:00,Independência - Belo Horizonte - MG,1,1,3,0,-2,1
+2018,6,São Paulo,Santos Fc,0,0,Empate,1,0,2018-05-20 00:00:00,Morumbi - Sao Paulo - SP,1,1,3,0,-2,1
+2018,6,Parana,Grêmio,0,1,Visitante,0,0,2018-05-20 00:00:00,Durival Britto - Curitiba - PR,0,3,1,1,-1,2
+2018,6,Fluminense,Athletico Paranaense,0,0,Empate,2,0,2018-05-20 00:00:00,Maracanã - Rio de Janeiro - RJ,1,1,3,0,-2,1
+2018,6,Internacional,Chapecoense,0,0,Empate,3,0,2018-05-21 00:00:00,Beira-Rio - Porto Alegre - RS,1,1,3,0,-2,1
+2018,7,Fluminense,Chapecoense,1,0,Mandante,3,1,2018-05-26 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,3,0,0,0
+2018,7,Palmeiras,Sport Recife,1,0,Mandante,2,3,2018-05-26 00:00:00,Allianz Parque - Sao Paulo - SP,3,0,0,3,3,-3
+2018,7,Atlético Mineiro,Flamengo,0,0,Empate,0,1,2018-05-26 00:00:00,Independência - Belo Horizonte - MG,1,1,0,3,1,-2
+2018,7,Parana,Athletico Paranaense,0,1,Visitante,0,0,2018-05-27 00:00:00,Durival Britto - Curitiba - PR,0,3,1,1,-1,2
+2018,7,Santos Fc,Cruzeiro,0,0,Empate,0,1,2018-05-27 00:00:00,Pacaembu - Sao Paulo - SP,1,1,0,3,1,-2
+2018,7,Internacional,Corinthians,0,1,Visitante,2,1,2018-05-27 00:00:00,Beira-Rio - Porto Alegre - RS,0,3,3,0,-3,3
+2018,7,Bahia,Vasco da Gama,0,1,Visitante,3,0,2018-05-27 00:00:00,Arena Fonte Nova - Salvador - BA,0,3,3,0,-3,3
+2018,7,Botafogo,Vitória,0,0,Empate,1,1,2018-05-27 00:00:00,Nilton Santos - Rio de Janeiro - RJ,1,1,1,1,0,0
+2018,7,America,São Paulo,0,0,Empate,1,3,2018-05-27 00:00:00,Independência - Belo Horizonte - MG,1,1,0,3,1,-2
+2018,7,Ceará,Grêmio,0,1,Visitante,0,1,2018-05-27 00:00:00,Arena Castelão - Fortaleza - CE,0,3,0,3,0,0
+2018,8,Vasco da Gama,Parana,1,0,Mandante,1,0,2018-05-30 00:00:00,São Januário - Rio de Janeiro - RJ,3,0,3,0,0,0
+2018,8,Vitória,Internacional,0,1,Visitante,2,3,2018-05-30 00:00:00,Manoel Barradas - Salvador - BA,0,3,0,3,0,0
+2018,8,Sport Recife,Atlético Mineiro,0,0,Empate,3,2,2018-05-30 00:00:00,Ilha do Retiro - Recife - PE,1,1,3,0,-2,1
+2018,8,São Paulo,Botafogo,1,0,Mandante,3,2,2018-05-30 00:00:00,Morumbi - Sao Paulo - SP,3,0,3,0,0,0
+2018,8,Chapecoense,Ceará,1,0,Mandante,2,0,2018-05-30 00:00:00,Arena Condá - Chapeco - SC,3,0,3,0,0,0
+2018,8,Cruzeiro,Palmeiras,0,0,Empate,1,0,2018-05-30 00:00:00,Mineirão - Belo Horizonte - MG,1,1,3,0,-2,1
+2018,8,Grêmio,Fluminense,0,0,Empate,0,0,2018-05-30 00:00:00,Arena do Grêmio - Porto Alegre - RS,1,1,1,1,0,0
+2018,8,Flamengo,Bahia,1,0,Mandante,2,0,2018-05-31 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,3,0,0,0
+2018,8,Corinthians,America,0,0,Empate,1,0,2018-05-31 00:00:00,Neo Química Arena - Sao Paulo - SP,1,1,3,0,-2,1
+2018,8,Athletico Paranaense,Santos Fc,0,0,Empate,2,0,2018-05-31 00:00:00,Arena da Baixada - Curitiba - PR,1,1,3,0,-2,1
+2018,9,Atlético Mineiro,Chapecoense,1,0,Mandante,3,3,2018-06-02 00:00:00,Independência - Belo Horizonte - MG,3,0,1,1,2,-1
+2018,9,Internacional,Sport Recife,0,0,Empate,0,0,2018-06-02 00:00:00,Beira-Rio - Porto Alegre - RS,1,1,1,1,0,0
+2018,9,Vasco da Gama,Botafogo,1,0,Mandante,1,2,2018-06-02 00:00:00,São Januário - Rio de Janeiro - RJ,3,0,0,3,3,-3
+2018,9,Palmeiras,São Paulo,0,1,Visitante,3,1,2018-06-02 00:00:00,Allianz Parque - Sao Paulo - SP,0,3,3,0,-3,3
+2018,9,America,Athletico Paranaense,0,0,Empate,3,1,2018-06-03 00:00:00,Independência - Belo Horizonte - MG,1,1,3,0,-2,1
+2018,9,Santos Fc,Vitória,0,1,Visitante,5,2,2018-06-03 00:00:00,Vila Belmiro - Santos - SP,0,3,3,0,-3,3
+2018,9,Bahia,Grêmio,0,1,Visitante,0,2,2018-06-03 00:00:00,Arena Fonte Nova - Salvador - BA,0,3,0,3,0,0
+2018,9,Flamengo,Corinthians,1,0,Mandante,1,0,2018-06-03 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,3,0,0,0
+2018,9,Ceará,Cruzeiro,0,1,Visitante,0,1,2018-06-03 00:00:00,Arena Castelão - Fortaleza - CE,0,3,0,3,0,0
+2018,9,Parana,Fluminense,0,1,Visitante,2,1,2018-06-04 00:00:00,Durival Britto - Curitiba - PR,0,3,3,0,-3,3
+2018,10,São Paulo,Internacional,0,0,Empate,0,0,2018-06-05 00:00:00,Morumbi - Sao Paulo - SP,1,1,1,1,0,0
+2018,10,Botafogo,Ceará,1,0,Mandante,0,0,2018-06-06 00:00:00,Nilton Santos - Rio de Janeiro - RJ,3,0,1,1,2,-1
+2018,10,Vitória,Chapecoense,0,1,Visitante,1,0,2018-06-06 00:00:00,Manoel Barradas - Salvador - BA,0,3,3,0,-3,3
+2018,10,Sport Recife,Athletico Paranaense,1,0,Mandante,1,0,2018-06-06 00:00:00,Ilha do Retiro - Recife - PE,3,0,3,0,0,0
+2018,10,Corinthians,Santos Fc,1,0,Mandante,1,1,2018-06-06 00:00:00,Neo Química Arena - Sao Paulo - SP,3,0,1,1,2,-1
+2018,10,Cruzeiro,Vasco da Gama,1,0,Mandante,1,1,2018-06-06 00:00:00,Mineirão - Belo Horizonte - MG,3,0,1,1,2,-1
+2018,10,Grêmio,Palmeiras,1,0,Mandante,0,2,2018-06-06 00:00:00,Arena do Grêmio - Porto Alegre - RS,3,0,0,3,3,-3
+2018,10,Fluminense,Flamengo,0,1,Visitante,0,2,2018-06-07 00:00:00,Mané Garrincha - Brasilia - DF,0,3,0,3,0,0
+2018,10,Parana,Bahia,0,0,Empate,1,0,2018-06-07 00:00:00,Durival Britto - Curitiba - PR,1,1,3,0,-2,1
+2018,10,America,Atlético Mineiro,0,0,Empate,1,3,2018-06-07 00:00:00,Independência - Belo Horizonte - MG,1,1,0,3,1,-2
+2018,11,Athletico Paranaense,São Paulo,0,1,Visitante,0,1,2018-06-09 00:00:00,Arena da Baixada - Curitiba - PR,0,3,0,3,0,0
+2018,11,Chapecoense,Cruzeiro,0,1,Visitante,2,0,2018-06-09 00:00:00,Arena Condá - Chapeco - SC,0,3,3,0,-3,3
+2018,11,Vasco da Gama,Sport Recife,0,1,Visitante,3,2,2018-06-09 00:00:00,São Januário - Rio de Janeiro - RJ,0,3,3,0,-3,3
+2018,11,Corinthians,Vitória,1,0,Mandante,0,0,2018-06-09 00:00:00,Neo Química Arena - Sao Paulo - SP,3,0,1,1,2,-1
+2018,11,Bahia,Botafogo,0,1,Visitante,3,3,2018-06-10 00:00:00,Arena Fonte Nova - Salvador - BA,0,3,1,1,-1,2
+2018,11,Atlético Mineiro,Fluminense,1,0,Mandante,5,2,2018-06-10 00:00:00,Independência - Belo Horizonte - MG,3,0,3,0,0,0
+2018,11,Ceará,Palmeiras,0,1,Visitante,2,2,2018-06-10 00:00:00,Arena Castelão - Fortaleza - CE,0,3,1,1,-1,2
+2018,11,Grêmio,America,1,0,Mandante,1,0,2018-06-10 00:00:00,Arena do Grêmio - Porto Alegre - RS,3,0,3,0,0,0
+2018,11,Santos Fc,Internacional,0,1,Visitante,1,2,2018-06-10 00:00:00,Vila Belmiro - Santos - SP,0,3,0,3,0,0
+2018,11,Flamengo,Parana,1,0,Mandante,2,0,2018-06-10 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,3,0,0,0
+2018,12,São Paulo,Vitória,1,0,Mandante,3,0,2018-06-12 00:00:00,Morumbi - Sao Paulo - SP,3,0,3,0,0,0
+2018,12,America,Chapecoense,0,0,Empate,0,0,2018-06-13 00:00:00,Independência - Belo Horizonte - MG,1,1,1,1,0,0
+2018,12,Fluminense,Santos Fc,1,0,Mandante,0,1,2018-06-13 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,0,3,3,-3
+2018,12,Sport Recife,Grêmio,0,0,Empate,0,0,2018-06-13 00:00:00,Ilha do Retiro - Recife - PE,1,1,1,1,0,0
+2018,12,Parana,Cruzeiro,0,1,Visitante,1,1,2018-06-13 00:00:00,Durival Britto - Curitiba - PR,0,3,1,1,-1,2
+2018,12,Palmeiras,Flamengo,0,1,Visitante,1,1,2018-06-13 00:00:00,Allianz Parque - Sao Paulo - SP,0,3,1,1,-1,2
+2018,12,Botafogo,Athletico Paranaense,1,0,Mandante,2,0,2018-06-13 00:00:00,Nilton Santos - Rio de Janeiro - RJ,3,0,3,0,0,0
+2018,12,Atlético Mineiro,Ceará,1,0,Mandante,2,1,2018-06-13 00:00:00,Independência - Belo Horizonte - MG,3,0,3,0,0,0
+2018,12,Internacional,Vasco da Gama,1,0,Mandante,3,1,2018-06-13 00:00:00,Beira-Rio - Porto Alegre - RS,3,0,3,0,0,0
+2018,12,Bahia,Corinthians,0,1,Visitante,1,0,2018-06-13 00:00:00,Arena Fonte Nova - Salvador - BA,0,3,3,0,-3,3
+2018,13,Ceará,Sport Recife,0,1,Visitante,1,0,2018-07-18 00:00:00,Presidente Vargas - Fortaleza - CE,0,3,3,0,-3,3
+2018,13,Vitória,Parana,0,0,Empate,1,0,2018-07-18 00:00:00,Manoel Barradas - Salvador - BA,1,1,3,0,-2,1
+2018,13,Corinthians,Botafogo,0,0,Empate,2,0,2018-07-18 00:00:00,Neo Química Arena - Sao Paulo - SP,1,1,3,0,-2,1
+2018,13,Grêmio,Atlético Mineiro,0,0,Empate,2,0,2018-07-18 00:00:00,Arena do Grêmio - Porto Alegre - RS,1,1,3,0,-2,1
+2018,13,Flamengo,São Paulo,1,0,Mandante,0,1,2018-07-18 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,0,3,3,-3
+2018,13,Cruzeiro,America,1,0,Mandante,3,1,2018-07-19 00:00:00,Mineirão - Belo Horizonte - MG,3,0,3,0,0,0
+2018,13,Chapecoense,Bahia,1,0,Mandante,1,1,2018-07-19 00:00:00,Arena Condá - Chapeco - SC,3,0,1,1,2,-1
+2018,13,Vasco da Gama,Fluminense,1,0,Mandante,1,1,2018-07-19 00:00:00,São Januário - Rio de Janeiro - RJ,3,0,1,1,2,-1
+2018,13,Santos Fc,Palmeiras,0,1,Visitante,1,1,2018-07-19 00:00:00,Pacaembu - Sao Paulo - SP,0,3,1,1,-1,2
+2018,13,Athletico Paranaense,Internacional,0,1,Visitante,2,2,2018-07-19 00:00:00,Arena da Baixada - Curitiba - PR,0,3,1,1,-1,2
+2018,14,Flamengo,Botafogo,1,0,Mandante,2,0,2018-07-21 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,3,0,0,0
+2018,14,São Paulo,Corinthians,1,0,Mandante,3,1,2018-07-21 00:00:00,Morumbi - Sao Paulo - SP,3,0,3,0,0,0
+2018,14,Palmeiras,Atlético Mineiro,0,0,Empate,3,2,2018-07-22 00:00:00,Allianz Parque - Sao Paulo - SP,1,1,3,0,-2,1
+2018,14,Bahia,Vitória,0,0,Empate,4,1,2018-07-22 00:00:00,Arena Fonte Nova - Salvador - BA,1,1,3,0,-2,1
+2018,14,Sport Recife,Fluminense,1,0,Mandante,1,2,2018-07-22 00:00:00,Ilha do Retiro - Recife - PE,3,0,0,3,3,-3
+2018,14,Parana,America,0,0,Empate,1,0,2018-07-22 00:00:00,Durival Britto - Curitiba - PR,1,1,3,0,-2,1
+2018,14,Vasco da Gama,Grêmio,0,1,Visitante,1,0,2018-07-22 00:00:00,São Januário - Rio de Janeiro - RJ,0,3,3,0,-3,3
+2018,14,Cruzeiro,Athletico Paranaense,1,0,Mandante,2,1,2018-07-22 00:00:00,Mineirão - Belo Horizonte - MG,3,0,3,0,0,0
+2018,14,Chapecoense,Santos Fc,0,0,Empate,0,0,2018-07-22 00:00:00,Arena Condá - Chapeco - SC,1,1,1,1,0,0
+2018,14,Internacional,Ceará,1,0,Mandante,1,0,2018-07-23 00:00:00,Beira-Rio - Porto Alegre - RS,3,0,3,0,0,0
+2018,15,Fluminense,Palmeiras,0,1,Visitante,1,0,2018-07-25 00:00:00,Maracanã - Rio de Janeiro - RJ,0,3,3,0,-3,3
+2018,15,Atlético Mineiro,Parana,1,0,Mandante,2,0,2018-07-25 00:00:00,Independência - Belo Horizonte - MG,3,0,3,0,0,0
+2018,15,Corinthians,Cruzeiro,0,1,Visitante,2,0,2018-07-25 00:00:00,Neo Química Arena - Sao Paulo - SP,0,3,3,0,-3,3
+2018,15,Santos Fc,Flamengo,0,1,Visitante,1,1,2018-07-25 00:00:00,Vila Belmiro - Santos - SP,0,3,1,1,-1,2
+2018,15,Botafogo,Chapecoense,0,0,Empate,1,0,2018-07-26 00:00:00,Nilton Santos - Rio de Janeiro - RJ,1,1,3,0,-2,1
+2018,15,Vitória,Sport Recife,0,1,Visitante,1,0,2018-07-26 00:00:00,Manoel Barradas - Salvador - BA,0,3,3,0,-3,3
+2018,15,Grêmio,São Paulo,0,1,Visitante,2,1,2018-07-26 00:00:00,Arena do Grêmio - Porto Alegre - RS,0,3,3,0,-3,3
+2018,15,America,Internacional,0,1,Visitante,2,1,2018-07-26 00:00:00,Independência - Belo Horizonte - MG,0,3,3,0,-3,3
+2018,15,Athletico Paranaense,Vasco da Gama,0,1,Visitante,1,0,2018-08-29 00:00:00,Arena da Baixada - Curitiba - PR,0,3,3,0,-3,3
+2018,15,Ceará,Bahia,0,1,Visitante,0,2,2018-08-29 00:00:00,Presidente Vargas - Fortaleza - CE,0,3,0,3,0,0
+2018,16,Ceará,Fluminense,0,1,Visitante,1,0,2018-07-28 00:00:00,Presidente Vargas - Fortaleza - CE,0,3,3,0,-3,3
+2018,16,Vasco da Gama,Corinthians,0,0,Empate,1,4,2018-07-29 00:00:00,Mané Garrincha - Brasilia - DF,1,1,0,3,1,-2
+2018,16,Palmeiras,Parana,1,0,Mandante,3,0,2018-07-29 00:00:00,Allianz Parque - Sao Paulo - SP,3,0,3,0,0,0
+2018,16,Internacional,Botafogo,1,0,Mandante,3,0,2018-07-29 00:00:00,Beira-Rio - Porto Alegre - RS,3,0,3,0,0,0
+2018,16,Athletico Paranaense,Vitória,0,1,Visitante,4,0,2018-07-29 00:00:00,Arena da Baixada - Curitiba - PR,0,3,3,0,-3,3
+2018,16,Flamengo,Sport Recife,1,0,Mandante,4,1,2018-07-29 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,3,0,0,0
+2018,16,Cruzeiro,São Paulo,0,1,Visitante,0,2,2018-07-29 00:00:00,Mineirão - Belo Horizonte - MG,0,3,0,3,0,0
+2018,16,Chapecoense,Grêmio,0,1,Visitante,1,1,2018-07-29 00:00:00,Arena Condá - Chapeco - SC,0,3,1,1,-1,2
+2018,16,Santos Fc,America,0,0,Empate,0,1,2018-07-29 00:00:00,Vila Belmiro - Santos - SP,1,1,0,3,1,-2
+2018,16,Bahia,Atlético Mineiro,0,1,Visitante,2,2,2018-07-30 00:00:00,Arena Fonte Nova - Salvador - BA,0,3,1,1,-1,2
+2018,17,Botafogo,Santos Fc,0,0,Empate,0,0,2018-08-04 00:00:00,Nilton Santos - Rio de Janeiro - RJ,1,1,1,1,0,0
+2018,17,Grêmio,Flamengo,0,1,Visitante,2,0,2018-08-04 00:00:00,Arena do Grêmio - Porto Alegre - RS,0,3,3,0,-3,3
+2018,17,Corinthians,Athletico Paranaense,1,0,Mandante,0,0,2018-08-04 00:00:00,Neo Química Arena - Sao Paulo - SP,3,0,1,1,2,-1
+2018,17,Parana,Ceará,0,0,Empate,0,1,2018-08-05 00:00:00,Durival Britto - Curitiba - PR,1,1,0,3,1,-2
+2018,17,America,Palmeiras,0,1,Visitante,0,0,2018-08-05 00:00:00,Independência - Belo Horizonte - MG,0,3,1,1,-1,2
+2018,17,São Paulo,Vasco da Gama,1,0,Mandante,2,1,2018-08-05 00:00:00,Morumbi - Sao Paulo - SP,3,0,3,0,0,0
+2018,17,Vitória,Cruzeiro,0,1,Visitante,1,1,2018-08-05 00:00:00,Manoel Barradas - Salvador - BA,0,3,1,1,-1,2
+2018,17,Fluminense,Bahia,0,0,Empate,1,1,2018-08-05 00:00:00,Maracanã - Rio de Janeiro - RJ,1,1,1,1,0,0
+2018,17,Sport Recife,Chapecoense,0,0,Empate,1,1,2018-08-05 00:00:00,Ilha do Retiro - Recife - PE,1,1,1,1,0,0
+2018,17,Atlético Mineiro,Internacional,0,1,Visitante,0,1,2018-08-06 00:00:00,Independência - Belo Horizonte - MG,0,3,0,3,0,0
+2018,18,Ceará,Athletico Paranaense,0,0,Empate,0,0,2018-08-11 00:00:00,Presidente Vargas - Fortaleza - CE,1,1,1,1,0,0
+2018,18,Bahia,America,0,0,Empate,1,0,2018-08-11 00:00:00,Arena Fonte Nova - Salvador - BA,1,1,3,0,-2,1
+2018,18,Parana,Botafogo,0,1,Visitante,1,1,2018-08-12 00:00:00,Durival Britto - Curitiba - PR,0,3,1,1,-1,2
+2018,18,Atlético Mineiro,Santos Fc,1,0,Mandante,3,1,2018-08-12 00:00:00,Independência - Belo Horizonte - MG,3,0,3,0,0,0
+2018,18,Chapecoense,Corinthians,0,1,Visitante,2,1,2018-08-12 00:00:00,Arena Condá - Chapeco - SC,0,3,3,0,-3,3
+2018,18,Sport Recife,São Paulo,0,1,Visitante,1,3,2018-08-12 00:00:00,Ilha do Retiro - Recife - PE,0,3,0,3,0,0
+2018,18,Flamengo,Cruzeiro,1,0,Mandante,1,0,2018-08-12 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,3,0,0,0
+2018,18,Palmeiras,Vasco da Gama,1,0,Mandante,1,0,2018-08-12 00:00:00,Allianz Parque - Sao Paulo - SP,3,0,3,0,0,0
+2018,18,Grêmio,Vitória,1,0,Mandante,4,0,2018-08-12 00:00:00,Arena do Grêmio - Porto Alegre - RS,3,0,3,0,0,0
+2018,18,Fluminense,Internacional,0,1,Visitante,0,3,2018-08-13 00:00:00,Maracanã - Rio de Janeiro - RJ,0,3,0,3,0,0
+2018,19,Santos Fc,Sport Recife,0,0,Empate,3,0,2018-08-18 00:00:00,Vila Belmiro - Santos - SP,1,1,3,0,-2,1
+2018,19,Corinthians,Grêmio,0,1,Visitante,0,1,2018-08-18 00:00:00,Neo Química Arena - Sao Paulo - SP,0,3,0,3,0,0
+2018,19,Athletico Paranaense,Flamengo,0,1,Visitante,3,0,2018-08-19 00:00:00,Arena da Baixada - Curitiba - PR,0,3,3,0,-3,3
+2018,19,Internacional,Parana,1,0,Mandante,1,0,2018-08-19 00:00:00,Beira-Rio - Porto Alegre - RS,3,0,3,0,0,0
+2018,19,Vitória,Palmeiras,0,1,Visitante,0,3,2018-08-19 00:00:00,Manoel Barradas - Salvador - BA,0,3,0,3,0,0
+2018,19,Botafogo,Atlético Mineiro,0,1,Visitante,0,3,2018-08-19 00:00:00,Nilton Santos - Rio de Janeiro - RJ,0,3,0,3,0,0
+2018,19,Cruzeiro,Bahia,0,1,Visitante,1,1,2018-08-19 00:00:00,Mineirão - Belo Horizonte - MG,0,3,1,1,-1,2
+2018,19,São Paulo,Chapecoense,1,0,Mandante,2,0,2018-08-19 00:00:00,Morumbi - Sao Paulo - SP,3,0,3,0,0,0
+2018,19,America,Fluminense,0,0,Empate,0,0,2018-08-19 00:00:00,Independência - Belo Horizonte - MG,1,1,1,1,0,0
+2018,19,Vasco da Gama,Ceará,0,0,Empate,1,1,2018-08-20 00:00:00,São Januário - Rio de Janeiro - RJ,1,1,1,1,0,0
+2018,20,Ceará,Santos Fc,0,0,Empate,1,1,2018-08-08 00:00:00,Presidente Vargas - Fortaleza - CE,1,1,1,1,0,0
+2018,20,Parana,São Paulo,0,1,Visitante,1,1,2018-08-22 00:00:00,Durival Britto - Curitiba - PR,0,3,1,1,-1,2
+2018,20,Bahia,Internacional,0,1,Visitante,0,1,2018-08-22 00:00:00,Arena Fonte Nova - Salvador - BA,0,3,0,3,0,0
+2018,20,Sport Recife,America,0,1,Visitante,0,2,2018-08-22 00:00:00,Ilha do Retiro - Recife - PE,0,3,0,3,0,0
+2018,20,Palmeiras,Botafogo,1,0,Mandante,2,0,2018-08-22 00:00:00,Allianz Parque - Sao Paulo - SP,3,0,3,0,0,0
+2018,20,Fluminense,Corinthians,0,1,Visitante,1,0,2018-08-22 00:00:00,Maracanã - Rio de Janeiro - RJ,0,3,3,0,-3,3
+2018,20,Grêmio,Cruzeiro,1,0,Mandante,1,1,2018-08-22 00:00:00,Arena do Grêmio - Porto Alegre - RS,3,0,1,1,2,-1
+2018,20,Flamengo,Vitória,1,0,Mandante,1,0,2018-08-23 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,3,0,0,0
+2018,20,Atlético Mineiro,Vasco da Gama,1,0,Mandante,0,0,2018-08-23 00:00:00,Independência - Belo Horizonte - MG,3,0,1,1,2,-1
+2018,20,Chapecoense,Athletico Paranaense,0,0,Empate,2,1,2018-09-13 00:00:00,Arena Condá - Chapeco - SC,1,1,3,0,-2,1
+2018,21,Santos Fc,Bahia,0,1,Visitante,2,0,2018-08-25 00:00:00,Vila Belmiro - Santos - SP,0,3,3,0,-3,3
+2018,21,Athletico Paranaense,Grêmio,0,1,Visitante,2,1,2018-08-25 00:00:00,Arena da Baixada - Curitiba - PR,0,3,3,0,-3,3
+2018,21,Corinthians,Parana,1,0,Mandante,1,0,2018-08-25 00:00:00,Neo Química Arena - Sao Paulo - SP,3,0,3,0,0,0
+2018,21,Cruzeiro,Fluminense,0,0,Empate,2,1,2018-08-25 00:00:00,Mineirão - Belo Horizonte - MG,1,1,3,0,-2,1
+2018,21,Botafogo,Sport Recife,1,0,Mandante,2,0,2018-08-25 00:00:00,Nilton Santos - Rio de Janeiro - RJ,3,0,3,0,0,0
+2018,21,São Paulo,Ceará,1,0,Mandante,1,0,2018-08-26 00:00:00,Morumbi - Sao Paulo - SP,3,0,3,0,0,0
+2018,21,Vitória,Atlético Mineiro,0,1,Visitante,1,0,2018-08-26 00:00:00,Manoel Barradas - Salvador - BA,0,3,3,0,-3,3
+2018,21,America,Flamengo,0,1,Visitante,2,2,2018-08-26 00:00:00,Independência - Belo Horizonte - MG,0,3,1,1,-1,2
+2018,21,Internacional,Palmeiras,1,0,Mandante,0,0,2018-08-26 00:00:00,Beira-Rio - Porto Alegre - RS,3,0,1,1,2,-1
+2018,21,Vasco da Gama,Chapecoense,0,1,Visitante,3,1,2018-08-26 00:00:00,São Januário - Rio de Janeiro - RJ,0,3,3,0,-3,3
+2018,22,Grêmio,Botafogo,1,0,Mandante,4,0,2018-09-01 00:00:00,Arena do Grêmio - Porto Alegre - RS,3,0,3,0,0,0
+2018,22,Vitória,America,0,1,Visitante,1,0,2018-09-01 00:00:00,Manoel Barradas - Salvador - BA,0,3,3,0,-3,3
+2018,22,Vasco da Gama,Santos Fc,0,0,Empate,0,3,2018-09-01 00:00:00,Maracanã - Rio de Janeiro - RJ,1,1,0,3,1,-2
+2018,22,Corinthians,Atlético Mineiro,0,1,Visitante,1,1,2018-09-01 00:00:00,Neo Química Arena - Sao Paulo - SP,0,3,1,1,-1,2
+2018,22,Flamengo,Ceará,1,0,Mandante,0,1,2018-09-02 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,0,3,3,-3
+2018,22,São Paulo,Fluminense,1,0,Mandante,1,1,2018-09-02 00:00:00,Morumbi - Sao Paulo - SP,3,0,1,1,2,-1
+2018,22,Sport Recife,Parana,0,0,Empate,1,0,2018-09-02 00:00:00,Ilha do Retiro - Recife - PE,1,1,3,0,-2,1
+2018,22,Athletico Paranaense,Bahia,0,0,Empate,2,0,2018-09-02 00:00:00,Arena da Baixada - Curitiba - PR,1,1,3,0,-2,1
+2018,22,Chapecoense,Palmeiras,0,1,Visitante,1,2,2018-09-02 00:00:00,Arena Condá - Chapeco - SC,0,3,0,3,0,0
+2018,22,Cruzeiro,Internacional,0,1,Visitante,0,0,2018-09-02 00:00:00,Mineirão - Belo Horizonte - MG,0,3,1,1,-1,2
+2018,23,Botafogo,Cruzeiro,0,1,Visitante,1,1,2018-09-05 00:00:00,Nilton Santos - Rio de Janeiro - RJ,0,3,1,1,-1,2
+2018,23,Bahia,Sport Recife,1,0,Mandante,2,0,2018-09-05 00:00:00,Arena Fonte Nova - Salvador - BA,3,0,3,0,0,0
+2018,23,Ceará,Corinthians,0,1,Visitante,2,1,2018-09-05 00:00:00,Arena Castelão - Fortaleza - CE,0,3,3,0,-3,3
+2018,23,Palmeiras,Athletico Paranaense,1,0,Mandante,2,0,2018-09-05 00:00:00,Allianz Parque - Sao Paulo - SP,3,0,3,0,0,0
+2018,23,Parana,Chapecoense,0,1,Visitante,1,1,2018-09-05 00:00:00,Durival Britto - Curitiba - PR,0,3,1,1,-1,2
+2018,23,Atlético Mineiro,São Paulo,0,1,Visitante,1,0,2018-09-05 00:00:00,Independência - Belo Horizonte - MG,0,3,3,0,-3,3
+2018,23,Internacional,Flamengo,1,0,Mandante,2,1,2018-09-05 00:00:00,Beira-Rio - Porto Alegre - RS,3,0,3,0,0,0
+2018,23,Fluminense,Vitória,0,0,Empate,0,0,2018-09-06 00:00:00,Maracanã - Rio de Janeiro - RJ,1,1,1,1,0,0
+2018,23,Santos Fc,Grêmio,0,1,Visitante,0,0,2018-09-06 00:00:00,Pacaembu - Sao Paulo - SP,0,3,1,1,-1,2
+2018,23,America,Vasco da Gama,0,0,Empate,2,1,2018-09-06 00:00:00,Independência - Belo Horizonte - MG,1,1,3,0,-2,1
+2018,24,Sport Recife,Cruzeiro,0,1,Visitante,0,0,2018-09-08 00:00:00,Ilha do Retiro - Recife - PE,0,3,1,1,-1,2
+2018,24,São Paulo,Bahia,1,0,Mandante,1,0,2018-09-08 00:00:00,Morumbi - Sao Paulo - SP,3,0,3,0,0,0
+2018,24,Flamengo,Chapecoense,1,0,Mandante,2,0,2018-09-08 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,3,0,0,0
+2018,24,Fluminense,Botafogo,0,0,Empate,1,0,2018-09-09 00:00:00,Maracanã - Rio de Janeiro - RJ,1,1,3,0,-2,1
+2018,24,Palmeiras,Corinthians,1,0,Mandante,1,0,2018-09-09 00:00:00,Allianz Parque - Sao Paulo - SP,3,0,3,0,0,0
+2018,24,Internacional,Grêmio,1,0,Mandante,1,0,2018-09-09 00:00:00,Beira-Rio - Porto Alegre - RS,3,0,3,0,0,0
+2018,24,America,Ceará,0,0,Empate,0,0,2018-09-09 00:00:00,Independência - Belo Horizonte - MG,1,1,1,1,0,0
+2018,24,Vitória,Vasco da Gama,1,0,Mandante,1,0,2018-09-09 00:00:00,Manoel Barradas - Salvador - BA,3,0,3,0,0,0
+2018,24,Parana,Santos Fc,0,1,Visitante,0,2,2018-09-09 00:00:00,Durival Britto - Curitiba - PR,0,3,0,3,0,0
+2018,24,Atlético Mineiro,Athletico Paranaense,1,0,Mandante,3,1,2018-09-10 00:00:00,Independência - Belo Horizonte - MG,3,0,3,0,0,0
+2018,25,Ceará,Vitória,0,0,Empate,2,0,2018-09-15 00:00:00,Arena Castelão - Fortaleza - CE,1,1,3,0,-2,1
+2018,25,Grêmio,Parana,1,0,Mandante,2,0,2018-09-15 00:00:00,Arena do Grêmio - Porto Alegre - RS,3,0,3,0,0,0
+2018,25,Vasco da Gama,Flamengo,0,1,Visitante,1,1,2018-09-15 00:00:00,Mané Garrincha - Brasilia - DF,0,3,1,1,-1,2
+2018,25,Botafogo,America,0,1,Visitante,1,0,2018-09-16 00:00:00,Nilton Santos - Rio de Janeiro - RJ,0,3,3,0,-3,3
+2018,25,Bahia,Palmeiras,0,1,Visitante,1,1,2018-09-16 00:00:00,Arena Fonte Nova - Salvador - BA,0,3,1,1,-1,2
+2018,25,Athletico Paranaense,Fluminense,0,0,Empate,3,1,2018-09-16 00:00:00,Arena da Baixada - Curitiba - PR,1,1,3,0,-2,1
+2018,25,Cruzeiro,Atlético Mineiro,0,1,Visitante,0,0,2018-09-16 00:00:00,Mineirão - Belo Horizonte - MG,0,3,1,1,-1,2
+2018,25,Santos Fc,São Paulo,0,1,Visitante,0,0,2018-09-16 00:00:00,Vila Belmiro - Santos - SP,0,3,1,1,-1,2
+2018,25,Corinthians,Sport Recife,1,0,Mandante,2,1,2018-09-16 00:00:00,Neo Química Arena - Sao Paulo - SP,3,0,3,0,0,0
+2018,25,Chapecoense,Internacional,0,1,Visitante,2,1,2018-09-17 00:00:00,Arena Condá - Chapeco - SC,0,3,3,0,-3,3
+2018,26,São Paulo,America,1,0,Mandante,1,1,2018-09-22 00:00:00,Morumbi - Sao Paulo - SP,3,0,1,1,2,-1
+2018,26,Grêmio,Ceará,1,0,Mandante,3,2,2018-09-23 00:00:00,Arena do Grêmio - Porto Alegre - RS,3,0,3,0,0,0
+2018,26,Athletico Paranaense,Parana,1,0,Mandante,3,0,2018-09-23 00:00:00,Arena da Baixada - Curitiba - PR,3,0,3,0,0,0
+2018,26,Flamengo,Atlético Mineiro,0,0,Empate,2,1,2018-09-23 00:00:00,Maracanã - Rio de Janeiro - RJ,1,1,3,0,-2,1
+2018,26,Corinthians,Internacional,0,1,Visitante,1,1,2018-09-23 00:00:00,Neo Química Arena - Sao Paulo - SP,0,3,1,1,-1,2
+2018,26,Vitória,Botafogo,0,0,Empate,3,4,2018-09-23 00:00:00,Manoel Barradas - Salvador - BA,1,1,0,3,1,-2
+2018,26,Sport Recife,Palmeiras,0,1,Visitante,0,1,2018-09-23 00:00:00,Ilha do Retiro - Recife - PE,0,3,0,3,0,0
+2018,26,Cruzeiro,Santos Fc,0,0,Empate,2,1,2018-09-23 00:00:00,Mineirão - Belo Horizonte - MG,1,1,3,0,-2,1
+2018,26,Vasco da Gama,Bahia,0,1,Visitante,2,1,2018-09-24 00:00:00,São Januário - Rio de Janeiro - RJ,0,3,3,0,-3,3
+2018,26,Chapecoense,Fluminense,0,0,Empate,1,2,2018-09-24 00:00:00,Arena Condá - Chapeco - SC,1,1,0,3,1,-2
+2018,27,Fluminense,Grêmio,0,1,Visitante,0,1,2018-09-29 00:00:00,Nilton Santos - Rio de Janeiro - RJ,0,3,0,3,0,0
+2018,27,America,Corinthians,0,0,Empate,0,0,2018-09-29 00:00:00,Independência - Belo Horizonte - MG,1,1,1,1,0,0
+2018,27,Bahia,Flamengo,0,1,Visitante,0,0,2018-09-29 00:00:00,Arena Fonte Nova - Salvador - BA,0,3,1,1,-1,2
+2018,27,Palmeiras,Cruzeiro,1,0,Mandante,3,1,2018-09-30 00:00:00,Pacaembu - Sao Paulo - SP,3,0,3,0,0,0
+2018,27,Botafogo,São Paulo,0,1,Visitante,2,2,2018-09-30 00:00:00,Nilton Santos - Rio de Janeiro - RJ,0,3,1,1,-1,2
+2018,27,Atlético Mineiro,Sport Recife,1,0,Mandante,5,2,2018-09-30 00:00:00,Independência - Belo Horizonte - MG,3,0,3,0,0,0
+2018,27,Internacional,Vitória,1,0,Mandante,2,1,2018-09-30 00:00:00,Beira-Rio - Porto Alegre - RS,3,0,3,0,0,0
+2018,27,Santos Fc,Athletico Paranaense,0,0,Empate,1,0,2018-09-30 00:00:00,Vila Belmiro - Santos - SP,1,1,3,0,-2,1
+2018,27,Ceará,Chapecoense,1,0,Mandante,3,1,2018-09-30 00:00:00,Arena Castelão - Fortaleza - CE,3,0,3,0,0,0
+2018,27,Parana,Vasco da Gama,0,1,Visitante,1,1,2018-10-01 00:00:00,Durival Britto - Curitiba - PR,0,3,1,1,-1,2
+2018,28,Sport Recife,Internacional,0,1,Visitante,2,1,2018-10-05 00:00:00,Ilha do Retiro - Recife - PE,0,3,3,0,-3,3
+2018,28,Corinthians,Flamengo,0,1,Visitante,0,3,2018-10-05 00:00:00,Neo Química Arena - Sao Paulo - SP,0,3,0,3,0,0
+2018,28,Vitória,Santos Fc,0,1,Visitante,0,1,2018-10-05 00:00:00,Manoel Barradas - Salvador - BA,0,3,0,3,0,0
+2018,28,Chapecoense,Atlético Mineiro,0,1,Visitante,1,0,2018-10-06 00:00:00,Arena Condá - Chapeco - SC,0,3,3,0,-3,3
+2018,28,Athletico Paranaense,America,0,0,Empate,4,0,2018-10-06 00:00:00,Arena da Baixada - Curitiba - PR,1,1,3,0,-2,1
+2018,28,São Paulo,Palmeiras,0,1,Visitante,0,2,2018-10-06 00:00:00,Morumbi - Sao Paulo - SP,0,3,0,3,0,0
+2018,28,Grêmio,Bahia,1,0,Mandante,2,2,2018-10-06 00:00:00,Arena do Grêmio - Porto Alegre - RS,3,0,1,1,2,-1
+2018,28,Fluminense,Parana,1,0,Mandante,4,0,2018-10-08 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,3,0,0,0
+2018,28,Botafogo,Vasco da Gama,1,0,Mandante,1,1,2018-10-09 00:00:00,Nilton Santos - Rio de Janeiro - RJ,3,0,1,1,2,-1
+2018,28,Cruzeiro,Ceará,0,0,Empate,0,2,2018-10-24 00:00:00,Mineirão - Belo Horizonte - MG,1,1,0,3,1,-2
+2018,29,Flamengo,Fluminense,1,0,Mandante,3,0,2018-10-13 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,3,0,0,0
+2018,29,Santos Fc,Corinthians,1,0,Mandante,1,0,2018-10-13 00:00:00,Pacaembu - Sao Paulo - SP,3,0,3,0,0,0
+2018,29,Bahia,Parana,1,0,Mandante,2,0,2018-10-13 00:00:00,Pituaçu - Salvador - BA,3,0,3,0,0,0
+2018,29,Chapecoense,Vitória,1,0,Mandante,0,1,2018-10-14 00:00:00,Arena Condá - Chapeco - SC,3,0,0,3,3,-3
+2018,29,Vasco da Gama,Cruzeiro,0,1,Visitante,2,0,2018-10-14 00:00:00,São Januário - Rio de Janeiro - RJ,0,3,3,0,-3,3
+2018,29,Palmeiras,Grêmio,1,0,Mandante,2,0,2018-10-14 00:00:00,Pacaembu - Sao Paulo - SP,3,0,3,0,0,0
+2018,29,Internacional,São Paulo,0,0,Empate,3,1,2018-10-14 00:00:00,Beira-Rio - Porto Alegre - RS,1,1,3,0,-2,1
+2018,29,Athletico Paranaense,Sport Recife,1,0,Mandante,4,0,2018-10-14 00:00:00,Arena da Baixada - Curitiba - PR,3,0,3,0,0,0
+2018,29,Atlético Mineiro,America,1,0,Mandante,0,0,2018-10-14 00:00:00,Independência - Belo Horizonte - MG,3,0,1,1,2,-1
+2018,29,Ceará,Botafogo,1,0,Mandante,0,0,2018-10-15 00:00:00,Arena Castelão - Fortaleza - CE,3,0,1,1,2,-1
+2018,30,Botafogo,Bahia,0,0,Empate,0,1,2018-10-20 00:00:00,Nilton Santos - Rio de Janeiro - RJ,1,1,0,3,1,-2
+2018,30,America,Grêmio,0,1,Visitante,1,1,2018-10-20 00:00:00,Independência - Belo Horizonte - MG,0,3,1,1,-1,2
+2018,30,Sport Recife,Vasco da Gama,0,1,Visitante,2,1,2018-10-20 00:00:00,Ilha do Retiro - Recife - PE,0,3,3,0,-3,3
+2018,30,São Paulo,Athletico Paranaense,1,0,Mandante,0,0,2018-10-20 00:00:00,Morumbi - Sao Paulo - SP,3,0,1,1,2,-1
+2018,30,Palmeiras,Ceará,1,0,Mandante,2,1,2018-10-21 00:00:00,Pacaembu - Sao Paulo - SP,3,0,3,0,0,0
+2018,30,Vitória,Corinthians,0,0,Empate,2,2,2018-10-21 00:00:00,Manoel Barradas - Salvador - BA,1,1,1,1,0,0
+2018,30,Fluminense,Atlético Mineiro,0,1,Visitante,1,0,2018-10-21 00:00:00,Nilton Santos - Rio de Janeiro - RJ,0,3,3,0,-3,3
+2018,30,Parana,Flamengo,0,1,Visitante,0,4,2018-10-21 00:00:00,Durival Britto - Curitiba - PR,0,3,0,3,0,0
+2018,30,Cruzeiro,Chapecoense,1,0,Mandante,3,0,2018-10-21 00:00:00,Independência - Belo Horizonte - MG,3,0,3,0,0,0
+2018,30,Internacional,Santos Fc,1,0,Mandante,2,2,2018-10-22 00:00:00,Beira-Rio - Porto Alegre - RS,3,0,1,1,2,-1
+2018,31,Vitória,São Paulo,0,1,Visitante,0,1,2018-10-26 00:00:00,Manoel Barradas - Salvador - BA,0,3,0,3,0,0
+2018,31,Vasco da Gama,Internacional,0,1,Visitante,1,1,2018-10-26 00:00:00,São Januário - Rio de Janeiro - RJ,0,3,1,1,-1,2
+2018,31,Santos Fc,Fluminense,1,0,Mandante,3,0,2018-10-27 00:00:00,Vila Belmiro - Santos - SP,3,0,3,0,0,0
+2018,31,Grêmio,Sport Recife,1,0,Mandante,3,4,2018-10-27 00:00:00,Arena do Grêmio - Porto Alegre - RS,3,0,0,3,3,-3
+2018,31,Corinthians,Bahia,0,1,Visitante,2,1,2018-10-27 00:00:00,Neo Química Arena - Sao Paulo - SP,0,3,3,0,-3,3
+2018,31,Flamengo,Palmeiras,0,1,Visitante,1,1,2018-10-27 00:00:00,Maracanã - Rio de Janeiro - RJ,0,3,1,1,-1,2
+2018,31,Chapecoense,America,0,1,Visitante,1,0,2018-10-27 00:00:00,Arena Condá - Chapeco - SC,0,3,3,0,-3,3
+2018,31,Athletico Paranaense,Botafogo,1,0,Mandante,2,1,2018-10-27 00:00:00,Arena da Baixada - Curitiba - PR,3,0,3,0,0,0
+2018,31,Cruzeiro,Parana,1,0,Mandante,3,1,2018-10-27 00:00:00,Mineirão - Belo Horizonte - MG,3,0,3,0,0,0
+2018,31,Ceará,Atlético Mineiro,0,0,Empate,2,1,2018-10-29 00:00:00,Arena Castelão - Fortaleza - CE,1,1,3,0,-2,1
+2018,32,Fluminense,Vasco da Gama,1,0,Mandante,0,1,2018-11-03 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,0,3,3,-3
+2018,32,Atlético Mineiro,Grêmio,0,1,Visitante,0,1,2018-11-03 00:00:00,Independência - Belo Horizonte - MG,0,3,0,3,0,0
+2018,32,Palmeiras,Santos Fc,1,0,Mandante,3,2,2018-11-03 00:00:00,Allianz Parque - Sao Paulo - SP,3,0,3,0,0,0
+2018,32,São Paulo,Flamengo,0,1,Visitante,2,2,2018-11-04 00:00:00,Morumbi - Sao Paulo - SP,0,3,1,1,-1,2
+2018,32,Botafogo,Corinthians,0,0,Empate,1,0,2018-11-04 00:00:00,Nilton Santos - Rio de Janeiro - RJ,1,1,3,0,-2,1
+2018,32,America,Cruzeiro,0,1,Visitante,1,2,2018-11-04 00:00:00,Independência - Belo Horizonte - MG,0,3,0,3,0,0
+2018,32,Parana,Vitória,0,1,Visitante,1,1,2018-11-04 00:00:00,Durival Britto - Curitiba - PR,0,3,1,1,-1,2
+2018,32,Bahia,Chapecoense,1,0,Mandante,1,0,2018-11-04 00:00:00,Arena Fonte Nova - Salvador - BA,3,0,3,0,0,0
+2018,32,Internacional,Athletico Paranaense,1,0,Mandante,2,1,2018-11-04 00:00:00,Beira-Rio - Porto Alegre - RS,3,0,3,0,0,0
+2018,32,Sport Recife,Ceará,0,1,Visitante,1,0,2018-11-05 00:00:00,Ilha do Retiro - Recife - PE,0,3,3,0,-3,3
+2018,33,Corinthians,São Paulo,0,1,Visitante,1,1,2018-11-10 00:00:00,Neo Química Arena - Sao Paulo - SP,0,3,1,1,-1,2
+2018,33,America,Parana,1,0,Mandante,0,1,2018-11-10 00:00:00,Independência - Belo Horizonte - MG,3,0,0,3,3,-3
+2018,33,Botafogo,Flamengo,0,1,Visitante,2,1,2018-11-10 00:00:00,Nilton Santos - Rio de Janeiro - RJ,0,3,3,0,-3,3
+2018,33,Athletico Paranaense,Cruzeiro,0,0,Empate,2,0,2018-11-10 00:00:00,Arena da Baixada - Curitiba - PR,1,1,3,0,-2,1
+2018,33,Grêmio,Vasco da Gama,1,0,Mandante,2,1,2018-11-11 00:00:00,Arena do Grêmio - Porto Alegre - RS,3,0,3,0,0,0
+2018,33,Vitória,Bahia,0,1,Visitante,2,2,2018-11-11 00:00:00,Manoel Barradas - Salvador - BA,0,3,1,1,-1,2
+2018,33,Atlético Mineiro,Palmeiras,0,1,Visitante,1,1,2018-11-11 00:00:00,Independência - Belo Horizonte - MG,0,3,1,1,-1,2
+2018,33,Ceará,Internacional,0,1,Visitante,1,1,2018-11-11 00:00:00,Arena Castelão - Fortaleza - CE,0,3,1,1,-1,2
+2018,33,Fluminense,Sport Recife,0,0,Empate,0,0,2018-11-11 00:00:00,Maracanã - Rio de Janeiro - RJ,1,1,1,1,0,0
+2018,33,Santos Fc,Chapecoense,1,0,Mandante,0,1,2018-11-12 00:00:00,Pacaembu - Sao Paulo - SP,3,0,0,3,3,-3
+2018,34,Vasco da Gama,Athletico Paranaense,0,1,Visitante,1,1,2018-11-14 00:00:00,São Januário - Rio de Janeiro - RJ,0,3,1,1,-1,2
+2018,34,Parana,Atlético Mineiro,0,1,Visitante,0,1,2018-11-14 00:00:00,Durival Britto - Curitiba - PR,0,3,0,3,0,0
+2018,34,Bahia,Ceará,0,0,Empate,2,1,2018-11-14 00:00:00,Arena Fonte Nova - Salvador - BA,1,1,3,0,-2,1
+2018,34,Palmeiras,Fluminense,1,0,Mandante,3,0,2018-11-14 00:00:00,Allianz Parque - Sao Paulo - SP,3,0,3,0,0,0
+2018,34,Cruzeiro,Corinthians,1,0,Mandante,1,0,2018-11-14 00:00:00,Mineirão - Belo Horizonte - MG,3,0,3,0,0,0
+2018,34,Sport Recife,Vitória,1,0,Mandante,0,0,2018-11-14 00:00:00,Ilha do Retiro - Recife - PE,3,0,1,1,2,-1
+2018,34,Flamengo,Santos Fc,1,0,Mandante,1,0,2018-11-15 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,3,0,0,0
+2018,34,Chapecoense,Botafogo,0,1,Visitante,0,1,2018-11-15 00:00:00,Arena Condá - Chapeco - SC,0,3,0,3,0,0
+2018,34,São Paulo,Grêmio,0,0,Empate,1,1,2018-11-15 00:00:00,Morumbi - Sao Paulo - SP,1,1,1,1,0,0
+2018,34,Internacional,America,1,0,Mandante,2,0,2018-11-15 00:00:00,Beira-Rio - Porto Alegre - RS,3,0,3,0,0,0
+2018,35,Vitória,Athletico Paranaense,0,1,Visitante,1,2,2018-11-17 00:00:00,Manoel Barradas - Salvador - BA,0,3,0,3,0,0
+2018,35,Corinthians,Vasco da Gama,0,0,Empate,1,0,2018-11-17 00:00:00,Neo Química Arena - Sao Paulo - SP,1,1,3,0,-2,1
+2018,35,Atlético Mineiro,Bahia,0,0,Empate,1,0,2018-11-17 00:00:00,Independência - Belo Horizonte - MG,1,1,3,0,-2,1
+2018,35,Sport Recife,Flamengo,0,1,Visitante,0,1,2018-11-18 00:00:00,Ilha do Retiro - Recife - PE,0,3,0,3,0,0
+2018,35,Botafogo,Internacional,0,1,Visitante,1,0,2018-11-18 00:00:00,Nilton Santos - Rio de Janeiro - RJ,0,3,3,0,-3,3
+2018,35,Parana,Palmeiras,0,1,Visitante,1,1,2018-11-18 00:00:00,Do Café - Londrina - PR,0,3,1,1,-1,2
+2018,35,America,Santos Fc,0,1,Visitante,2,1,2018-11-18 00:00:00,Independência - Belo Horizonte - MG,0,3,3,0,-3,3
+2018,35,Grêmio,Chapecoense,1,0,Mandante,2,0,2018-11-18 00:00:00,Arena do Grêmio - Porto Alegre - RS,3,0,3,0,0,0
+2018,35,São Paulo,Cruzeiro,1,0,Mandante,1,0,2018-11-18 00:00:00,Morumbi - Sao Paulo - SP,3,0,3,0,0,0
+2018,35,Fluminense,Ceará,0,1,Visitante,0,0,2018-11-19 00:00:00,Maracanã - Rio de Janeiro - RJ,0,3,1,1,-1,2
+2018,36,Internacional,Atlético Mineiro,1,0,Mandante,1,2,2018-11-21 00:00:00,Beira-Rio - Porto Alegre - RS,3,0,0,3,3,-3
+2018,36,Santos Fc,Botafogo,0,1,Visitante,1,1,2018-11-21 00:00:00,Vila Belmiro - Santos - SP,0,3,1,1,-1,2
+2018,36,Athletico Paranaense,Corinthians,1,0,Mandante,1,0,2018-11-21 00:00:00,Arena da Baixada - Curitiba - PR,3,0,3,0,0,0
+2018,36,Flamengo,Grêmio,0,0,Empate,2,0,2018-11-21 00:00:00,Maracanã - Rio de Janeiro - RJ,1,1,3,0,-2,1
+2018,36,Cruzeiro,Vitória,1,0,Mandante,3,0,2018-11-21 00:00:00,Mineirão - Belo Horizonte - MG,3,0,3,0,0,0
+2018,36,Palmeiras,America,1,0,Mandante,4,0,2018-11-21 00:00:00,Allianz Parque - Sao Paulo - SP,3,0,3,0,0,0
+2018,36,Vasco da Gama,São Paulo,0,1,Visitante,2,0,2018-11-22 00:00:00,São Januário - Rio de Janeiro - RJ,0,3,3,0,-3,3
+2018,36,Bahia,Fluminense,1,0,Mandante,2,0,2018-11-22 00:00:00,Arena Fonte Nova - Salvador - BA,3,0,3,0,0,0
+2018,36,Chapecoense,Sport Recife,0,0,Empate,2,1,2018-11-22 00:00:00,Arena Condá - Chapeco - SC,1,1,3,0,-2,1
+2018,36,Ceará,Parana,1,0,Mandante,1,0,2018-11-22 00:00:00,Arena Castelão - Fortaleza - CE,3,0,3,0,0,0
+2018,37,Santos Fc,Atlético Mineiro,0,1,Visitante,3,2,2018-11-24 00:00:00,Vila Belmiro - Santos - SP,0,3,3,0,-3,3
+2018,37,Athletico Paranaense,Ceará,1,0,Mandante,2,2,2018-11-25 00:00:00,Arena da Baixada - Curitiba - PR,3,0,1,1,2,-1
+2018,37,Vasco da Gama,Palmeiras,0,1,Visitante,0,1,2018-11-25 00:00:00,São Januário - Rio de Janeiro - RJ,0,3,0,3,0,0
+2018,37,Cruzeiro,Flamengo,0,1,Visitante,0,2,2018-11-25 00:00:00,Mineirão - Belo Horizonte - MG,0,3,0,3,0,0
+2018,37,Vitória,Grêmio,0,1,Visitante,0,0,2018-11-25 00:00:00,Manoel Barradas - Salvador - BA,0,3,1,1,-1,2
+2018,37,Corinthians,Chapecoense,0,0,Empate,0,0,2018-11-25 00:00:00,Neo Química Arena - Sao Paulo - SP,1,1,1,1,0,0
+2018,37,America,Bahia,0,1,Visitante,1,0,2018-11-25 00:00:00,Independência - Belo Horizonte - MG,0,3,3,0,-3,3
+2018,37,Internacional,Fluminense,1,0,Mandante,2,0,2018-11-25 00:00:00,Beira-Rio - Porto Alegre - RS,3,0,3,0,0,0
+2018,37,Botafogo,Parana,1,0,Mandante,2,1,2018-11-26 00:00:00,Nilton Santos - Rio de Janeiro - RJ,3,0,3,0,0,0
+2018,37,São Paulo,Sport Recife,1,0,Mandante,0,0,2018-11-26 00:00:00,Morumbi - Sao Paulo - SP,3,0,1,1,2,-1
+2018,38,Atlético Mineiro,Botafogo,0,0,Empate,1,0,2018-12-01 00:00:00,Independência - Belo Horizonte - MG,1,1,3,0,-2,1
+2018,38,Flamengo,Athletico Paranaense,1,0,Mandante,1,2,2018-12-01 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,0,3,3,-3
+2018,38,Parana,Internacional,0,1,Visitante,1,1,2018-12-02 00:00:00,Durival Britto - Curitiba - PR,0,3,1,1,-1,2
+2018,38,Chapecoense,São Paulo,0,1,Visitante,1,0,2018-12-02 00:00:00,Arena Condá - Chapeco - SC,0,3,3,0,-3,3
+2018,38,Fluminense,America,0,0,Empate,1,0,2018-12-02 00:00:00,Maracanã - Rio de Janeiro - RJ,1,1,3,0,-2,1
+2018,38,Grêmio,Corinthians,1,0,Mandante,1,0,2018-12-02 00:00:00,Arena do Grêmio - Porto Alegre - RS,3,0,3,0,0,0
+2018,38,Sport Recife,Santos Fc,0,1,Visitante,2,1,2018-12-02 00:00:00,Ilha do Retiro - Recife - PE,0,3,3,0,-3,3
+2018,38,Palmeiras,Vitória,1,0,Mandante,3,2,2018-12-02 00:00:00,Allianz Parque - Sao Paulo - SP,3,0,3,0,0,0
+2018,38,Bahia,Cruzeiro,0,0,Empate,0,0,2018-12-02 00:00:00,Pituaçu - Salvador - BA,1,1,1,1,0,0
+2018,38,Ceará,Vasco da Gama,1,0,Mandante,0,0,2018-12-02 00:00:00,Arena Castelão - Fortaleza - CE,3,0,1,1,2,-1
+2018,2,Bahia,Santos Fc,0,1,Visitante,1,0,2018-04-21 00:00:00,Arena Fonte Nova - Salvador - BA,0,3,3,0,-3,3
+2018,2,Flamengo,America,0,1,Visitante,2,0,2018-04-21 00:00:00,Maracanã - Rio de Janeiro - RJ,0,3,3,0,-3,3
+2018,2,Parana,Corinthians,0,1,Visitante,0,4,2018-04-22 00:00:00,Durival Britto - Curitiba - PR,0,3,0,3,0,0
+2018,2,Fluminense,Cruzeiro,0,0,Empate,1,0,2018-04-22 00:00:00,Maracanã - Rio de Janeiro - RJ,1,1,3,0,-2,1
+2018,2,Palmeiras,Internacional,0,1,Visitante,1,0,2018-04-22 00:00:00,Pacaembu - Sao Paulo - SP,0,3,3,0,-3,3
+2018,2,Chapecoense,Vasco da Gama,0,1,Visitante,1,1,2018-04-22 00:00:00,Arena Condá - Chapeco - SC,0,3,1,1,-1,2
+2018,2,Ceará,São Paulo,0,1,Visitante,0,0,2018-04-22 00:00:00,Arena Castelão - Fortaleza - CE,0,3,1,1,-1,2
+2018,2,Atlético Mineiro,Vitória,0,0,Empate,2,1,2018-04-22 00:00:00,Independência - Belo Horizonte - MG,1,1,3,0,-2,1
+2018,2,Grêmio,Athletico Paranaense,0,1,Visitante,0,0,2018-04-22 00:00:00,Arena do Grêmio - Porto Alegre - RS,0,3,1,1,-1,2
+2018,2,Sport Recife,Botafogo,0,1,Visitante,1,1,2018-04-23 00:00:00,Ilha do Retiro - Recife - PE,0,3,1,1,-1,2
+2018,3,Botafogo,Grêmio,0,1,Visitante,2,1,2018-04-28 00:00:00,Nilton Santos - Rio de Janeiro - RJ,0,3,3,0,-3,3
+2018,3,Bahia,Athletico Paranaense,0,1,Visitante,0,0,2018-04-29 00:00:00,Arena Fonte Nova - Salvador - BA,0,3,1,1,-1,2
+2018,3,Palmeiras,Chapecoense,1,0,Mandante,0,0,2018-04-29 00:00:00,Allianz Parque - Sao Paulo - SP,3,0,1,1,2,-1
+2018,3,Fluminense,São Paulo,0,0,Empate,1,1,2018-04-29 00:00:00,Maracanã - Rio de Janeiro - RJ,1,1,1,1,0,0
+2018,3,Parana,Sport Recife,0,1,Visitante,1,2,2018-04-29 00:00:00,Durival Britto - Curitiba - PR,0,3,0,3,0,0
+2018,3,Atlético Mineiro,Corinthians,0,1,Visitante,1,0,2018-04-29 00:00:00,Independência - Belo Horizonte - MG,0,3,3,0,-3,3
+2018,3,Ceará,Flamengo,0,1,Visitante,0,3,2018-04-29 00:00:00,Arena Castelão - Fortaleza - CE,0,3,0,3,0,0
+2018,3,Internacional,Cruzeiro,1,0,Mandante,0,0,2018-04-29 00:00:00,Beira-Rio - Porto Alegre - RS,3,0,1,1,2,-1
+2018,3,America,Vitória,1,0,Mandante,2,1,2018-04-30 00:00:00,Independência - Belo Horizonte - MG,3,0,3,0,0,0
+2018,3,Santos Fc,Vasco da Gama,0,0,Empate,1,1,2018-09-27 00:00:00,Pacaembu - Sao Paulo - SP,1,1,1,1,0,0
+2018,4,São Paulo,Atlético Mineiro,0,0,Empate,2,2,2018-05-05 00:00:00,Morumbi - Sao Paulo - SP,1,1,1,1,0,0
+2018,4,Vasco da Gama,America,0,0,Empate,4,1,2018-05-05 00:00:00,São Januário - Rio de Janeiro - RJ,1,1,3,0,-2,1
+2018,4,Corinthians,Ceará,1,0,Mandante,1,1,2018-05-06 00:00:00,Neo Química Arena - Sao Paulo - SP,3,0,1,1,2,-1
+2018,4,Vitória,Fluminense,0,1,Visitante,1,2,2018-05-06 00:00:00,Manoel Barradas - Salvador - BA,0,3,0,3,0,0
+2018,4,Flamengo,Internacional,1,0,Mandante,2,0,2018-05-06 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,3,0,0,0
+2018,4,Athletico Paranaense,Palmeiras,1,0,Mandante,1,3,2018-05-06 00:00:00,Arena da Baixada - Curitiba - PR,3,0,0,3,3,-3
+2018,4,Cruzeiro,Botafogo,0,1,Visitante,1,0,2018-05-06 00:00:00,Mineirão - Belo Horizonte - MG,0,3,3,0,-3,3
+2018,4,Grêmio,Santos Fc,0,0,Empate,5,1,2018-05-06 00:00:00,Arena do Grêmio - Porto Alegre - RS,1,1,3,0,-2,1
+2018,4,Sport Recife,Bahia,0,0,Empate,2,0,2018-05-06 00:00:00,Ilha do Retiro - Recife - PE,1,1,3,0,-2,1
+2018,4,Chapecoense,Parana,1,0,Mandante,1,1,2018-05-07 00:00:00,Arena Condá - Chapeco - SC,3,0,1,1,2,-1
+2018,5,Grêmio,Internacional,1,0,Mandante,0,0,2018-05-12 00:00:00,Arena do Grêmio - Porto Alegre - RS,3,0,1,1,2,-1
+2018,5,Cruzeiro,Sport Recife,0,0,Empate,2,0,2018-05-13 00:00:00,Mineirão - Belo Horizonte - MG,1,1,3,0,-2,1
+2018,5,Vasco da Gama,Vitória,1,0,Mandante,2,3,2018-05-13 00:00:00,São Januário - Rio de Janeiro - RJ,3,0,0,3,3,-3
+2018,5,Chapecoense,Flamengo,0,1,Visitante,3,2,2018-05-13 00:00:00,Arena Condá - Chapeco - SC,0,3,3,0,-3,3
+2018,5,Bahia,São Paulo,0,1,Visitante,2,2,2018-05-13 00:00:00,Arena Fonte Nova - Salvador - BA,0,3,1,1,-1,2
+2018,5,Athletico Paranaense,Atlético Mineiro,0,0,Empate,1,2,2018-05-13 00:00:00,Arena da Baixada - Curitiba - PR,1,1,0,3,1,-2
+2018,5,Corinthians,Palmeiras,0,0,Empate,1,0,2018-05-13 00:00:00,Neo Química Arena - Sao Paulo - SP,1,1,3,0,-2,1
+2018,5,Santos Fc,Parana,1,0,Mandante,3,1,2018-05-13 00:00:00,Vila Belmiro - Santos - SP,3,0,3,0,0,0
+2018,5,Ceará,America,0,1,Visitante,2,2,2018-05-14 00:00:00,Arena Castelão - Fortaleza - CE,0,3,1,1,-1,2
+2018,5,Botafogo,Fluminense,0,0,Empate,2,1,2018-05-14 00:00:00,Nilton Santos - Rio de Janeiro - RJ,1,1,3,0,-2,1
+2018,6,Atlético Mineiro,Cruzeiro,0,0,Empate,1,0,2018-05-19 00:00:00,Independência - Belo Horizonte - MG,1,1,3,0,-2,1
+2018,6,Flamengo,Vasco da Gama,1,0,Mandante,1,1,2018-05-19 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,1,1,2,-1
+2018,6,Palmeiras,Bahia,1,0,Mandante,3,0,2018-05-19 00:00:00,Allianz Parque - Sao Paulo - SP,3,0,3,0,0,0
+2018,6,Vitória,Ceará,1,0,Mandante,2,1,2018-05-20 00:00:00,Manoel Barradas - Salvador - BA,3,0,3,0,0,0
+2018,6,Sport Recife,Corinthians,0,1,Visitante,1,1,2018-05-20 00:00:00,Arena Pernambuco - São Lourenço da Mata - PE,0,3,1,1,-1,2
+2018,6,America,Botafogo,0,1,Visitante,1,0,2018-05-20 00:00:00,Independência - Belo Horizonte - MG,0,3,3,0,-3,3
+2018,6,São Paulo,Santos Fc,1,0,Mandante,1,0,2018-05-20 00:00:00,Morumbi - Sao Paulo - SP,3,0,3,0,0,0
+2018,6,Parana,Grêmio,0,1,Visitante,0,0,2018-05-20 00:00:00,Durival Britto - Curitiba - PR,0,3,1,1,-1,2
+2018,6,Fluminense,Athletico Paranaense,0,0,Empate,2,0,2018-05-20 00:00:00,Maracanã - Rio de Janeiro - RJ,1,1,3,0,-2,1
+2018,6,Internacional,Chapecoense,1,0,Mandante,3,0,2018-05-21 00:00:00,Beira-Rio - Porto Alegre - RS,3,0,3,0,0,0
+2018,7,Fluminense,Chapecoense,1,0,Mandante,3,1,2018-05-26 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,3,0,0,0
+2018,7,Palmeiras,Sport Recife,1,0,Mandante,2,3,2018-05-26 00:00:00,Allianz Parque - Sao Paulo - SP,3,0,0,3,3,-3
+2018,7,Atlético Mineiro,Flamengo,0,1,Visitante,0,1,2018-05-26 00:00:00,Independência - Belo Horizonte - MG,0,3,0,3,0,0
+2018,7,Parana,Athletico Paranaense,0,1,Visitante,0,0,2018-05-27 00:00:00,Durival Britto - Curitiba - PR,0,3,1,1,-1,2
+2018,7,Santos Fc,Cruzeiro,0,1,Visitante,0,1,2018-05-27 00:00:00,Pacaembu - Sao Paulo - SP,0,3,0,3,0,0
+2018,7,Internacional,Corinthians,0,1,Visitante,2,1,2018-05-27 00:00:00,Beira-Rio - Porto Alegre - RS,0,3,3,0,-3,3
+2018,7,Bahia,Vasco da Gama,0,1,Visitante,3,0,2018-05-27 00:00:00,Arena Fonte Nova - Salvador - BA,0,3,3,0,-3,3
+2018,7,Botafogo,Vitória,0,0,Empate,1,1,2018-05-27 00:00:00,Nilton Santos - Rio de Janeiro - RJ,1,1,1,1,0,0
+2018,7,America,São Paulo,0,1,Visitante,1,3,2018-05-27 00:00:00,Independência - Belo Horizonte - MG,0,3,0,3,0,0
+2018,7,Ceará,Grêmio,0,1,Visitante,0,1,2018-05-27 00:00:00,Arena Castelão - Fortaleza - CE,0,3,0,3,0,0
+2018,8,Vasco da Gama,Parana,1,0,Mandante,1,0,2018-05-30 00:00:00,São Januário - Rio de Janeiro - RJ,3,0,3,0,0,0
+2018,8,Vitória,Internacional,0,1,Visitante,2,3,2018-05-30 00:00:00,Manoel Barradas - Salvador - BA,0,3,0,3,0,0
+2018,8,Sport Recife,Atlético Mineiro,0,1,Visitante,3,2,2018-05-30 00:00:00,Ilha do Retiro - Recife - PE,0,3,3,0,-3,3
+2018,8,São Paulo,Botafogo,1,0,Mandante,3,2,2018-05-30 00:00:00,Morumbi - Sao Paulo - SP,3,0,3,0,0,0
+2018,8,Chapecoense,Ceará,0,0,Empate,2,0,2018-05-30 00:00:00,Arena Condá - Chapeco - SC,1,1,3,0,-2,1
+2018,8,Cruzeiro,Palmeiras,0,1,Visitante,1,0,2018-05-30 00:00:00,Mineirão - Belo Horizonte - MG,0,3,3,0,-3,3
+2018,8,Grêmio,Fluminense,0,0,Empate,0,0,2018-05-30 00:00:00,Arena do Grêmio - Porto Alegre - RS,1,1,1,1,0,0
+2018,8,Flamengo,Bahia,1,0,Mandante,2,0,2018-05-31 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,3,0,0,0
+2018,8,Corinthians,America,1,0,Mandante,1,0,2018-05-31 00:00:00,Neo Química Arena - Sao Paulo - SP,3,0,3,0,0,0
+2018,8,Athletico Paranaense,Santos Fc,0,0,Empate,2,0,2018-05-31 00:00:00,Arena da Baixada - Curitiba - PR,1,1,3,0,-2,1
+2018,9,Atlético Mineiro,Chapecoense,1,0,Mandante,3,3,2018-06-02 00:00:00,Independência - Belo Horizonte - MG,3,0,1,1,2,-1
+2018,9,Internacional,Sport Recife,1,0,Mandante,0,0,2018-06-02 00:00:00,Beira-Rio - Porto Alegre - RS,3,0,1,1,2,-1
+2018,9,Vasco da Gama,Botafogo,0,0,Empate,1,2,2018-06-02 00:00:00,São Januário - Rio de Janeiro - RJ,1,1,0,3,1,-2
+2018,9,Palmeiras,São Paulo,0,1,Visitante,3,1,2018-06-02 00:00:00,Allianz Parque - Sao Paulo - SP,0,3,3,0,-3,3
+2018,9,America,Athletico Paranaense,0,1,Visitante,3,1,2018-06-03 00:00:00,Independência - Belo Horizonte - MG,0,3,3,0,-3,3
+2018,9,Santos Fc,Vitória,0,1,Visitante,5,2,2018-06-03 00:00:00,Vila Belmiro - Santos - SP,0,3,3,0,-3,3
+2018,9,Bahia,Grêmio,0,1,Visitante,0,2,2018-06-03 00:00:00,Arena Fonte Nova - Salvador - BA,0,3,0,3,0,0
+2018,9,Flamengo,Corinthians,1,0,Mandante,1,0,2018-06-03 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,3,0,0,0
+2018,9,Ceará,Cruzeiro,0,1,Visitante,0,1,2018-06-03 00:00:00,Arena Castelão - Fortaleza - CE,0,3,0,3,0,0
+2018,9,Parana,Fluminense,0,1,Visitante,2,1,2018-06-04 00:00:00,Durival Britto - Curitiba - PR,0,3,3,0,-3,3
+2018,10,São Paulo,Internacional,0,1,Visitante,0,0,2018-06-05 00:00:00,Morumbi - Sao Paulo - SP,0,3,1,1,-1,2
+2018,10,Botafogo,Ceará,1,0,Mandante,0,0,2018-06-06 00:00:00,Nilton Santos - Rio de Janeiro - RJ,3,0,1,1,2,-1
+2018,10,Vitória,Chapecoense,0,0,Empate,1,0,2018-06-06 00:00:00,Manoel Barradas - Salvador - BA,1,1,3,0,-2,1
+2018,10,Sport Recife,Athletico Paranaense,1,0,Mandante,1,0,2018-06-06 00:00:00,Ilha do Retiro - Recife - PE,3,0,3,0,0,0
+2018,10,Corinthians,Santos Fc,1,0,Mandante,1,1,2018-06-06 00:00:00,Neo Química Arena - Sao Paulo - SP,3,0,1,1,2,-1
+2018,10,Cruzeiro,Vasco da Gama,1,0,Mandante,1,1,2018-06-06 00:00:00,Mineirão - Belo Horizonte - MG,3,0,1,1,2,-1
+2018,10,Grêmio,Palmeiras,1,0,Mandante,0,2,2018-06-06 00:00:00,Arena do Grêmio - Porto Alegre - RS,3,0,0,3,3,-3
+2018,10,Fluminense,Flamengo,0,1,Visitante,0,2,2018-06-07 00:00:00,Mané Garrincha - Brasilia - DF,0,3,0,3,0,0
+2018,10,Parana,Bahia,0,1,Visitante,1,0,2018-06-07 00:00:00,Durival Britto - Curitiba - PR,0,3,3,0,-3,3
+2018,10,America,Atlético Mineiro,0,1,Visitante,1,3,2018-06-07 00:00:00,Independência - Belo Horizonte - MG,0,3,0,3,0,0
+2018,11,Athletico Paranaense,São Paulo,0,1,Visitante,0,1,2018-06-09 00:00:00,Arena da Baixada - Curitiba - PR,0,3,0,3,0,0
+2018,11,Chapecoense,Cruzeiro,0,1,Visitante,2,0,2018-06-09 00:00:00,Arena Condá - Chapeco - SC,0,3,3,0,-3,3
+2018,11,Vasco da Gama,Sport Recife,0,1,Visitante,3,2,2018-06-09 00:00:00,São Januário - Rio de Janeiro - RJ,0,3,3,0,-3,3
+2018,11,Corinthians,Vitória,1,0,Mandante,0,0,2018-06-09 00:00:00,Neo Química Arena - Sao Paulo - SP,3,0,1,1,2,-1
+2018,11,Bahia,Botafogo,0,1,Visitante,3,3,2018-06-10 00:00:00,Arena Fonte Nova - Salvador - BA,0,3,1,1,-1,2
+2018,11,Atlético Mineiro,Fluminense,1,0,Mandante,5,2,2018-06-10 00:00:00,Independência - Belo Horizonte - MG,3,0,3,0,0,0
+2018,11,Ceará,Palmeiras,0,1,Visitante,2,2,2018-06-10 00:00:00,Arena Castelão - Fortaleza - CE,0,3,1,1,-1,2
+2018,11,Grêmio,America,1,0,Mandante,1,0,2018-06-10 00:00:00,Arena do Grêmio - Porto Alegre - RS,3,0,3,0,0,0
+2018,11,Santos Fc,Internacional,0,1,Visitante,1,2,2018-06-10 00:00:00,Vila Belmiro - Santos - SP,0,3,0,3,0,0
+2018,11,Flamengo,Parana,1,0,Mandante,2,0,2018-06-10 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,3,0,0,0
+2018,12,São Paulo,Vitória,1,0,Mandante,3,0,2018-06-12 00:00:00,Morumbi - Sao Paulo - SP,3,0,3,0,0,0
+2018,12,America,Chapecoense,0,0,Empate,0,0,2018-06-13 00:00:00,Independência - Belo Horizonte - MG,1,1,1,1,0,0
+2018,12,Fluminense,Santos Fc,0,0,Empate,0,1,2018-06-13 00:00:00,Maracanã - Rio de Janeiro - RJ,1,1,0,3,1,-2
+2018,12,Sport Recife,Grêmio,0,1,Visitante,0,0,2018-06-13 00:00:00,Ilha do Retiro - Recife - PE,0,3,1,1,-1,2
+2018,12,Parana,Cruzeiro,0,1,Visitante,1,1,2018-06-13 00:00:00,Durival Britto - Curitiba - PR,0,3,1,1,-1,2
+2018,12,Palmeiras,Flamengo,0,1,Visitante,1,1,2018-06-13 00:00:00,Allianz Parque - Sao Paulo - SP,0,3,1,1,-1,2
+2018,12,Botafogo,Athletico Paranaense,1,0,Mandante,2,0,2018-06-13 00:00:00,Nilton Santos - Rio de Janeiro - RJ,3,0,3,0,0,0
+2018,12,Atlético Mineiro,Ceará,1,0,Mandante,2,1,2018-06-13 00:00:00,Independência - Belo Horizonte - MG,3,0,3,0,0,0
+2018,12,Internacional,Vasco da Gama,1,0,Mandante,3,1,2018-06-13 00:00:00,Beira-Rio - Porto Alegre - RS,3,0,3,0,0,0
+2018,12,Bahia,Corinthians,0,1,Visitante,1,0,2018-06-13 00:00:00,Arena Fonte Nova - Salvador - BA,0,3,3,0,-3,3
+2018,13,Ceará,Sport Recife,0,1,Visitante,1,0,2018-07-18 00:00:00,Presidente Vargas - Fortaleza - CE,0,3,3,0,-3,3
+2018,13,Vitória,Parana,0,0,Empate,1,0,2018-07-18 00:00:00,Manoel Barradas - Salvador - BA,1,1,3,0,-2,1
+2018,13,Corinthians,Botafogo,0,0,Empate,2,0,2018-07-18 00:00:00,Neo Química Arena - Sao Paulo - SP,1,1,3,0,-2,1
+2018,13,Grêmio,Atlético Mineiro,0,1,Visitante,2,0,2018-07-18 00:00:00,Arena do Grêmio - Porto Alegre - RS,0,3,3,0,-3,3
+2018,13,Flamengo,São Paulo,1,0,Mandante,0,1,2018-07-18 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,0,3,3,-3
+2018,13,Cruzeiro,America,1,0,Mandante,3,1,2018-07-19 00:00:00,Mineirão - Belo Horizonte - MG,3,0,3,0,0,0
+2018,13,Chapecoense,Bahia,0,0,Empate,1,1,2018-07-19 00:00:00,Arena Condá - Chapeco - SC,1,1,1,1,0,0
+2018,13,Vasco da Gama,Fluminense,1,0,Mandante,1,1,2018-07-19 00:00:00,São Januário - Rio de Janeiro - RJ,3,0,1,1,2,-1
+2018,13,Santos Fc,Palmeiras,0,1,Visitante,1,1,2018-07-19 00:00:00,Pacaembu - Sao Paulo - SP,0,3,1,1,-1,2
+2018,13,Athletico Paranaense,Internacional,0,1,Visitante,2,2,2018-07-19 00:00:00,Arena da Baixada - Curitiba - PR,0,3,1,1,-1,2
+2018,14,Flamengo,Botafogo,1,0,Mandante,2,0,2018-07-21 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,3,0,0,0
+2018,14,São Paulo,Corinthians,1,0,Mandante,3,1,2018-07-21 00:00:00,Morumbi - Sao Paulo - SP,3,0,3,0,0,0
+2018,14,Palmeiras,Atlético Mineiro,1,0,Mandante,3,2,2018-07-22 00:00:00,Allianz Parque - Sao Paulo - SP,3,0,3,0,0,0
+2018,14,Bahia,Vitória,0,0,Empate,4,1,2018-07-22 00:00:00,Arena Fonte Nova - Salvador - BA,1,1,3,0,-2,1
+2018,14,Sport Recife,Fluminense,1,0,Mandante,1,2,2018-07-22 00:00:00,Ilha do Retiro - Recife - PE,3,0,0,3,3,-3
+2018,14,Parana,America,0,1,Visitante,1,0,2018-07-22 00:00:00,Durival Britto - Curitiba - PR,0,3,3,0,-3,3
+2018,14,Vasco da Gama,Grêmio,0,1,Visitante,1,0,2018-07-22 00:00:00,São Januário - Rio de Janeiro - RJ,0,3,3,0,-3,3
+2018,14,Cruzeiro,Athletico Paranaense,1,0,Mandante,2,1,2018-07-22 00:00:00,Mineirão - Belo Horizonte - MG,3,0,3,0,0,0
+2018,14,Chapecoense,Santos Fc,0,1,Visitante,0,0,2018-07-22 00:00:00,Arena Condá - Chapeco - SC,0,3,1,1,-1,2
+2018,14,Internacional,Ceará,1,0,Mandante,1,0,2018-07-23 00:00:00,Beira-Rio - Porto Alegre - RS,3,0,3,0,0,0
+2018,15,Fluminense,Palmeiras,0,1,Visitante,1,0,2018-07-25 00:00:00,Maracanã - Rio de Janeiro - RJ,0,3,3,0,-3,3
+2018,15,Atlético Mineiro,Parana,1,0,Mandante,2,0,2018-07-25 00:00:00,Independência - Belo Horizonte - MG,3,0,3,0,0,0
+2018,15,Corinthians,Cruzeiro,0,0,Empate,2,0,2018-07-25 00:00:00,Neo Química Arena - Sao Paulo - SP,1,1,3,0,-2,1
+2018,15,Santos Fc,Flamengo,0,1,Visitante,1,1,2018-07-25 00:00:00,Vila Belmiro - Santos - SP,0,3,1,1,-1,2
+2018,15,Botafogo,Chapecoense,0,0,Empate,1,0,2018-07-26 00:00:00,Nilton Santos - Rio de Janeiro - RJ,1,1,3,0,-2,1
+2018,15,Vitória,Sport Recife,0,1,Visitante,1,0,2018-07-26 00:00:00,Manoel Barradas - Salvador - BA,0,3,3,0,-3,3
+2018,15,Grêmio,São Paulo,0,1,Visitante,2,1,2018-07-26 00:00:00,Arena do Grêmio - Porto Alegre - RS,0,3,3,0,-3,3
+2018,15,America,Internacional,0,1,Visitante,2,1,2018-07-26 00:00:00,Independência - Belo Horizonte - MG,0,3,3,0,-3,3
+2018,15,Athletico Paranaense,Vasco da Gama,0,1,Visitante,1,0,2018-08-29 00:00:00,Arena da Baixada - Curitiba - PR,0,3,3,0,-3,3
+2018,15,Ceará,Bahia,0,1,Visitante,0,2,2018-08-29 00:00:00,Presidente Vargas - Fortaleza - CE,0,3,0,3,0,0
+2018,16,Ceará,Fluminense,0,1,Visitante,1,0,2018-07-28 00:00:00,Presidente Vargas - Fortaleza - CE,0,3,3,0,-3,3
+2018,16,Vasco da Gama,Corinthians,0,1,Visitante,1,4,2018-07-29 00:00:00,Mané Garrincha - Brasilia - DF,0,3,0,3,0,0
+2018,16,Palmeiras,Parana,1,0,Mandante,3,0,2018-07-29 00:00:00,Allianz Parque - Sao Paulo - SP,3,0,3,0,0,0
+2018,16,Internacional,Botafogo,1,0,Mandante,3,0,2018-07-29 00:00:00,Beira-Rio - Porto Alegre - RS,3,0,3,0,0,0
+2018,16,Athletico Paranaense,Vitória,1,0,Mandante,4,0,2018-07-29 00:00:00,Arena da Baixada - Curitiba - PR,3,0,3,0,0,0
+2018,16,Flamengo,Sport Recife,1,0,Mandante,4,1,2018-07-29 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,3,0,0,0
+2018,16,Cruzeiro,São Paulo,0,1,Visitante,0,2,2018-07-29 00:00:00,Mineirão - Belo Horizonte - MG,0,3,0,3,0,0
+2018,16,Chapecoense,Grêmio,0,1,Visitante,1,1,2018-07-29 00:00:00,Arena Condá - Chapeco - SC,0,3,1,1,-1,2
+2018,16,Santos Fc,America,1,0,Mandante,0,1,2018-07-29 00:00:00,Vila Belmiro - Santos - SP,3,0,0,3,3,-3
+2018,16,Bahia,Atlético Mineiro,0,1,Visitante,2,2,2018-07-30 00:00:00,Arena Fonte Nova - Salvador - BA,0,3,1,1,-1,2
+2018,17,Botafogo,Santos Fc,0,1,Visitante,0,0,2018-08-04 00:00:00,Nilton Santos - Rio de Janeiro - RJ,0,3,1,1,-1,2
+2018,17,Grêmio,Flamengo,0,1,Visitante,2,0,2018-08-04 00:00:00,Arena do Grêmio - Porto Alegre - RS,0,3,3,0,-3,3
+2018,17,Corinthians,Athletico Paranaense,1,0,Mandante,0,0,2018-08-04 00:00:00,Neo Química Arena - Sao Paulo - SP,3,0,1,1,2,-1
+2018,17,Parana,Ceará,0,0,Empate,0,1,2018-08-05 00:00:00,Durival Britto - Curitiba - PR,1,1,0,3,1,-2
+2018,17,America,Palmeiras,0,1,Visitante,0,0,2018-08-05 00:00:00,Independência - Belo Horizonte - MG,0,3,1,1,-1,2
+2018,17,São Paulo,Vasco da Gama,1,0,Mandante,2,1,2018-08-05 00:00:00,Morumbi - Sao Paulo - SP,3,0,3,0,0,0
+2018,17,Vitória,Cruzeiro,0,1,Visitante,1,1,2018-08-05 00:00:00,Manoel Barradas - Salvador - BA,0,3,1,1,-1,2
+2018,17,Fluminense,Bahia,0,1,Visitante,1,1,2018-08-05 00:00:00,Maracanã - Rio de Janeiro - RJ,0,3,1,1,-1,2
+2018,17,Sport Recife,Chapecoense,0,0,Empate,1,1,2018-08-05 00:00:00,Ilha do Retiro - Recife - PE,1,1,1,1,0,0
+2018,17,Atlético Mineiro,Internacional,0,1,Visitante,0,1,2018-08-06 00:00:00,Independência - Belo Horizonte - MG,0,3,0,3,0,0
+2018,18,Ceará,Athletico Paranaense,0,1,Visitante,0,0,2018-08-11 00:00:00,Presidente Vargas - Fortaleza - CE,0,3,1,1,-1,2
+2018,18,Bahia,America,1,0,Mandante,1,0,2018-08-11 00:00:00,Arena Fonte Nova - Salvador - BA,3,0,3,0,0,0
+2018,18,Parana,Botafogo,0,1,Visitante,1,1,2018-08-12 00:00:00,Durival Britto - Curitiba - PR,0,3,1,1,-1,2
+2018,18,Atlético Mineiro,Santos Fc,1,0,Mandante,3,1,2018-08-12 00:00:00,Independência - Belo Horizonte - MG,3,0,3,0,0,0
+2018,18,Chapecoense,Corinthians,0,1,Visitante,2,1,2018-08-12 00:00:00,Arena Condá - Chapeco - SC,0,3,3,0,-3,3
+2018,18,Sport Recife,São Paulo,0,1,Visitante,1,3,2018-08-12 00:00:00,Ilha do Retiro - Recife - PE,0,3,0,3,0,0
+2018,18,Flamengo,Cruzeiro,1,0,Mandante,1,0,2018-08-12 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,3,0,0,0
+2018,18,Palmeiras,Vasco da Gama,1,0,Mandante,1,0,2018-08-12 00:00:00,Allianz Parque - Sao Paulo - SP,3,0,3,0,0,0
+2018,18,Grêmio,Vitória,1,0,Mandante,4,0,2018-08-12 00:00:00,Arena do Grêmio - Porto Alegre - RS,3,0,3,0,0,0
+2018,18,Fluminense,Internacional,0,1,Visitante,0,3,2018-08-13 00:00:00,Maracanã - Rio de Janeiro - RJ,0,3,0,3,0,0
+2018,19,Santos Fc,Sport Recife,1,0,Mandante,3,0,2018-08-18 00:00:00,Vila Belmiro - Santos - SP,3,0,3,0,0,0
+2018,19,Corinthians,Grêmio,0,1,Visitante,0,1,2018-08-18 00:00:00,Neo Química Arena - Sao Paulo - SP,0,3,0,3,0,0
+2018,19,Athletico Paranaense,Flamengo,0,1,Visitante,3,0,2018-08-19 00:00:00,Arena da Baixada - Curitiba - PR,0,3,3,0,-3,3
+2018,19,Internacional,Parana,1,0,Mandante,1,0,2018-08-19 00:00:00,Beira-Rio - Porto Alegre - RS,3,0,3,0,0,0
+2018,19,Vitória,Palmeiras,0,1,Visitante,0,3,2018-08-19 00:00:00,Manoel Barradas - Salvador - BA,0,3,0,3,0,0
+2018,19,Botafogo,Atlético Mineiro,0,1,Visitante,0,3,2018-08-19 00:00:00,Nilton Santos - Rio de Janeiro - RJ,0,3,0,3,0,0
+2018,19,Cruzeiro,Bahia,0,1,Visitante,1,1,2018-08-19 00:00:00,Mineirão - Belo Horizonte - MG,0,3,1,1,-1,2
+2018,19,São Paulo,Chapecoense,1,0,Mandante,2,0,2018-08-19 00:00:00,Morumbi - Sao Paulo - SP,3,0,3,0,0,0
+2018,19,America,Fluminense,0,0,Empate,0,0,2018-08-19 00:00:00,Independência - Belo Horizonte - MG,1,1,1,1,0,0
+2018,19,Vasco da Gama,Ceará,0,0,Empate,1,1,2018-08-20 00:00:00,São Januário - Rio de Janeiro - RJ,1,1,1,1,0,0
+2018,20,Ceará,Santos Fc,0,1,Visitante,1,1,2018-08-08 00:00:00,Presidente Vargas - Fortaleza - CE,0,3,1,1,-1,2
+2018,20,Parana,São Paulo,0,1,Visitante,1,1,2018-08-22 00:00:00,Durival Britto - Curitiba - PR,0,3,1,1,-1,2
+2018,20,Bahia,Internacional,0,1,Visitante,0,1,2018-08-22 00:00:00,Arena Fonte Nova - Salvador - BA,0,3,0,3,0,0
+2018,20,Sport Recife,America,0,1,Visitante,0,2,2018-08-22 00:00:00,Ilha do Retiro - Recife - PE,0,3,0,3,0,0
+2018,20,Palmeiras,Botafogo,1,0,Mandante,2,0,2018-08-22 00:00:00,Allianz Parque - Sao Paulo - SP,3,0,3,0,0,0
+2018,20,Fluminense,Corinthians,0,1,Visitante,1,0,2018-08-22 00:00:00,Maracanã - Rio de Janeiro - RJ,0,3,3,0,-3,3
+2018,20,Grêmio,Cruzeiro,1,0,Mandante,1,1,2018-08-22 00:00:00,Arena do Grêmio - Porto Alegre - RS,3,0,1,1,2,-1
+2018,20,Flamengo,Vitória,1,0,Mandante,1,0,2018-08-23 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,3,0,0,0
+2018,20,Atlético Mineiro,Vasco da Gama,1,0,Mandante,0,0,2018-08-23 00:00:00,Independência - Belo Horizonte - MG,3,0,1,1,2,-1
+2018,20,Chapecoense,Athletico Paranaense,0,1,Visitante,2,1,2018-09-13 00:00:00,Arena Condá - Chapeco - SC,0,3,3,0,-3,3
+2018,21,Santos Fc,Bahia,0,1,Visitante,2,0,2018-08-25 00:00:00,Vila Belmiro - Santos - SP,0,3,3,0,-3,3
+2018,21,Athletico Paranaense,Grêmio,0,1,Visitante,2,1,2018-08-25 00:00:00,Arena da Baixada - Curitiba - PR,0,3,3,0,-3,3
+2018,21,Corinthians,Parana,1,0,Mandante,1,0,2018-08-25 00:00:00,Neo Química Arena - Sao Paulo - SP,3,0,3,0,0,0
+2018,21,Cruzeiro,Fluminense,0,0,Empate,2,1,2018-08-25 00:00:00,Mineirão - Belo Horizonte - MG,1,1,3,0,-2,1
+2018,21,Botafogo,Sport Recife,1,0,Mandante,2,0,2018-08-25 00:00:00,Nilton Santos - Rio de Janeiro - RJ,3,0,3,0,0,0
+2018,21,São Paulo,Ceará,1,0,Mandante,1,0,2018-08-26 00:00:00,Morumbi - Sao Paulo - SP,3,0,3,0,0,0
+2018,21,Vitória,Atlético Mineiro,0,1,Visitante,1,0,2018-08-26 00:00:00,Manoel Barradas - Salvador - BA,0,3,3,0,-3,3
+2018,21,America,Flamengo,0,1,Visitante,2,2,2018-08-26 00:00:00,Independência - Belo Horizonte - MG,0,3,1,1,-1,2
+2018,21,Internacional,Palmeiras,1,0,Mandante,0,0,2018-08-26 00:00:00,Beira-Rio - Porto Alegre - RS,3,0,1,1,2,-1
+2018,21,Vasco da Gama,Chapecoense,0,1,Visitante,3,1,2018-08-26 00:00:00,São Januário - Rio de Janeiro - RJ,0,3,3,0,-3,3
+2018,22,Grêmio,Botafogo,1,0,Mandante,4,0,2018-09-01 00:00:00,Arena do Grêmio - Porto Alegre - RS,3,0,3,0,0,0
+2018,22,Vitória,America,0,1,Visitante,1,0,2018-09-01 00:00:00,Manoel Barradas - Salvador - BA,0,3,3,0,-3,3
+2018,22,Vasco da Gama,Santos Fc,0,1,Visitante,0,3,2018-09-01 00:00:00,Maracanã - Rio de Janeiro - RJ,0,3,0,3,0,0
+2018,22,Corinthians,Atlético Mineiro,0,1,Visitante,1,1,2018-09-01 00:00:00,Neo Química Arena - Sao Paulo - SP,0,3,1,1,-1,2
+2018,22,Flamengo,Ceará,1,0,Mandante,0,1,2018-09-02 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,0,3,3,-3
+2018,22,São Paulo,Fluminense,1,0,Mandante,1,1,2018-09-02 00:00:00,Morumbi - Sao Paulo - SP,3,0,1,1,2,-1
+2018,22,Sport Recife,Parana,0,1,Visitante,1,0,2018-09-02 00:00:00,Ilha do Retiro - Recife - PE,0,3,3,0,-3,3
+2018,22,Athletico Paranaense,Bahia,1,0,Mandante,2,0,2018-09-02 00:00:00,Arena da Baixada - Curitiba - PR,3,0,3,0,0,0
+2018,22,Chapecoense,Palmeiras,0,1,Visitante,1,2,2018-09-02 00:00:00,Arena Condá - Chapeco - SC,0,3,0,3,0,0
+2018,22,Cruzeiro,Internacional,0,1,Visitante,0,0,2018-09-02 00:00:00,Mineirão - Belo Horizonte - MG,0,3,1,1,-1,2
+2018,23,Botafogo,Cruzeiro,0,1,Visitante,1,1,2018-09-05 00:00:00,Nilton Santos - Rio de Janeiro - RJ,0,3,1,1,-1,2
+2018,23,Bahia,Sport Recife,1,0,Mandante,2,0,2018-09-05 00:00:00,Arena Fonte Nova - Salvador - BA,3,0,3,0,0,0
+2018,23,Ceará,Corinthians,0,1,Visitante,2,1,2018-09-05 00:00:00,Arena Castelão - Fortaleza - CE,0,3,3,0,-3,3
+2018,23,Palmeiras,Athletico Paranaense,1,0,Mandante,2,0,2018-09-05 00:00:00,Allianz Parque - Sao Paulo - SP,3,0,3,0,0,0
+2018,23,Parana,Chapecoense,0,1,Visitante,1,1,2018-09-05 00:00:00,Durival Britto - Curitiba - PR,0,3,1,1,-1,2
+2018,23,Atlético Mineiro,São Paulo,0,1,Visitante,1,0,2018-09-05 00:00:00,Independência - Belo Horizonte - MG,0,3,3,0,-3,3
+2018,23,Internacional,Flamengo,1,0,Mandante,2,1,2018-09-05 00:00:00,Beira-Rio - Porto Alegre - RS,3,0,3,0,0,0
+2018,23,Fluminense,Vitória,1,0,Mandante,0,0,2018-09-06 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,1,1,2,-1
+2018,23,Santos Fc,Grêmio,0,1,Visitante,0,0,2018-09-06 00:00:00,Pacaembu - Sao Paulo - SP,0,3,1,1,-1,2
+2018,23,America,Vasco da Gama,1,0,Mandante,2,1,2018-09-06 00:00:00,Independência - Belo Horizonte - MG,3,0,3,0,0,0
+2018,24,Sport Recife,Cruzeiro,0,1,Visitante,0,0,2018-09-08 00:00:00,Ilha do Retiro - Recife - PE,0,3,1,1,-1,2
+2018,24,São Paulo,Bahia,1,0,Mandante,1,0,2018-09-08 00:00:00,Morumbi - Sao Paulo - SP,3,0,3,0,0,0
+2018,24,Flamengo,Chapecoense,1,0,Mandante,2,0,2018-09-08 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,3,0,0,0
+2018,24,Fluminense,Botafogo,1,0,Mandante,1,0,2018-09-09 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,3,0,0,0
+2018,24,Palmeiras,Corinthians,1,0,Mandante,1,0,2018-09-09 00:00:00,Allianz Parque - Sao Paulo - SP,3,0,3,0,0,0
+2018,24,Internacional,Grêmio,0,0,Empate,1,0,2018-09-09 00:00:00,Beira-Rio - Porto Alegre - RS,1,1,3,0,-2,1
+2018,24,America,Ceará,0,0,Empate,0,0,2018-09-09 00:00:00,Independência - Belo Horizonte - MG,1,1,1,1,0,0
+2018,24,Vitória,Vasco da Gama,0,1,Visitante,1,0,2018-09-09 00:00:00,Manoel Barradas - Salvador - BA,0,3,3,0,-3,3
+2018,24,Parana,Santos Fc,0,1,Visitante,0,2,2018-09-09 00:00:00,Durival Britto - Curitiba - PR,0,3,0,3,0,0
+2018,24,Atlético Mineiro,Athletico Paranaense,1,0,Mandante,3,1,2018-09-10 00:00:00,Independência - Belo Horizonte - MG,3,0,3,0,0,0
+2018,25,Ceará,Vitória,1,0,Mandante,2,0,2018-09-15 00:00:00,Arena Castelão - Fortaleza - CE,3,0,3,0,0,0
+2018,25,Grêmio,Parana,1,0,Mandante,2,0,2018-09-15 00:00:00,Arena do Grêmio - Porto Alegre - RS,3,0,3,0,0,0
+2018,25,Vasco da Gama,Flamengo,0,1,Visitante,1,1,2018-09-15 00:00:00,Mané Garrincha - Brasilia - DF,0,3,1,1,-1,2
+2018,25,Botafogo,America,0,1,Visitante,1,0,2018-09-16 00:00:00,Nilton Santos - Rio de Janeiro - RJ,0,3,3,0,-3,3
+2018,25,Bahia,Palmeiras,0,1,Visitante,1,1,2018-09-16 00:00:00,Arena Fonte Nova - Salvador - BA,0,3,1,1,-1,2
+2018,25,Athletico Paranaense,Fluminense,1,0,Mandante,3,1,2018-09-16 00:00:00,Arena da Baixada - Curitiba - PR,3,0,3,0,0,0
+2018,25,Cruzeiro,Atlético Mineiro,0,1,Visitante,0,0,2018-09-16 00:00:00,Mineirão - Belo Horizonte - MG,0,3,1,1,-1,2
+2018,25,Santos Fc,São Paulo,0,1,Visitante,0,0,2018-09-16 00:00:00,Vila Belmiro - Santos - SP,0,3,1,1,-1,2
+2018,25,Corinthians,Sport Recife,1,0,Mandante,2,1,2018-09-16 00:00:00,Neo Química Arena - Sao Paulo - SP,3,0,3,0,0,0
+2018,25,Chapecoense,Internacional,0,1,Visitante,2,1,2018-09-17 00:00:00,Arena Condá - Chapeco - SC,0,3,3,0,-3,3
+2018,26,São Paulo,America,1,0,Mandante,1,1,2018-09-22 00:00:00,Morumbi - Sao Paulo - SP,3,0,1,1,2,-1
+2018,26,Grêmio,Ceará,1,0,Mandante,3,2,2018-09-23 00:00:00,Arena do Grêmio - Porto Alegre - RS,3,0,3,0,0,0
+2018,26,Athletico Paranaense,Parana,1,0,Mandante,3,0,2018-09-23 00:00:00,Arena da Baixada - Curitiba - PR,3,0,3,0,0,0
+2018,26,Flamengo,Atlético Mineiro,0,1,Visitante,2,1,2018-09-23 00:00:00,Maracanã - Rio de Janeiro - RJ,0,3,3,0,-3,3
+2018,26,Corinthians,Internacional,0,1,Visitante,1,1,2018-09-23 00:00:00,Neo Química Arena - Sao Paulo - SP,0,3,1,1,-1,2
+2018,26,Vitória,Botafogo,0,1,Visitante,3,4,2018-09-23 00:00:00,Manoel Barradas - Salvador - BA,0,3,0,3,0,0
+2018,26,Sport Recife,Palmeiras,0,1,Visitante,0,1,2018-09-23 00:00:00,Ilha do Retiro - Recife - PE,0,3,0,3,0,0
+2018,26,Cruzeiro,Santos Fc,0,1,Visitante,2,1,2018-09-23 00:00:00,Mineirão - Belo Horizonte - MG,0,3,3,0,-3,3
+2018,26,Vasco da Gama,Bahia,0,1,Visitante,2,1,2018-09-24 00:00:00,São Januário - Rio de Janeiro - RJ,0,3,3,0,-3,3
+2018,26,Chapecoense,Fluminense,0,0,Empate,1,2,2018-09-24 00:00:00,Arena Condá - Chapeco - SC,1,1,0,3,1,-2
+2018,27,Fluminense,Grêmio,0,1,Visitante,0,1,2018-09-29 00:00:00,Nilton Santos - Rio de Janeiro - RJ,0,3,0,3,0,0
+2018,27,America,Corinthians,0,1,Visitante,0,0,2018-09-29 00:00:00,Independência - Belo Horizonte - MG,0,3,1,1,-1,2
+2018,27,Bahia,Flamengo,0,1,Visitante,0,0,2018-09-29 00:00:00,Arena Fonte Nova - Salvador - BA,0,3,1,1,-1,2
+2018,27,Palmeiras,Cruzeiro,1,0,Mandante,3,1,2018-09-30 00:00:00,Pacaembu - Sao Paulo - SP,3,0,3,0,0,0
+2018,27,Botafogo,São Paulo,0,1,Visitante,2,2,2018-09-30 00:00:00,Nilton Santos - Rio de Janeiro - RJ,0,3,1,1,-1,2
+2018,27,Atlético Mineiro,Sport Recife,1,0,Mandante,5,2,2018-09-30 00:00:00,Independência - Belo Horizonte - MG,3,0,3,0,0,0
+2018,27,Internacional,Vitória,1,0,Mandante,2,1,2018-09-30 00:00:00,Beira-Rio - Porto Alegre - RS,3,0,3,0,0,0
+2018,27,Santos Fc,Athletico Paranaense,0,0,Empate,1,0,2018-09-30 00:00:00,Vila Belmiro - Santos - SP,1,1,3,0,-2,1
+2018,27,Ceará,Chapecoense,1,0,Mandante,3,1,2018-09-30 00:00:00,Arena Castelão - Fortaleza - CE,3,0,3,0,0,0
+2018,27,Parana,Vasco da Gama,0,1,Visitante,1,1,2018-10-01 00:00:00,Durival Britto - Curitiba - PR,0,3,1,1,-1,2
+2018,28,Sport Recife,Internacional,0,1,Visitante,2,1,2018-10-05 00:00:00,Ilha do Retiro - Recife - PE,0,3,3,0,-3,3
+2018,28,Corinthians,Flamengo,0,1,Visitante,0,3,2018-10-05 00:00:00,Neo Química Arena - Sao Paulo - SP,0,3,0,3,0,0
+2018,28,Vitória,Santos Fc,0,1,Visitante,0,1,2018-10-05 00:00:00,Manoel Barradas - Salvador - BA,0,3,0,3,0,0
+2018,28,Chapecoense,Atlético Mineiro,0,1,Visitante,1,0,2018-10-06 00:00:00,Arena Condá - Chapeco - SC,0,3,3,0,-3,3
+2018,28,Athletico Paranaense,America,1,0,Mandante,4,0,2018-10-06 00:00:00,Arena da Baixada - Curitiba - PR,3,0,3,0,0,0
+2018,28,São Paulo,Palmeiras,0,1,Visitante,0,2,2018-10-06 00:00:00,Morumbi - Sao Paulo - SP,0,3,0,3,0,0
+2018,28,Grêmio,Bahia,1,0,Mandante,2,2,2018-10-06 00:00:00,Arena do Grêmio - Porto Alegre - RS,3,0,1,1,2,-1
+2018,28,Fluminense,Parana,1,0,Mandante,4,0,2018-10-08 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,3,0,0,0
+2018,28,Botafogo,Vasco da Gama,1,0,Mandante,1,1,2018-10-09 00:00:00,Nilton Santos - Rio de Janeiro - RJ,3,0,1,1,2,-1
+2018,28,Cruzeiro,Ceará,0,0,Empate,0,2,2018-10-24 00:00:00,Mineirão - Belo Horizonte - MG,1,1,0,3,1,-2
+2018,29,Flamengo,Fluminense,1,0,Mandante,3,0,2018-10-13 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,3,0,0,0
+2018,29,Santos Fc,Corinthians,1,0,Mandante,1,0,2018-10-13 00:00:00,Pacaembu - Sao Paulo - SP,3,0,3,0,0,0
+2018,29,Bahia,Parana,1,0,Mandante,2,0,2018-10-13 00:00:00,Pituaçu - Salvador - BA,3,0,3,0,0,0
+2018,29,Chapecoense,Vitória,1,0,Mandante,0,1,2018-10-14 00:00:00,Arena Condá - Chapeco - SC,3,0,0,3,3,-3
+2018,29,Vasco da Gama,Cruzeiro,0,1,Visitante,2,0,2018-10-14 00:00:00,São Januário - Rio de Janeiro - RJ,0,3,3,0,-3,3
+2018,29,Palmeiras,Grêmio,1,0,Mandante,2,0,2018-10-14 00:00:00,Pacaembu - Sao Paulo - SP,3,0,3,0,0,0
+2018,29,Internacional,São Paulo,1,0,Mandante,3,1,2018-10-14 00:00:00,Beira-Rio - Porto Alegre - RS,3,0,3,0,0,0
+2018,29,Athletico Paranaense,Sport Recife,1,0,Mandante,4,0,2018-10-14 00:00:00,Arena da Baixada - Curitiba - PR,3,0,3,0,0,0
+2018,29,Atlético Mineiro,America,1,0,Mandante,0,0,2018-10-14 00:00:00,Independência - Belo Horizonte - MG,3,0,1,1,2,-1
+2018,29,Ceará,Botafogo,1,0,Mandante,0,0,2018-10-15 00:00:00,Arena Castelão - Fortaleza - CE,3,0,1,1,2,-1
+2018,30,Botafogo,Bahia,0,1,Visitante,0,1,2018-10-20 00:00:00,Nilton Santos - Rio de Janeiro - RJ,0,3,0,3,0,0
+2018,30,America,Grêmio,0,1,Visitante,1,1,2018-10-20 00:00:00,Independência - Belo Horizonte - MG,0,3,1,1,-1,2
+2018,30,Sport Recife,Vasco da Gama,0,1,Visitante,2,1,2018-10-20 00:00:00,Ilha do Retiro - Recife - PE,0,3,3,0,-3,3
+2018,30,São Paulo,Athletico Paranaense,0,1,Visitante,0,0,2018-10-20 00:00:00,Morumbi - Sao Paulo - SP,0,3,1,1,-1,2
+2018,30,Palmeiras,Ceará,1,0,Mandante,2,1,2018-10-21 00:00:00,Pacaembu - Sao Paulo - SP,3,0,3,0,0,0
+2018,30,Vitória,Corinthians,0,1,Visitante,2,2,2018-10-21 00:00:00,Manoel Barradas - Salvador - BA,0,3,1,1,-1,2
+2018,30,Fluminense,Atlético Mineiro,0,1,Visitante,1,0,2018-10-21 00:00:00,Nilton Santos - Rio de Janeiro - RJ,0,3,3,0,-3,3
+2018,30,Parana,Flamengo,0,1,Visitante,0,4,2018-10-21 00:00:00,Durival Britto - Curitiba - PR,0,3,0,3,0,0
+2018,30,Cruzeiro,Chapecoense,1,0,Mandante,3,0,2018-10-21 00:00:00,Independência - Belo Horizonte - MG,3,0,3,0,0,0
+2018,30,Internacional,Santos Fc,1,0,Mandante,2,2,2018-10-22 00:00:00,Beira-Rio - Porto Alegre - RS,3,0,1,1,2,-1
+2018,31,Vitória,São Paulo,0,1,Visitante,0,1,2018-10-26 00:00:00,Manoel Barradas - Salvador - BA,0,3,0,3,0,0
+2018,31,Vasco da Gama,Internacional,0,1,Visitante,1,1,2018-10-26 00:00:00,São Januário - Rio de Janeiro - RJ,0,3,1,1,-1,2
+2018,31,Santos Fc,Fluminense,1,0,Mandante,3,0,2018-10-27 00:00:00,Vila Belmiro - Santos - SP,3,0,3,0,0,0
+2018,31,Grêmio,Sport Recife,1,0,Mandante,3,4,2018-10-27 00:00:00,Arena do Grêmio - Porto Alegre - RS,3,0,0,3,3,-3
+2018,31,Corinthians,Bahia,0,1,Visitante,2,1,2018-10-27 00:00:00,Neo Química Arena - Sao Paulo - SP,0,3,3,0,-3,3
+2018,31,Flamengo,Palmeiras,0,1,Visitante,1,1,2018-10-27 00:00:00,Maracanã - Rio de Janeiro - RJ,0,3,1,1,-1,2
+2018,31,Chapecoense,America,0,1,Visitante,1,0,2018-10-27 00:00:00,Arena Condá - Chapeco - SC,0,3,3,0,-3,3
+2018,31,Athletico Paranaense,Botafogo,1,0,Mandante,2,1,2018-10-27 00:00:00,Arena da Baixada - Curitiba - PR,3,0,3,0,0,0
+2018,31,Cruzeiro,Parana,1,0,Mandante,3,1,2018-10-27 00:00:00,Mineirão - Belo Horizonte - MG,3,0,3,0,0,0
+2018,31,Ceará,Atlético Mineiro,0,1,Visitante,2,1,2018-10-29 00:00:00,Arena Castelão - Fortaleza - CE,0,3,3,0,-3,3
+2018,32,Fluminense,Vasco da Gama,0,0,Empate,0,1,2018-11-03 00:00:00,Maracanã - Rio de Janeiro - RJ,1,1,0,3,1,-2
+2018,32,Atlético Mineiro,Grêmio,0,1,Visitante,0,1,2018-11-03 00:00:00,Independência - Belo Horizonte - MG,0,3,0,3,0,0
+2018,32,Palmeiras,Santos Fc,1,0,Mandante,3,2,2018-11-03 00:00:00,Allianz Parque - Sao Paulo - SP,3,0,3,0,0,0
+2018,32,São Paulo,Flamengo,0,1,Visitante,2,2,2018-11-04 00:00:00,Morumbi - Sao Paulo - SP,0,3,1,1,-1,2
+2018,32,Botafogo,Corinthians,0,1,Visitante,1,0,2018-11-04 00:00:00,Nilton Santos - Rio de Janeiro - RJ,0,3,3,0,-3,3
+2018,32,America,Cruzeiro,0,1,Visitante,1,2,2018-11-04 00:00:00,Independência - Belo Horizonte - MG,0,3,0,3,0,0
+2018,32,Parana,Vitória,0,1,Visitante,1,1,2018-11-04 00:00:00,Durival Britto - Curitiba - PR,0,3,1,1,-1,2
+2018,32,Bahia,Chapecoense,1,0,Mandante,1,0,2018-11-04 00:00:00,Arena Fonte Nova - Salvador - BA,3,0,3,0,0,0
+2018,32,Internacional,Athletico Paranaense,1,0,Mandante,2,1,2018-11-04 00:00:00,Beira-Rio - Porto Alegre - RS,3,0,3,0,0,0
+2018,32,Sport Recife,Ceará,0,1,Visitante,1,0,2018-11-05 00:00:00,Ilha do Retiro - Recife - PE,0,3,3,0,-3,3
+2018,33,Corinthians,São Paulo,0,1,Visitante,1,1,2018-11-10 00:00:00,Neo Química Arena - Sao Paulo - SP,0,3,1,1,-1,2
+2018,33,America,Parana,1,0,Mandante,0,1,2018-11-10 00:00:00,Independência - Belo Horizonte - MG,3,0,0,3,3,-3
+2018,33,Botafogo,Flamengo,0,1,Visitante,2,1,2018-11-10 00:00:00,Nilton Santos - Rio de Janeiro - RJ,0,3,3,0,-3,3
+2018,33,Athletico Paranaense,Cruzeiro,1,0,Mandante,2,0,2018-11-10 00:00:00,Arena da Baixada - Curitiba - PR,3,0,3,0,0,0
+2018,33,Grêmio,Vasco da Gama,1,0,Mandante,2,1,2018-11-11 00:00:00,Arena do Grêmio - Porto Alegre - RS,3,0,3,0,0,0
+2018,33,Vitória,Bahia,0,1,Visitante,2,2,2018-11-11 00:00:00,Manoel Barradas - Salvador - BA,0,3,1,1,-1,2
+2018,33,Atlético Mineiro,Palmeiras,0,1,Visitante,1,1,2018-11-11 00:00:00,Independência - Belo Horizonte - MG,0,3,1,1,-1,2
+2018,33,Ceará,Internacional,0,1,Visitante,1,1,2018-11-11 00:00:00,Arena Castelão - Fortaleza - CE,0,3,1,1,-1,2
+2018,33,Fluminense,Sport Recife,1,0,Mandante,0,0,2018-11-11 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,1,1,2,-1
+2018,33,Santos Fc,Chapecoense,1,0,Mandante,0,1,2018-11-12 00:00:00,Pacaembu - Sao Paulo - SP,3,0,0,3,3,-3
+2018,34,Vasco da Gama,Athletico Paranaense,0,1,Visitante,1,1,2018-11-14 00:00:00,São Januário - Rio de Janeiro - RJ,0,3,1,1,-1,2
+2018,34,Parana,Atlético Mineiro,0,1,Visitante,0,1,2018-11-14 00:00:00,Durival Britto - Curitiba - PR,0,3,0,3,0,0
+2018,34,Bahia,Ceará,0,1,Visitante,2,1,2018-11-14 00:00:00,Arena Fonte Nova - Salvador - BA,0,3,3,0,-3,3
+2018,34,Palmeiras,Fluminense,1,0,Mandante,3,0,2018-11-14 00:00:00,Allianz Parque - Sao Paulo - SP,3,0,3,0,0,0
+2018,34,Cruzeiro,Corinthians,0,0,Empate,1,0,2018-11-14 00:00:00,Mineirão - Belo Horizonte - MG,1,1,3,0,-2,1
+2018,34,Sport Recife,Vitória,1,0,Mandante,0,0,2018-11-14 00:00:00,Ilha do Retiro - Recife - PE,3,0,1,1,2,-1
+2018,34,Flamengo,Santos Fc,1,0,Mandante,1,0,2018-11-15 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,3,0,0,0
+2018,34,Chapecoense,Botafogo,0,1,Visitante,0,1,2018-11-15 00:00:00,Arena Condá - Chapeco - SC,0,3,0,3,0,0
+2018,34,São Paulo,Grêmio,0,1,Visitante,1,1,2018-11-15 00:00:00,Morumbi - Sao Paulo - SP,0,3,1,1,-1,2
+2018,34,Internacional,America,1,0,Mandante,2,0,2018-11-15 00:00:00,Beira-Rio - Porto Alegre - RS,3,0,3,0,0,0
+2018,35,Vitória,Athletico Paranaense,0,1,Visitante,1,2,2018-11-17 00:00:00,Manoel Barradas - Salvador - BA,0,3,0,3,0,0
+2018,35,Corinthians,Vasco da Gama,0,0,Empate,1,0,2018-11-17 00:00:00,Neo Química Arena - Sao Paulo - SP,1,1,3,0,-2,1
+2018,35,Atlético Mineiro,Bahia,1,0,Mandante,1,0,2018-11-17 00:00:00,Independência - Belo Horizonte - MG,3,0,3,0,0,0
+2018,35,Sport Recife,Flamengo,0,1,Visitante,0,1,2018-11-18 00:00:00,Ilha do Retiro - Recife - PE,0,3,0,3,0,0
+2018,35,Botafogo,Internacional,0,1,Visitante,1,0,2018-11-18 00:00:00,Nilton Santos - Rio de Janeiro - RJ,0,3,3,0,-3,3
+2018,35,Parana,Palmeiras,0,1,Visitante,1,1,2018-11-18 00:00:00,Do Café - Londrina - PR,0,3,1,1,-1,2
+2018,35,America,Santos Fc,0,1,Visitante,2,1,2018-11-18 00:00:00,Independência - Belo Horizonte - MG,0,3,3,0,-3,3
+2018,35,Grêmio,Chapecoense,1,0,Mandante,2,0,2018-11-18 00:00:00,Arena do Grêmio - Porto Alegre - RS,3,0,3,0,0,0
+2018,35,São Paulo,Cruzeiro,1,0,Mandante,1,0,2018-11-18 00:00:00,Morumbi - Sao Paulo - SP,3,0,3,0,0,0
+2018,35,Fluminense,Ceará,0,1,Visitante,0,0,2018-11-19 00:00:00,Maracanã - Rio de Janeiro - RJ,0,3,1,1,-1,2
+2018,36,Internacional,Atlético Mineiro,1,0,Mandante,1,2,2018-11-21 00:00:00,Beira-Rio - Porto Alegre - RS,3,0,0,3,3,-3
+2018,36,Santos Fc,Botafogo,1,0,Mandante,1,1,2018-11-21 00:00:00,Vila Belmiro - Santos - SP,3,0,1,1,2,-1
+2018,36,Athletico Paranaense,Corinthians,1,0,Mandante,1,0,2018-11-21 00:00:00,Arena da Baixada - Curitiba - PR,3,0,3,0,0,0
+2018,36,Flamengo,Grêmio,1,0,Mandante,2,0,2018-11-21 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,3,0,0,0
+2018,36,Cruzeiro,Vitória,1,0,Mandante,3,0,2018-11-21 00:00:00,Mineirão - Belo Horizonte - MG,3,0,3,0,0,0
+2018,36,Palmeiras,America,1,0,Mandante,4,0,2018-11-21 00:00:00,Allianz Parque - Sao Paulo - SP,3,0,3,0,0,0
+2018,36,Vasco da Gama,São Paulo,0,1,Visitante,2,0,2018-11-22 00:00:00,São Januário - Rio de Janeiro - RJ,0,3,3,0,-3,3
+2018,36,Bahia,Fluminense,1,0,Mandante,2,0,2018-11-22 00:00:00,Arena Fonte Nova - Salvador - BA,3,0,3,0,0,0
+2018,36,Chapecoense,Sport Recife,0,0,Empate,2,1,2018-11-22 00:00:00,Arena Condá - Chapeco - SC,1,1,3,0,-2,1
+2018,36,Ceará,Parana,1,0,Mandante,1,0,2018-11-22 00:00:00,Arena Castelão - Fortaleza - CE,3,0,3,0,0,0
+2018,37,Santos Fc,Atlético Mineiro,0,1,Visitante,3,2,2018-11-24 00:00:00,Vila Belmiro - Santos - SP,0,3,3,0,-3,3
+2018,37,Athletico Paranaense,Ceará,1,0,Mandante,2,2,2018-11-25 00:00:00,Arena da Baixada - Curitiba - PR,3,0,1,1,2,-1
+2018,37,Vasco da Gama,Palmeiras,0,1,Visitante,0,1,2018-11-25 00:00:00,São Januário - Rio de Janeiro - RJ,0,3,0,3,0,0
+2018,37,Cruzeiro,Flamengo,0,1,Visitante,0,2,2018-11-25 00:00:00,Mineirão - Belo Horizonte - MG,0,3,0,3,0,0
+2018,37,Vitória,Grêmio,0,1,Visitante,0,0,2018-11-25 00:00:00,Manoel Barradas - Salvador - BA,0,3,1,1,-1,2
+2018,37,Corinthians,Chapecoense,1,0,Mandante,0,0,2018-11-25 00:00:00,Neo Química Arena - Sao Paulo - SP,3,0,1,1,2,-1
+2018,37,America,Bahia,0,1,Visitante,1,0,2018-11-25 00:00:00,Independência - Belo Horizonte - MG,0,3,3,0,-3,3
+2018,37,Internacional,Fluminense,1,0,Mandante,2,0,2018-11-25 00:00:00,Beira-Rio - Porto Alegre - RS,3,0,3,0,0,0
+2018,37,Botafogo,Parana,1,0,Mandante,2,1,2018-11-26 00:00:00,Nilton Santos - Rio de Janeiro - RJ,3,0,3,0,0,0
+2018,37,São Paulo,Sport Recife,1,0,Mandante,0,0,2018-11-26 00:00:00,Morumbi - Sao Paulo - SP,3,0,1,1,2,-1
+2018,38,Atlético Mineiro,Botafogo,1,0,Mandante,1,0,2018-12-01 00:00:00,Independência - Belo Horizonte - MG,3,0,3,0,0,0
+2018,38,Flamengo,Athletico Paranaense,1,0,Mandante,1,2,2018-12-01 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,0,3,3,-3
+2018,38,Parana,Internacional,0,1,Visitante,1,1,2018-12-02 00:00:00,Durival Britto - Curitiba - PR,0,3,1,1,-1,2
+2018,38,Chapecoense,São Paulo,0,1,Visitante,1,0,2018-12-02 00:00:00,Arena Condá - Chapeco - SC,0,3,3,0,-3,3
+2018,38,Fluminense,America,0,0,Empate,1,0,2018-12-02 00:00:00,Maracanã - Rio de Janeiro - RJ,1,1,3,0,-2,1
+2018,38,Grêmio,Corinthians,1,0,Mandante,1,0,2018-12-02 00:00:00,Arena do Grêmio - Porto Alegre - RS,3,0,3,0,0,0
+2018,38,Sport Recife,Santos Fc,0,1,Visitante,2,1,2018-12-02 00:00:00,Ilha do Retiro - Recife - PE,0,3,3,0,-3,3
+2018,38,Palmeiras,Vitória,1,0,Mandante,3,2,2018-12-02 00:00:00,Allianz Parque - Sao Paulo - SP,3,0,3,0,0,0
+2018,38,Bahia,Cruzeiro,0,0,Empate,0,0,2018-12-02 00:00:00,Pituaçu - Salvador - BA,1,1,1,1,0,0
+2018,38,Ceará,Vasco da Gama,1,0,Mandante,0,0,2018-12-02 00:00:00,Arena Castelão - Fortaleza - CE,3,0,1,1,2,-1

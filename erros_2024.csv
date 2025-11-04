@@ -1,0 +1,371 @@
+ano,rodada,mandante,visitante,gol_prev_mandante,gol_prev_visitante,previsao,gol_time_mandante,gol_time_visitante,data,local,pontos_prev_mandante,pontos_prev_visitante,pontos_real_mandante,pontos_real_visitante,erro_mandante,erro_visitante
+2024,2,Bahia,Fluminense,0,0,Empate,2,1,2024-04-16,Arena Fonte Nova - Salvador - BA,1,1,3,0,-2,1
+2024,2,Red Bull Bragantino,Vasco da Gama,0,0,Empate,2,1,2024-04-17,Nabi Abi Chedid - Braganca Paulista - SP,1,1,3,0,-2,1
+2024,2,Grêmio,Athletico Paranaense,0,1,Visitante,2,0,2024-04-17,Arena do Grêmio - Porto Alegre - RS,0,3,3,0,-3,3
+2024,2,Palmeiras,Internacional,0,0,Empate,0,1,2024-04-17,Arena Barueri - Barueri - SP,1,1,0,3,1,-2
+2024,2,Juventude,Corinthians,0,0,Empate,2,0,2024-04-17,Alfredo Jaconi - Caxias do Sul - RS,1,1,3,0,-2,1
+2024,2,Fortaleza,Cruzeiro,0,0,Empate,1,1,2024-04-17,Arena Castelão - Fortaleza - CE,1,1,1,1,0,0
+2024,2,Atlético Mineiro,Criciúma,0,0,Empate,1,1,2024-04-17,ARENA MRV - Belo Horizonte - MG,1,1,1,1,0,0
+2024,2,Flamengo,São Paulo,1,0,Mandante,2,1,2024-04-17,Maracanã - Rio de Janeiro - RJ,3,0,3,0,0,0
+2024,2,Botafogo,Atlético Goianiense,0,0,Empate,1,0,2024-04-18,Nilton Santos - Rio de Janeiro - RJ,1,1,3,0,-2,1
+2024,2,Cuiabá,Vitória,0,1,Visitante,0,0,2024-06-05,Arena Pantanal - Cuiaba - MT,0,3,1,1,-1,2
+2024,3,Fluminense,Vasco da Gama,0,0,Empate,2,1,2024-04-20 00:00:00,Maracanã - Rio de Janeiro - RJ,1,1,3,0,-2,1
+2024,3,Grêmio,Cuiabá,1,0,Mandante,1,0,2024-04-20 00:00:00,Arena do Grêmio - Porto Alegre - RS,3,0,3,0,0,0
+2024,3,Red Bull Bragantino,Corinthians,1,0,Mandante,1,0,2024-04-20 00:00:00,Nabi Abi Chedid - Braganca Paulista - SP,3,0,3,0,0,0
+2024,3,Atlético Mineiro,Cruzeiro,0,0,Empate,3,0,2024-04-20 00:00:00,ARENA MRV - Belo Horizonte - MG,1,1,3,0,-2,1
+2024,3,Palmeiras,Flamengo,0,1,Visitante,0,0,2024-04-21 00:00:00,Allianz Parque - Sao Paulo - SP,0,3,1,1,-1,2
+2024,3,Athletico Paranaense,Internacional,0,0,Empate,1,0,2024-04-21 00:00:00,Arena da Baixada - Curitiba - PR,1,1,3,0,-2,1
+2024,3,Vitória,Bahia,0,0,Empate,2,2,2024-04-21 00:00:00,Manoel Barradas - Salvador - BA,1,1,1,1,0,0
+2024,3,Botafogo,Juventude,0,1,Visitante,5,1,2024-04-21 00:00:00,Nilton Santos - Rio de Janeiro - RJ,0,3,3,0,-3,3
+2024,3,Atlético Goianiense,São Paulo,0,0,Empate,0,3,2024-04-21 00:00:00,Antônio Accioly - Goiania - GO,1,1,0,3,1,-2
+2024,3,Criciúma,Fortaleza,0,0,Empate,1,1,2024-07-24 00:00:00,Heriberto Hulse - Criciuma - SC,1,1,1,1,0,0
+2024,4,Vasco da Gama,Criciúma,0,0,Empate,0,4,2024-04-27 00:00:00,São Januário - Rio de Janeiro - RJ,1,1,0,3,1,-2
+2024,4,Cuiabá,Atlético Mineiro,0,1,Visitante,0,3,2024-04-27 00:00:00,Arena Pantanal - Cuiaba - MT,0,3,0,3,0,0
+2024,4,Bahia,Grêmio,0,1,Visitante,1,0,2024-04-27 00:00:00,Arena Fonte Nova - Salvador - BA,0,3,3,0,-3,3
+2024,4,Flamengo,Botafogo,0,1,Visitante,0,2,2024-04-28 00:00:00,Maracanã - Rio de Janeiro - RJ,0,3,0,3,0,0
+2024,4,Cruzeiro,Vitória,0,0,Empate,3,1,2024-04-28 00:00:00,Mineirão - Belo Horizonte - MG,1,1,3,0,-2,1
+2024,4,Corinthians,Fluminense,0,1,Visitante,3,0,2024-04-28 00:00:00,Neo Química Arena - Sao Paulo - SP,0,3,3,0,-3,3
+2024,4,Fortaleza,Red Bull Bragantino,0,0,Empate,1,1,2024-04-28 00:00:00,Arena Castelão - Fortaleza - CE,1,1,1,1,0,0
+2024,4,Juventude,Athletico Paranaense,0,1,Visitante,1,1,2024-04-28 00:00:00,Alfredo Jaconi - Caxias do Sul - RS,0,3,1,1,-1,2
+2024,4,Internacional,Atlético Goianiense,1,0,Mandante,1,1,2024-04-28 00:00:00,Beira-Rio - Porto Alegre - RS,3,0,1,1,2,-1
+2024,4,São Paulo,Palmeiras,0,0,Empate,0,0,2024-04-29 00:00:00,Morumbi - Sao Paulo - SP,1,1,1,1,0,0
+2024,5,Fluminense,Atlético Mineiro,0,1,Visitante,2,2,2024-05-04 00:00:00,Kleber Andrade - Cariacica - ES,0,3,1,1,-1,2
+2024,5,Red Bull Bragantino,Flamengo,1,0,Mandante,1,1,2024-05-04 00:00:00,Nabi Abi Chedid - Braganca Paulista - SP,3,0,1,1,2,-1
+2024,5,Corinthians,Fortaleza,0,0,Empate,0,0,2024-05-04 00:00:00,Neo Química Arena - Sao Paulo - SP,1,1,1,1,0,0
+2024,5,Vitória,São Paulo,0,1,Visitante,1,3,2024-05-05 00:00:00,Manoel Barradas - Salvador - BA,0,3,0,3,0,0
+2024,5,Athletico Paranaense,Vasco da Gama,1,0,Mandante,1,0,2024-05-05 00:00:00,Arena da Baixada - Curitiba - PR,3,0,3,0,0,0
+2024,5,Cuiabá,Palmeiras,0,1,Visitante,0,2,2024-05-05 00:00:00,Arena Pantanal - Cuiaba - MT,0,3,0,3,0,0
+2024,5,Botafogo,Bahia,1,0,Mandante,1,2,2024-05-05 00:00:00,Nilton Santos - Rio de Janeiro - RJ,3,0,0,3,3,-3
+2024,5,Juventude,Atlético Goianiense,1,0,Mandante,1,0,2024-06-05 00:00:00,Alfredo Jaconi - Caxias do Sul - RS,3,0,3,0,0,0
+2024,5,Cruzeiro,Internacional,0,0,Empate,0,0,2024-08-28 00:00:00,Mineirão - Belo Horizonte - MG,1,1,1,1,0,0
+2024,5,Grêmio,Criciúma,0,1,Visitante,1,2,2024-09-25 00:00:00,Arena do Grêmio - Porto Alegre - RS,0,3,0,3,0,0
+2024,6,Flamengo,Corinthians,0,0,Empate,2,0,2024-05-11 00:00:00,Maracanã - Rio de Janeiro - RJ,1,1,3,0,-2,1
+2024,6,Fortaleza,Botafogo,0,1,Visitante,1,1,2024-05-12 00:00:00,Arena Castelão - Fortaleza - CE,0,3,1,1,-1,2
+2024,6,Palmeiras,Athletico Paranaense,0,1,Visitante,0,2,2024-05-12 00:00:00,Arena Barueri - Barueri - SP,0,3,0,3,0,0
+2024,6,Atlético Goianiense,Cruzeiro,0,1,Visitante,0,1,2024-05-12 00:00:00,Antônio Accioly - Goiania - GO,0,3,0,3,0,0
+2024,6,Vasco da Gama,Vitória,0,0,Empate,2,1,2024-05-12 00:00:00,São Januário - Rio de Janeiro - RJ,1,1,3,0,-2,1
+2024,6,Bahia,Red Bull Bragantino,0,0,Empate,1,0,2024-05-12 00:00:00,Arena Fonte Nova - Salvador - BA,1,1,3,0,-2,1
+2024,6,São Paulo,Fluminense,1,0,Mandante,2,1,2024-05-13 00:00:00,Morumbi - Sao Paulo - SP,3,0,3,0,0,0
+2024,6,Criciúma,Cuiabá,1,0,Mandante,2,5,2024-06-09 00:00:00,Heriberto Hulse - Criciuma - SC,3,0,0,3,3,-3
+2024,6,Internacional,Juventude,1,0,Mandante,2,1,2024-08-14 00:00:00,Beira-Rio - Porto Alegre - RS,3,0,3,0,0,0
+2024,6,Atlético Mineiro,Grêmio,1,0,Mandante,2,1,2024-10-09 00:00:00,ARENA MRV - Belo Horizonte - MG,3,0,3,0,0,0
+2024,7,Grêmio,Red Bull Bragantino,0,1,Visitante,0,2,2024-06-01 00:00:00,Couto Pereira - Curitiba - PR,0,3,0,3,0,0
+2024,7,Vitória,Atlético Goianiense,0,0,Empate,0,2,2024-06-01 00:00:00,Manoel Barradas - Salvador - BA,1,1,0,3,1,-2
+2024,7,Cuiabá,Internacional,0,1,Visitante,0,1,2024-06-01 00:00:00,Arena Pantanal - Cuiaba - MT,0,3,0,3,0,0
+2024,7,Fluminense,Juventude,0,1,Visitante,1,1,2024-06-01 00:00:00,Maracanã - Rio de Janeiro - RJ,0,3,1,1,-1,2
+2024,7,Corinthians,Botafogo,0,1,Visitante,0,1,2024-06-01 00:00:00,Neo Química Arena - Sao Paulo - SP,0,3,0,3,0,0
+2024,7,Criciúma,Palmeiras,0,0,Empate,1,2,2024-06-02 00:00:00,Heriberto Hulse - Criciuma - SC,1,1,0,3,1,-2
+2024,7,Atlético Mineiro,Bahia,1,0,Mandante,1,1,2024-06-02 00:00:00,ARENA MRV - Belo Horizonte - MG,3,0,1,1,2,-1
+2024,7,Vasco da Gama,Flamengo,0,1,Visitante,1,6,2024-06-02 00:00:00,Maracanã - Rio de Janeiro - RJ,0,3,0,3,0,0
+2024,7,Fortaleza,Athletico Paranaense,0,1,Visitante,1,0,2024-06-02 00:00:00,Presidente Vargas - Fortaleza - CE,0,3,3,0,-3,3
+2024,7,São Paulo,Cruzeiro,1,0,Mandante,2,0,2024-06-02 00:00:00,Morumbi - Sao Paulo - SP,3,0,3,0,0,0
+2024,8,Juventude,Vitória,1,0,Mandante,1,1,2024-06-11 00:00:00,Alfredo Jaconi - Caxias do Sul - RS,3,0,1,1,2,-1
+2024,8,Atlético Goianiense,Corinthians,0,1,Visitante,2,2,2024-06-11 00:00:00,Antônio Accioly - Goiania - GO,0,3,1,1,-1,2
+2024,8,Botafogo,Fluminense,1,0,Mandante,1,0,2024-06-11 00:00:00,Nilton Santos - Rio de Janeiro - RJ,3,0,3,0,0,0
+2024,8,Red Bull Bragantino,Atlético Mineiro,0,1,Visitante,1,2,2024-06-11 00:00:00,Nabi Abi Chedid - Braganca Paulista - SP,0,3,0,3,0,0
+2024,8,Cruzeiro,Cuiabá,1,0,Mandante,2,1,2024-06-13 00:00:00,Mineirão - Belo Horizonte - MG,3,0,3,0,0,0
+2024,8,Athletico Paranaense,Criciúma,1,0,Mandante,3,1,2024-06-13 00:00:00,Arena da Baixada - Curitiba - PR,3,0,3,0,0,0
+2024,8,Flamengo,Grêmio,1,0,Mandante,2,1,2024-06-13 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,3,0,0,0
+2024,8,Internacional,São Paulo,0,1,Visitante,0,0,2024-06-13 00:00:00,Heriberto Hulse - Criciuma - SC,0,3,1,1,-1,2
+2024,8,Palmeiras,Vasco da Gama,1,0,Mandante,2,0,2024-06-13 00:00:00,Allianz Parque - Sao Paulo - SP,3,0,3,0,0,0
+2024,8,Bahia,Fortaleza,0,0,Empate,1,0,2024-06-13 00:00:00,Arena Fonte Nova - Salvador - BA,1,1,3,0,-2,1
+2024,9,Red Bull Bragantino,Juventude,1,0,Mandante,2,1,2024-06-15 00:00:00,Nabi Abi Chedid - Braganca Paulista - SP,3,0,3,0,0,0
+2024,9,Fluminense,Atlético Goianiense,0,0,Empate,1,2,2024-06-15 00:00:00,Maracanã - Rio de Janeiro - RJ,1,1,0,3,1,-2
+2024,9,Corinthians,São Paulo,0,1,Visitante,2,2,2024-06-16 00:00:00,Neo Química Arena - Sao Paulo - SP,0,3,1,1,-1,2
+2024,9,Vitória,Internacional,0,1,Visitante,2,1,2024-06-16 00:00:00,Manoel Barradas - Salvador - BA,0,3,3,0,-3,3
+2024,9,Athletico Paranaense,Flamengo,0,0,Empate,1,1,2024-06-16 00:00:00,Arena da Baixada - Curitiba - PR,1,1,1,1,0,0
+2024,9,Cuiabá,Fortaleza,0,1,Visitante,5,0,2024-06-16 00:00:00,Arena Pantanal - Cuiaba - MT,0,3,3,0,-3,3
+2024,9,Criciúma,Bahia,0,1,Visitante,2,2,2024-06-16 00:00:00,Heriberto Hulse - Criciuma - SC,0,3,1,1,-1,2
+2024,9,Grêmio,Botafogo,0,1,Visitante,1,2,2024-06-16 00:00:00,Kleber Andrade - Cariacica - ES,0,3,0,3,0,0
+2024,9,Vasco da Gama,Cruzeiro,0,1,Visitante,0,0,2024-06-16 00:00:00,São Januário - Rio de Janeiro - RJ,0,3,1,1,-1,2
+2024,9,Atlético Mineiro,Palmeiras,1,0,Mandante,0,4,2024-06-17 00:00:00,ARENA MRV - Belo Horizonte - MG,3,0,0,3,3,-3
+2024,10,Botafogo,Athletico Paranaense,0,0,Empate,1,1,2024-06-19 00:00:00,Nilton Santos - Rio de Janeiro - RJ,1,1,1,1,0,0
+2024,10,Atlético Goianiense,Criciúma,0,0,Empate,1,2,2024-06-19 00:00:00,Antônio Accioly - Goiania - GO,1,1,0,3,1,-2
+2024,10,São Paulo,Cuiabá,1,0,Mandante,0,1,2024-06-19 00:00:00,Morumbi - Sao Paulo - SP,3,0,0,3,3,-3
+2024,10,Juventude,Vasco da Gama,1,0,Mandante,2,0,2024-06-19 00:00:00,Alfredo Jaconi - Caxias do Sul - RS,3,0,3,0,0,0
+2024,10,Fortaleza,Grêmio,0,0,Empate,1,0,2024-06-19 00:00:00,Arena Castelão - Fortaleza - CE,1,1,3,0,-2,1
+2024,10,Cruzeiro,Fluminense,1,0,Mandante,2,0,2024-06-19 00:00:00,Mineirão - Belo Horizonte - MG,3,0,3,0,0,0
+2024,10,Internacional,Corinthians,1,0,Mandante,1,0,2024-06-19 00:00:00,Orlando Scarpelli - Florianopolis - SC,3,0,3,0,0,0
+2024,10,Vitória,Atlético Mineiro,0,1,Visitante,4,2,2024-06-20 00:00:00,Manoel Barradas - Salvador - BA,0,3,3,0,-3,3
+2024,10,Flamengo,Bahia,1,0,Mandante,2,1,2024-06-20 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,3,0,0,0
+2024,10,Palmeiras,Red Bull Bragantino,1,0,Mandante,2,1,2024-06-20 00:00:00,Allianz Parque - Sao Paulo - SP,3,0,3,0,0,0
+2024,11,Criciúma,Botafogo,0,1,Visitante,2,1,2024-06-22 00:00:00,Heriberto Hulse - Criciuma - SC,0,3,3,0,-3,3
+2024,11,Grêmio,Internacional,0,1,Visitante,0,1,2024-06-22 00:00:00,Couto Pereira - Curitiba - PR,0,3,0,3,0,0
+2024,11,Cuiabá,Atlético Goianiense,1,0,Mandante,0,0,2024-06-22 00:00:00,Arena Pantanal - Cuiaba - MT,3,0,1,1,2,-1
+2024,11,Vasco da Gama,São Paulo,0,1,Visitante,4,1,2024-06-22 00:00:00,São Januário - Rio de Janeiro - RJ,0,3,3,0,-3,3
+2024,11,Bahia,Cruzeiro,1,0,Mandante,4,1,2024-06-23 00:00:00,Arena Fonte Nova - Salvador - BA,3,0,3,0,0,0
+2024,11,Athletico Paranaense,Corinthians,1,0,Mandante,1,1,2024-06-23 00:00:00,Arena da Baixada - Curitiba - PR,3,0,1,1,2,-1
+2024,11,Fluminense,Flamengo,0,1,Visitante,0,1,2024-06-23 00:00:00,Maracanã - Rio de Janeiro - RJ,0,3,0,3,0,0
+2024,11,Palmeiras,Juventude,1,0,Mandante,3,1,2024-06-23 00:00:00,Allianz Parque - Sao Paulo - SP,3,0,3,0,0,0
+2024,11,Red Bull Bragantino,Vitória,1,0,Mandante,2,1,2024-06-23 00:00:00,Nabi Abi Chedid - Braganca Paulista - SP,3,0,3,0,0,0
+2024,11,Atlético Mineiro,Fortaleza,1,0,Mandante,1,1,2024-06-23 00:00:00,ARENA MRV - Belo Horizonte - MG,3,0,1,1,2,-1
+2024,12,Botafogo,Red Bull Bragantino,1,0,Mandante,2,1,2024-06-26 00:00:00,Nilton Santos - Rio de Janeiro - RJ,3,0,3,0,0,0
+2024,12,Cruzeiro,Athletico Paranaense,0,1,Visitante,2,0,2024-06-26 00:00:00,Mineirão - Belo Horizonte - MG,0,3,3,0,-3,3
+2024,12,Juventude,Flamengo,0,1,Visitante,2,1,2024-06-26 00:00:00,Alfredo Jaconi - Caxias do Sul - RS,0,3,3,0,-3,3
+2024,12,Corinthians,Cuiabá,0,1,Visitante,1,1,2024-06-26 00:00:00,Neo Química Arena - Sao Paulo - SP,0,3,1,1,-1,2
+2024,12,Atlético Goianiense,Grêmio,1,0,Mandante,1,1,2024-06-26 00:00:00,Antônio Accioly - Goiania - GO,3,0,1,1,2,-1
+2024,12,Bahia,Vasco da Gama,1,0,Mandante,2,1,2024-06-26 00:00:00,Arena Fonte Nova - Salvador - BA,3,0,3,0,0,0
+2024,12,Internacional,Atlético Mineiro,1,0,Mandante,1,2,2024-06-26 00:00:00,Heriberto Hulse - Criciuma - SC,3,0,0,3,3,-3
+2024,12,Fortaleza,Palmeiras,0,1,Visitante,3,0,2024-06-26 00:00:00,Arena Castelão - Fortaleza - CE,0,3,3,0,-3,3
+2024,12,Fluminense,Vitória,0,1,Visitante,0,1,2024-06-27 00:00:00,Maracanã - Rio de Janeiro - RJ,0,3,0,3,0,0
+2024,12,São Paulo,Criciúma,0,0,Empate,2,1,2024-06-27 00:00:00,Morumbi - Sao Paulo - SP,1,1,3,0,-2,1
+2024,13,Cuiabá,Red Bull Bragantino,0,0,Empate,1,1,2024-06-29 00:00:00,Arena Pantanal - Cuiaba - MT,1,1,1,1,0,0
+2024,13,Vasco da Gama,Botafogo,0,1,Visitante,1,1,2024-06-29 00:00:00,São Januário - Rio de Janeiro - RJ,0,3,1,1,-1,2
+2024,13,Atlético Mineiro,Atlético Goianiense,1,0,Mandante,1,1,2024-06-30 00:00:00,ARENA MRV - Belo Horizonte - MG,3,0,1,1,2,-1
+2024,13,Fortaleza,Juventude,1,0,Mandante,2,1,2024-06-30 00:00:00,Arena Castelão - Fortaleza - CE,3,0,3,0,0,0
+2024,13,São Paulo,Bahia,0,1,Visitante,3,1,2024-06-30 00:00:00,Morumbi - Sao Paulo - SP,0,3,3,0,-3,3
+2024,13,Grêmio,Fluminense,1,0,Mandante,1,0,2024-06-30 00:00:00,Centenário - Caxias do Sul - RS,3,0,3,0,0,0
+2024,13,Flamengo,Cruzeiro,1,0,Mandante,2,1,2024-06-30 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,3,0,0,0
+2024,13,Criciúma,Internacional,0,1,Visitante,1,1,2024-06-30 00:00:00,Heriberto Hulse - Criciuma - SC,0,3,1,1,-1,2
+2024,13,Vitória,Athletico Paranaense,0,1,Visitante,0,1,2024-06-30 00:00:00,Manoel Barradas - Salvador - BA,0,3,0,3,0,0
+2024,13,Palmeiras,Corinthians,1,0,Mandante,2,0,2024-07-01 00:00:00,Allianz Parque - Sao Paulo - SP,3,0,3,0,0,0
+2024,14,Cuiabá,Botafogo,0,1,Visitante,1,2,2024-07-03 00:00:00,Arena Pantanal - Cuiaba - MT,0,3,0,3,0,0
+2024,14,Criciúma,Cruzeiro,0,0,Empate,1,0,2024-07-03 00:00:00,Heriberto Hulse - Criciuma - SC,1,1,3,0,-2,1
+2024,14,Vasco da Gama,Fortaleza,0,1,Visitante,2,0,2024-07-03 00:00:00,São Januário - Rio de Janeiro - RJ,0,3,3,0,-3,3
+2024,14,Atlético Mineiro,Flamengo,0,1,Visitante,2,4,2024-07-03 00:00:00,ARENA MRV - Belo Horizonte - MG,0,3,0,3,0,0
+2024,14,Athletico Paranaense,São Paulo,0,0,Empate,1,2,2024-07-03 00:00:00,Arena da Baixada - Curitiba - PR,1,1,0,3,1,-2
+2024,14,Red Bull Bragantino,Atlético Goianiense,1,0,Mandante,3,1,2024-07-03 00:00:00,Nabi Abi Chedid - Braganca Paulista - SP,3,0,3,0,0,0
+2024,14,Grêmio,Palmeiras,0,1,Visitante,2,2,2024-07-04 00:00:00,Centenário - Caxias do Sul - RS,0,3,1,1,-1,2
+2024,14,Bahia,Juventude,1,0,Mandante,2,0,2024-07-04 00:00:00,Arena Fonte Nova - Salvador - BA,3,0,3,0,0,0
+2024,14,Fluminense,Internacional,0,1,Visitante,1,1,2024-07-04 00:00:00,Maracanã - Rio de Janeiro - RJ,0,3,1,1,-1,2
+2024,14,Corinthians,Vitória,0,0,Empate,3,2,2024-07-04 00:00:00,Neo Química Arena - Sao Paulo - SP,1,1,3,0,-2,1
+2024,15,São Paulo,Red Bull Bragantino,0,0,Empate,2,0,2024-07-06 00:00:00,Morumbi - Sao Paulo - SP,1,1,3,0,-2,1
+2024,15,Flamengo,Cuiabá,1,0,Mandante,1,1,2024-07-06 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,1,1,2,-1
+2024,15,Fortaleza,Fluminense,1,0,Mandante,1,0,2024-07-07 00:00:00,Arena Castelão - Fortaleza - CE,3,0,3,0,0,0
+2024,15,Cruzeiro,Corinthians,1,0,Mandante,3,0,2024-07-07 00:00:00,Mineirão - Belo Horizonte - MG,3,0,3,0,0,0
+2024,15,Juventude,Grêmio,0,0,Empate,3,0,2024-07-07 00:00:00,Alfredo Jaconi - Caxias do Sul - RS,1,1,3,0,-2,1
+2024,15,Internacional,Vasco da Gama,1,0,Mandante,1,2,2024-07-07 00:00:00,Beira-Rio - Porto Alegre - RS,3,0,0,3,3,-3
+2024,15,Palmeiras,Bahia,0,0,Empate,2,0,2024-07-07 00:00:00,Allianz Parque - Sao Paulo - SP,1,1,3,0,-2,1
+2024,15,Vitória,Criciúma,0,1,Visitante,2,1,2024-07-07 00:00:00,Manoel Barradas - Salvador - BA,0,3,3,0,-3,3
+2024,15,Atlético Goianiense,Athletico Paranaense,0,1,Visitante,1,2,2024-07-07 00:00:00,Antônio Accioly - Goiania - GO,0,3,0,3,0,0
+2024,15,Botafogo,Atlético Mineiro,1,0,Mandante,3,0,2024-07-07 00:00:00,Nilton Santos - Rio de Janeiro - RJ,3,0,3,0,0,0
+2024,16,Grêmio,Cruzeiro,0,1,Visitante,0,2,2024-07-10 00:00:00,Centenário - Caxias do Sul - RS,0,3,0,3,0,0
+2024,16,Athletico Paranaense,Bahia,0,0,Empate,1,3,2024-07-10 00:00:00,Arena da Baixada - Curitiba - PR,1,1,0,3,1,-2
+2024,16,Vasco da Gama,Corinthians,1,0,Mandante,2,0,2024-07-10 00:00:00,São Januário - Rio de Janeiro - RJ,3,0,3,0,0,0
+2024,16,Palmeiras,Atlético Goianiense,1,0,Mandante,3,1,2024-07-11 00:00:00,Allianz Parque - Sao Paulo - SP,3,0,3,0,0,0
+2024,16,Flamengo,Fortaleza,1,0,Mandante,1,2,2024-07-11 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,0,3,3,-3
+2024,16,Criciúma,Fluminense,1,0,Mandante,1,1,2024-07-11 00:00:00,Heriberto Hulse - Criciuma - SC,3,0,1,1,2,-1
+2024,16,Vitória,Botafogo,0,1,Visitante,0,1,2024-07-11 00:00:00,Manoel Barradas - Salvador - BA,0,3,0,3,0,0
+2024,16,Atlético Mineiro,São Paulo,0,1,Visitante,2,1,2024-07-11 00:00:00,ARENA MRV - Belo Horizonte - MG,0,3,3,0,-3,3
+2024,16,Cuiabá,Juventude,1,0,Mandante,0,0,2024-09-05 00:00:00,Arena Pantanal - Cuiaba - MT,3,0,1,1,2,-1
+2024,16,Red Bull Bragantino,Internacional,1,0,Mandante,2,2,2024-09-25 00:00:00,Nabi Abi Chedid - Braganca Paulista - SP,3,0,1,1,2,-1
+2024,17,Cruzeiro,Red Bull Bragantino,1,0,Mandante,2,1,2024-07-13 00:00:00,Independência - Belo Horizonte - MG,3,0,3,0,0,0
+2024,17,Bahia,Cuiabá,1,0,Mandante,1,2,2024-07-13 00:00:00,Arena Fonte Nova - Salvador - BA,3,0,0,3,3,-3
+2024,17,Juventude,Atlético Mineiro,1,0,Mandante,1,1,2024-07-16 00:00:00,Mané Garrincha - Brasilia - DF,3,0,1,1,2,-1
+2024,17,Corinthians,Criciúma,0,1,Visitante,2,1,2024-07-16 00:00:00,Neo Química Arena - Sao Paulo - SP,0,3,3,0,-3,3
+2024,17,Atlético Goianiense,Vasco da Gama,0,1,Visitante,0,1,2024-07-17 00:00:00,Antônio Accioly - Goiania - GO,0,3,0,3,0,0
+2024,17,São Paulo,Grêmio,1,0,Mandante,1,0,2024-07-17 00:00:00,Morumbi - Sao Paulo - SP,3,0,3,0,0,0
+2024,17,Fortaleza,Vitória,1,0,Mandante,3,1,2024-07-17 00:00:00,Arena Castelão - Fortaleza - CE,3,0,3,0,0,0
+2024,17,Botafogo,Palmeiras,0,0,Empate,1,0,2024-07-17 00:00:00,Nilton Santos - Rio de Janeiro - RJ,1,1,3,0,-2,1
+2024,17,Fluminense,Athletico Paranaense,0,1,Visitante,1,0,2024-10-22 00:00:00,Maracanã - Rio de Janeiro - RJ,0,3,3,0,-3,3
+2024,17,Internacional,Flamengo,0,1,Visitante,1,1,2024-10-30 00:00:00,Beira-Rio - Porto Alegre - RS,0,3,1,1,-1,2
+2024,18,Flamengo,Criciúma,1,0,Mandante,2,1,2024-07-20 00:00:00,Mané Garrincha - Brasilia - DF,3,0,3,0,0,0
+2024,18,Botafogo,Internacional,1,0,Mandante,1,0,2024-07-20 00:00:00,Nilton Santos - Rio de Janeiro - RJ,3,0,3,0,0,0
+2024,18,Palmeiras,Cruzeiro,1,0,Mandante,2,0,2024-07-20 00:00:00,Allianz Parque - Sao Paulo - SP,3,0,3,0,0,0
+2024,18,Grêmio,Vitória,0,1,Visitante,2,0,2024-07-21 00:00:00,Centenário - Caxias do Sul - RS,0,3,3,0,-3,3
+2024,18,Bahia,Corinthians,1,0,Mandante,0,1,2024-07-21 00:00:00,Arena Fonte Nova - Salvador - BA,3,0,0,3,3,-3
+2024,18,Atlético Mineiro,Vasco da Gama,0,1,Visitante,2,0,2024-07-21 00:00:00,ARENA MRV - Belo Horizonte - MG,0,3,3,0,-3,3
+2024,18,Red Bull Bragantino,Athletico Paranaense,0,0,Empate,1,0,2024-07-21 00:00:00,Nabi Abi Chedid - Braganca Paulista - SP,1,1,3,0,-2,1
+2024,18,Fortaleza,Atlético Goianiense,1,0,Mandante,3,1,2024-07-21 00:00:00,Arena Castelão - Fortaleza - CE,3,0,3,0,0,0
+2024,18,Juventude,São Paulo,0,1,Visitante,0,0,2024-07-21 00:00:00,Mané Garrincha - Brasilia - DF,0,3,1,1,-1,2
+2024,18,Cuiabá,Fluminense,1,0,Mandante,0,1,2024-07-21 00:00:00,Arena Pantanal - Cuiaba - MT,3,0,0,3,3,-3
+2024,19,Cruzeiro,Juventude,1,0,Mandante,2,0,2024-07-24 00:00:00,Mineirão - Belo Horizonte - MG,3,0,3,0,0,0
+2024,19,São Paulo,Botafogo,0,1,Visitante,2,2,2024-07-24 00:00:00,Morumbi - Sao Paulo - SP,0,3,1,1,-1,2
+2024,19,Vitória,Flamengo,0,1,Visitante,1,2,2024-07-24 00:00:00,Manoel Barradas - Salvador - BA,0,3,0,3,0,0
+2024,19,Fluminense,Palmeiras,0,1,Visitante,1,0,2024-07-24 00:00:00,Maracanã - Rio de Janeiro - RJ,0,3,3,0,-3,3
+2024,19,Atlético Goianiense,Bahia,0,1,Visitante,1,1,2024-07-24 00:00:00,Antônio Accioly - Goiania - GO,0,3,1,1,-1,2
+2024,19,Corinthians,Grêmio,1,0,Mandante,2,2,2024-07-25 00:00:00,Neo Química Arena - Sao Paulo - SP,3,0,1,1,2,-1
+2024,19,Criciúma,Red Bull Bragantino,0,1,Visitante,1,0,2024-08-28 00:00:00,Heriberto Hulse - Criciuma - SC,0,3,3,0,-3,3
+2024,19,Internacional,Fortaleza,0,1,Visitante,2,1,2024-09-11 00:00:00,Beira-Rio - Porto Alegre - RS,0,3,3,0,-3,3
+2024,19,Vasco da Gama,Cuiabá,0,1,Visitante,1,0,2024-10-24 00:00:00,São Januário - Rio de Janeiro - RJ,0,3,3,0,-3,3
+2024,19,Athletico Paranaense,Atlético Mineiro,0,1,Visitante,1,0,2024-11-16 00:00:00,Arena da Baixada - Curitiba - PR,0,3,3,0,-3,3
+2024,20,Juventude,Criciúma,0,0,Empate,1,2,2024-07-27 00:00:00,Alfredo Jaconi - Caxias do Sul - RS,1,1,0,3,1,-2
+2024,20,Palmeiras,Vitória,1,0,Mandante,0,2,2024-07-27 00:00:00,Allianz Parque - Sao Paulo - SP,3,0,0,3,3,-3
+2024,20,Bahia,Internacional,1,0,Mandante,1,1,2024-07-27 00:00:00,Arena Fonte Nova - Salvador - BA,3,0,1,1,2,-1
+2024,20,Botafogo,Cruzeiro,1,0,Mandante,0,3,2024-07-27 00:00:00,Nilton Santos - Rio de Janeiro - RJ,3,0,0,3,3,-3
+2024,20,Fortaleza,São Paulo,0,1,Visitante,1,0,2024-07-27 00:00:00,Arena Castelão - Fortaleza - CE,0,3,3,0,-3,3
+2024,20,Red Bull Bragantino,Fluminense,1,0,Mandante,0,1,2024-07-28 00:00:00,Nabi Abi Chedid - Braganca Paulista - SP,3,0,0,3,3,-3
+2024,20,Flamengo,Atlético Goianiense,1,0,Mandante,2,0,2024-07-28 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,3,0,0,0
+2024,20,Cuiabá,Athletico Paranaense,0,0,Empate,1,2,2024-07-28 00:00:00,Arena Pantanal - Cuiaba - MT,1,1,0,3,1,-2
+2024,20,Grêmio,Vasco da Gama,0,1,Visitante,1,0,2024-07-28 00:00:00,Arena Condá - Chapeco - SC,0,3,3,0,-3,3
+2024,20,Atlético Mineiro,Corinthians,1,0,Mandante,2,1,2024-07-28 00:00:00,ARENA MRV - Belo Horizonte - MG,3,0,3,0,0,0
+2024,21,Vitória,Cuiabá,0,1,Visitante,1,0,2024-08-03 00:00:00,Manoel Barradas - Salvador - BA,0,3,3,0,-3,3
+2024,21,Vasco da Gama,Red Bull Bragantino,0,0,Empate,2,2,2024-08-03 00:00:00,São Januário - Rio de Janeiro - RJ,1,1,1,1,0,0
+2024,21,Atlético Goianiense,Botafogo,0,1,Visitante,1,4,2024-08-03 00:00:00,Antônio Accioly - Goiania - GO,0,3,0,3,0,0
+2024,21,Criciúma,Atlético Mineiro,0,0,Empate,2,1,2024-08-03 00:00:00,Heriberto Hulse - Criciuma - SC,1,1,3,0,-2,1
+2024,21,São Paulo,Flamengo,0,1,Visitante,1,0,2024-08-03 00:00:00,Morumbi - Sao Paulo - SP,0,3,3,0,-3,3
+2024,21,Corinthians,Juventude,0,1,Visitante,1,1,2024-08-04 00:00:00,Neo Química Arena - Sao Paulo - SP,0,3,1,1,-1,2
+2024,21,Fluminense,Bahia,0,1,Visitante,1,0,2024-08-04 00:00:00,Maracanã - Rio de Janeiro - RJ,0,3,3,0,-3,3
+2024,21,Athletico Paranaense,Grêmio,1,0,Mandante,0,2,2024-08-04 00:00:00,Arena da Baixada - Curitiba - PR,3,0,0,3,3,-3
+2024,21,Internacional,Palmeiras,0,1,Visitante,1,1,2024-08-04 00:00:00,Beira-Rio - Porto Alegre - RS,0,3,1,1,-1,2
+2024,21,Cruzeiro,Fortaleza,1,0,Mandante,1,2,2024-08-05 00:00:00,Kleber Andrade - Cariacica - ES,3,0,0,3,3,-3
+2024,22,Fortaleza,Criciúma,1,0,Mandante,1,0,2024-08-10 00:00:00,Arena Castelão - Fortaleza - CE,3,0,3,0,0,0
+2024,22,Cuiabá,Grêmio,0,0,Empate,1,3,2024-08-10 00:00:00,Arena Pantanal - Cuiaba - MT,1,1,0,3,1,-2
+2024,22,Cruzeiro,Atlético Mineiro,1,0,Mandante,0,0,2024-08-10 00:00:00,Mineirão - Belo Horizonte - MG,3,0,1,1,2,-1
+2024,22,Corinthians,Red Bull Bragantino,0,1,Visitante,1,1,2024-08-10 00:00:00,Neo Química Arena - Sao Paulo - SP,0,3,1,1,-1,2
+2024,22,Vasco da Gama,Fluminense,0,0,Empate,2,0,2024-08-10 00:00:00,Nilton Santos - Rio de Janeiro - RJ,1,1,3,0,-2,1
+2024,22,Juventude,Botafogo,0,1,Visitante,3,2,2024-08-11 00:00:00,Alfredo Jaconi - Caxias do Sul - RS,0,3,3,0,-3,3
+2024,22,São Paulo,Atlético Goianiense,1,0,Mandante,1,0,2024-08-11 00:00:00,Morumbi - Sao Paulo - SP,3,0,3,0,0,0
+2024,22,Flamengo,Palmeiras,1,0,Mandante,1,1,2024-08-11 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,1,1,2,-1
+2024,22,Bahia,Vitória,1,0,Mandante,2,0,2024-08-11 00:00:00,Arena Fonte Nova - Salvador - BA,3,0,3,0,0,0
+2024,22,Internacional,Athletico Paranaense,1,0,Mandante,2,2,2024-08-11 00:00:00,Beira-Rio - Porto Alegre - RS,3,0,1,1,2,-1
+2024,23,Grêmio,Bahia,0,1,Visitante,0,2,2024-08-17 00:00:00,Alfredo Jaconi - Caxias do Sul - RS,0,3,0,3,0,0
+2024,23,Atlético Mineiro,Cuiabá,1,0,Mandante,1,1,2024-08-17 00:00:00,ARENA MRV - Belo Horizonte - MG,3,0,1,1,2,-1
+2024,23,Red Bull Bragantino,Fortaleza,0,1,Visitante,1,2,2024-08-17 00:00:00,Nabi Abi Chedid - Braganca Paulista - SP,0,3,0,3,0,0
+2024,23,Fluminense,Corinthians,0,0,Empate,0,0,2024-08-17 00:00:00,Maracanã - Rio de Janeiro - RJ,1,1,1,1,0,0
+2024,23,Palmeiras,São Paulo,0,0,Empate,2,1,2024-08-18 00:00:00,Allianz Parque - Sao Paulo - SP,1,1,3,0,-2,1
+2024,23,Criciúma,Vasco da Gama,0,0,Empate,2,2,2024-08-18 00:00:00,Heriberto Hulse - Criciuma - SC,1,1,1,1,0,0
+2024,23,Atlético Goianiense,Internacional,0,1,Visitante,1,0,2024-08-18 00:00:00,Antônio Accioly - Goiania - GO,0,3,3,0,-3,3
+2024,23,Botafogo,Flamengo,0,0,Empate,4,1,2024-08-18 00:00:00,Nilton Santos - Rio de Janeiro - RJ,1,1,3,0,-2,1
+2024,23,Athletico Paranaense,Juventude,0,0,Empate,1,2,2024-08-18 00:00:00,Arena da Baixada - Curitiba - PR,1,1,0,3,1,-2
+2024,23,Vitória,Cruzeiro,0,1,Visitante,2,2,2024-08-19 00:00:00,Manoel Barradas - Salvador - BA,0,3,1,1,-1,2
+2024,24,Atlético Goianiense,Juventude,0,1,Visitante,2,1,2024-08-24 00:00:00,Antônio Accioly - Goiania - GO,0,3,3,0,-3,3
+2024,24,Palmeiras,Cuiabá,1,0,Mandante,5,0,2024-08-24 00:00:00,Brinco de Ouro - Campinas - SP,3,0,3,0,0,0
+2024,24,Atlético Mineiro,Fluminense,1,0,Mandante,0,2,2024-08-24 00:00:00,Mineirão - Belo Horizonte - MG,3,0,0,3,3,-3
+2024,24,Bahia,Botafogo,0,1,Visitante,0,0,2024-08-25 00:00:00,Arena Fonte Nova - Salvador - BA,0,3,1,1,-1,2
+2024,24,Criciúma,Grêmio,1,0,Mandante,0,1,2024-08-25 00:00:00,Heriberto Hulse - Criciuma - SC,3,0,0,3,3,-3
+2024,24,Fortaleza,Corinthians,1,0,Mandante,1,0,2024-08-25 00:00:00,Arena Castelão - Fortaleza - CE,3,0,3,0,0,0
+2024,24,São Paulo,Vitória,1,0,Mandante,2,1,2024-08-25 00:00:00,Morumbi - Sao Paulo - SP,3,0,3,0,0,0
+2024,24,Internacional,Cruzeiro,0,1,Visitante,1,0,2024-08-25 00:00:00,Beira-Rio - Porto Alegre - RS,0,3,3,0,-3,3
+2024,24,Flamengo,Red Bull Bragantino,1,0,Mandante,2,1,2024-08-25 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,3,0,0,0
+2024,24,Vasco da Gama,Athletico Paranaense,1,0,Mandante,2,1,2024-08-26 00:00:00,São Januário - Rio de Janeiro - RJ,3,0,3,0,0,0
+2024,25,Cuiabá,Criciúma,0,1,Visitante,2,1,2024-08-31 00:00:00,Arena Pantanal - Cuiaba - MT,0,3,3,0,-3,3
+2024,25,Botafogo,Fortaleza,1,0,Mandante,2,0,2024-08-31 00:00:00,Nilton Santos - Rio de Janeiro - RJ,3,0,3,0,0,0
+2024,25,Cruzeiro,Atlético Goianiense,1,0,Mandante,3,1,2024-09-01 00:00:00,Mineirão - Belo Horizonte - MG,3,0,3,0,0,0
+2024,25,Grêmio,Atlético Mineiro,1,0,Mandante,2,3,2024-09-01 00:00:00,Arena do Grêmio - Porto Alegre - RS,3,0,0,3,3,-3
+2024,25,Corinthians,Flamengo,0,1,Visitante,2,1,2024-09-01 00:00:00,Neo Química Arena - Sao Paulo - SP,0,3,3,0,-3,3
+2024,25,Red Bull Bragantino,Bahia,0,1,Visitante,2,1,2024-09-01 00:00:00,Nabi Abi Chedid - Braganca Paulista - SP,0,3,3,0,-3,3
+2024,25,Fluminense,São Paulo,0,1,Visitante,2,0,2024-09-01 00:00:00,Maracanã - Rio de Janeiro - RJ,0,3,3,0,-3,3
+2024,25,Athletico Paranaense,Palmeiras,0,1,Visitante,0,2,2024-09-01 00:00:00,Arena da Baixada - Curitiba - PR,0,3,0,3,0,0
+2024,25,Juventude,Internacional,0,1,Visitante,1,3,2024-09-01 00:00:00,Alfredo Jaconi - Caxias do Sul - RS,0,3,0,3,0,0
+2024,25,Vitória,Vasco da Gama,0,1,Visitante,0,1,2024-09-01 00:00:00,Manoel Barradas - Salvador - BA,0,3,0,3,0,0
+2024,26,Atlético Goianiense,Vitória,0,1,Visitante,0,2,2024-09-14 00:00:00,Antônio Accioly - Goiania - GO,0,3,0,3,0,0
+2024,26,Athletico Paranaense,Fortaleza,0,1,Visitante,1,1,2024-09-14 00:00:00,Arena da Baixada - Curitiba - PR,0,3,1,1,-1,2
+2024,26,Botafogo,Corinthians,1,0,Mandante,2,1,2024-09-14 00:00:00,Nilton Santos - Rio de Janeiro - RJ,3,0,3,0,0,0
+2024,26,Juventude,Fluminense,0,1,Visitante,2,1,2024-09-15 00:00:00,Alfredo Jaconi - Caxias do Sul - RS,0,3,3,0,-3,3
+2024,26,Red Bull Bragantino,Grêmio,0,0,Empate,2,2,2024-09-15 00:00:00,Nabi Abi Chedid - Braganca Paulista - SP,1,1,1,1,0,0
+2024,26,Palmeiras,Criciúma,1,0,Mandante,5,0,2024-09-15 00:00:00,Allianz Parque - Sao Paulo - SP,3,0,3,0,0,0
+2024,26,Flamengo,Vasco da Gama,1,0,Mandante,1,1,2024-09-15 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,1,1,2,-1
+2024,26,Cruzeiro,São Paulo,1,0,Mandante,0,1,2024-09-15 00:00:00,Mineirão - Belo Horizonte - MG,3,0,0,3,3,-3
+2024,26,Bahia,Atlético Mineiro,1,0,Mandante,3,0,2024-09-15 00:00:00,Arena Fonte Nova - Salvador - BA,3,0,3,0,0,0
+2024,26,Internacional,Cuiabá,1,0,Mandante,3,0,2024-09-16 00:00:00,Beira-Rio - Porto Alegre - RS,3,0,3,0,0,0
+2024,27,Corinthians,Atlético Goianiense,1,0,Mandante,3,0,2024-09-21 00:00:00,Neo Química Arena - Sao Paulo - SP,3,0,3,0,0,0
+2024,27,Vitória,Juventude,0,1,Visitante,1,0,2024-09-21 00:00:00,Manoel Barradas - Salvador - BA,0,3,3,0,-3,3
+2024,27,Fluminense,Botafogo,0,1,Visitante,0,1,2024-09-21 00:00:00,Maracanã - Rio de Janeiro - RJ,0,3,0,3,0,0
+2024,27,Fortaleza,Bahia,0,0,Empate,4,1,2024-09-21 00:00:00,Arena Castelão - Fortaleza - CE,1,1,3,0,-2,1
+2024,27,Atlético Mineiro,Red Bull Bragantino,0,1,Visitante,3,0,2024-09-22 00:00:00,ARENA MRV - Belo Horizonte - MG,0,3,3,0,-3,3
+2024,27,Vasco da Gama,Palmeiras,0,1,Visitante,0,1,2024-09-22 00:00:00,Mané Garrincha - Brasilia - DF,0,3,0,3,0,0
+2024,27,Cuiabá,Cruzeiro,0,1,Visitante,0,0,2024-09-22 00:00:00,Arena Pantanal - Cuiaba - MT,0,3,1,1,-1,2
+2024,27,Grêmio,Flamengo,0,1,Visitante,3,2,2024-09-22 00:00:00,Arena do Grêmio - Porto Alegre - RS,0,3,3,0,-3,3
+2024,27,São Paulo,Internacional,0,0,Empate,1,3,2024-09-22 00:00:00,Morumbi - Sao Paulo - SP,1,1,0,3,1,-2
+2024,27,Criciúma,Athletico Paranaense,0,0,Empate,0,0,2024-09-22 00:00:00,Heriberto Hulse - Criciuma - SC,1,1,1,1,0,0
+2024,28,Palmeiras,Atlético Mineiro,1,0,Mandante,2,1,2024-09-28 00:00:00,Brinco de Ouro - Campinas - SP,3,0,3,0,0,0
+2024,28,Botafogo,Grêmio,1,0,Mandante,0,0,2024-09-28 00:00:00,Mané Garrincha - Brasilia - DF,3,0,1,1,2,-1
+2024,28,Juventude,Red Bull Bragantino,0,0,Empate,1,1,2024-09-29 00:00:00,Alfredo Jaconi - Caxias do Sul - RS,1,1,1,1,0,0
+2024,28,Fortaleza,Cuiabá,1,0,Mandante,1,0,2024-09-29 00:00:00,Arena Castelão - Fortaleza - CE,3,0,3,0,0,0
+2024,28,São Paulo,Corinthians,1,0,Mandante,3,1,2024-09-29 00:00:00,Mané Garrincha - Brasilia - DF,3,0,3,0,0,0
+2024,28,Atlético Goianiense,Fluminense,0,1,Visitante,1,0,2024-09-29 00:00:00,Antônio Accioly - Goiania - GO,0,3,3,0,-3,3
+2024,28,Bahia,Criciúma,1,0,Mandante,1,0,2024-09-29 00:00:00,Arena Fonte Nova - Salvador - BA,3,0,3,0,0,0
+2024,28,Internacional,Vitória,1,0,Mandante,3,1,2024-09-29 00:00:00,Beira-Rio - Porto Alegre - RS,3,0,3,0,0,0
+2024,28,Cruzeiro,Vasco da Gama,1,0,Mandante,1,1,2024-09-29 00:00:00,Mineirão - Belo Horizonte - MG,3,0,1,1,2,-1
+2024,28,Flamengo,Athletico Paranaense,1,0,Mandante,1,0,2024-09-29 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,3,0,0,0
+2024,29,Criciúma,Atlético Goianiense,1,0,Mandante,2,0,2024-10-03 00:00:00,Heriberto Hulse - Criciuma - SC,3,0,3,0,0,0
+2024,29,Fluminense,Cruzeiro,0,1,Visitante,1,0,2024-10-03 00:00:00,Maracanã - Rio de Janeiro - RJ,0,3,3,0,-3,3
+2024,29,Grêmio,Fortaleza,0,1,Visitante,3,1,2024-10-04 00:00:00,Arena do Grêmio - Porto Alegre - RS,0,3,3,0,-3,3
+2024,29,Red Bull Bragantino,Palmeiras,0,1,Visitante,0,0,2024-10-05 00:00:00,Nabi Abi Chedid - Braganca Paulista - SP,0,3,1,1,-1,2
+2024,29,Athletico Paranaense,Botafogo,0,1,Visitante,0,1,2024-10-05 00:00:00,Arena da Baixada - Curitiba - PR,0,3,0,3,0,0
+2024,29,Atlético Mineiro,Vitória,1,0,Mandante,2,2,2024-10-05 00:00:00,ARENA MRV - Belo Horizonte - MG,3,0,1,1,2,-1
+2024,29,Bahia,Flamengo,0,0,Empate,0,2,2024-10-05 00:00:00,Arena Fonte Nova - Salvador - BA,1,1,0,3,1,-2
+2024,29,Cuiabá,São Paulo,0,1,Visitante,2,0,2024-10-05 00:00:00,Arena Pantanal - Cuiaba - MT,0,3,3,0,-3,3
+2024,29,Corinthians,Internacional,0,1,Visitante,2,2,2024-10-05 00:00:00,Neo Química Arena - Sao Paulo - SP,0,3,1,1,-1,2
+2024,29,Vasco da Gama,Juventude,1,0,Mandante,1,1,2024-10-05 00:00:00,São Januário - Rio de Janeiro - RJ,3,0,1,1,2,-1
+2024,30,São Paulo,Vasco da Gama,0,0,Empate,3,0,2024-10-16 00:00:00,Brinco de Ouro - Campinas - SP,1,1,3,0,-2,1
+2024,30,Fortaleza,Atlético Mineiro,1,0,Mandante,1,1,2024-10-16 00:00:00,Arena Castelão - Fortaleza - CE,3,0,1,1,2,-1
+2024,30,Corinthians,Athletico Paranaense,1,0,Mandante,5,2,2024-10-17 00:00:00,Neo Química Arena - Sao Paulo - SP,3,0,3,0,0,0
+2024,30,Flamengo,Fluminense,1,0,Mandante,0,2,2024-10-17 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,0,3,3,-3
+2024,30,Atlético Goianiense,Cuiabá,0,1,Visitante,0,0,2024-10-18 00:00:00,Antônio Accioly - Goiania - GO,0,3,1,1,-1,2
+2024,30,Botafogo,Criciúma,1,0,Mandante,1,1,2024-10-18 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,1,1,2,-1
+2024,30,Cruzeiro,Bahia,1,0,Mandante,1,1,2024-10-18 00:00:00,Mineirão - Belo Horizonte - MG,3,0,1,1,2,-1
+2024,30,Vitória,Red Bull Bragantino,0,0,Empate,1,0,2024-10-19 00:00:00,Manoel Barradas - Salvador - BA,1,1,3,0,-2,1
+2024,30,Internacional,Grêmio,1,0,Mandante,1,0,2024-10-19 00:00:00,Beira-Rio - Porto Alegre - RS,3,0,3,0,0,0
+2024,30,Juventude,Palmeiras,0,1,Visitante,3,5,2024-10-20 00:00:00,Alfredo Jaconi - Caxias do Sul - RS,0,3,0,3,0,0
+2024,31,Vitória,Fluminense,0,1,Visitante,2,1,2024-10-26 00:00:00,Manoel Barradas - Salvador - BA,0,3,3,0,-3,3
+2024,31,Grêmio,Atlético Goianiense,1,0,Mandante,3,1,2024-10-26 00:00:00,Arena do Grêmio - Porto Alegre - RS,3,0,3,0,0,0
+2024,31,Flamengo,Juventude,1,0,Mandante,4,2,2024-10-26 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,3,0,0,0
+2024,31,Palmeiras,Fortaleza,1,0,Mandante,2,2,2024-10-26 00:00:00,Allianz Parque - Sao Paulo - SP,3,0,1,1,2,-1
+2024,31,Athletico Paranaense,Cruzeiro,0,1,Visitante,3,0,2024-10-26 00:00:00,Arena da Baixada - Curitiba - PR,0,3,3,0,-3,3
+2024,31,Red Bull Bragantino,Botafogo,0,1,Visitante,0,1,2024-10-26 00:00:00,Nabi Abi Chedid - Braganca Paulista - SP,0,3,0,3,0,0
+2024,31,Atlético Mineiro,Internacional,0,1,Visitante,1,3,2024-10-26 00:00:00,ARENA MRV - Belo Horizonte - MG,0,3,0,3,0,0
+2024,31,Criciúma,São Paulo,0,1,Visitante,1,1,2024-10-26 00:00:00,Heriberto Hulse - Criciuma - SC,0,3,1,1,-1,2
+2024,31,Cuiabá,Corinthians,0,1,Visitante,0,1,2024-10-28 00:00:00,Arena Pantanal - Cuiaba - MT,0,3,0,3,0,0
+2024,31,Vasco da Gama,Bahia,0,1,Visitante,3,2,2024-10-28 00:00:00,São Januário - Rio de Janeiro - RJ,0,3,3,0,-3,3
+2024,32,Fluminense,Grêmio,0,1,Visitante,2,2,2024-11-01 00:00:00,Maracanã - Rio de Janeiro - RJ,0,3,1,1,-1,2
+2024,32,Red Bull Bragantino,Cuiabá,0,0,Empate,0,0,2024-11-02 00:00:00,Nabi Abi Chedid - Braganca Paulista - SP,1,1,1,1,0,0
+2024,32,Athletico Paranaense,Vitória,0,1,Visitante,1,2,2024-11-02 00:00:00,Arena da Baixada - Curitiba - PR,0,3,0,3,0,0
+2024,32,Juventude,Fortaleza,0,1,Visitante,0,3,2024-11-02 00:00:00,Alfredo Jaconi - Caxias do Sul - RS,0,3,0,3,0,0
+2024,32,Corinthians,Palmeiras,0,1,Visitante,2,0,2024-11-04 00:00:00,Neo Química Arena - Sao Paulo - SP,0,3,3,0,-3,3
+2024,32,Internacional,Criciúma,1,0,Mandante,2,0,2024-11-05 00:00:00,Beira-Rio - Porto Alegre - RS,3,0,3,0,0,0
+2024,32,Botafogo,Vasco da Gama,1,0,Mandante,3,0,2024-11-05 00:00:00,Nilton Santos - Rio de Janeiro - RJ,3,0,3,0,0,0
+2024,32,Bahia,São Paulo,0,1,Visitante,0,3,2024-11-05 00:00:00,Arena Fonte Nova - Salvador - BA,0,3,0,3,0,0
+2024,32,Atlético Goianiense,Atlético Mineiro,0,1,Visitante,1,0,2024-11-06 00:00:00,Antônio Accioly - Goiania - GO,0,3,3,0,-3,3
+2024,32,Cruzeiro,Flamengo,0,1,Visitante,0,1,2024-11-06 00:00:00,Independência - Belo Horizonte - MG,0,3,0,3,0,0
+2024,33,Internacional,Fluminense,1,0,Mandante,2,0,2024-11-08 00:00:00,Beira-Rio - Porto Alegre - RS,3,0,3,0,0,0
+2024,33,Palmeiras,Grêmio,1,0,Mandante,1,0,2024-11-08 00:00:00,Allianz Parque - Sao Paulo - SP,3,0,3,0,0,0
+2024,33,Vitória,Corinthians,0,1,Visitante,1,2,2024-11-09 00:00:00,Manoel Barradas - Salvador - BA,0,3,0,3,0,0
+2024,33,Botafogo,Cuiabá,1,0,Mandante,0,0,2024-11-09 00:00:00,Nilton Santos - Rio de Janeiro - RJ,3,0,1,1,2,-1
+2024,33,Atlético Goianiense,Red Bull Bragantino,0,1,Visitante,0,0,2024-11-09 00:00:00,Antônio Accioly - Goiania - GO,0,3,1,1,-1,2
+2024,33,Juventude,Bahia,0,1,Visitante,2,1,2024-11-09 00:00:00,Alfredo Jaconi - Caxias do Sul - RS,0,3,3,0,-3,3
+2024,33,Cruzeiro,Criciúma,1,0,Mandante,2,1,2024-11-09 00:00:00,Mineirão - Belo Horizonte - MG,3,0,3,0,0,0
+2024,33,Fortaleza,Vasco da Gama,1,0,Mandante,3,0,2024-11-09 00:00:00,Arena Castelão - Fortaleza - CE,3,0,3,0,0,0
+2024,33,São Paulo,Athletico Paranaense,1,0,Mandante,2,1,2024-11-09 00:00:00,Morumbi - Sao Paulo - SP,3,0,3,0,0,0
+2024,33,Flamengo,Atlético Mineiro,1,0,Mandante,0,0,2024-11-13 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,1,1,2,-1
+2024,34,Corinthians,Cruzeiro,1,0,Mandante,2,1,2024-11-20 00:00:00,Neo Química Arena - Sao Paulo - SP,3,0,3,0,0,0
+2024,34,Red Bull Bragantino,São Paulo,0,1,Visitante,1,1,2024-11-20 00:00:00,Nabi Abi Chedid - Braganca Paulista - SP,0,3,1,1,-1,2
+2024,34,Athletico Paranaense,Atlético Goianiense,1,0,Mandante,2,0,2024-11-20 00:00:00,Arena da Baixada - Curitiba - PR,3,0,3,0,0,0
+2024,34,Criciúma,Vitória,0,1,Visitante,0,1,2024-11-20 00:00:00,Heriberto Hulse - Criciuma - SC,0,3,0,3,0,0
+2024,34,Bahia,Palmeiras,0,1,Visitante,1,2,2024-11-20 00:00:00,Arena Fonte Nova - Salvador - BA,0,3,0,3,0,0
+2024,34,Cuiabá,Flamengo,0,1,Visitante,1,2,2024-11-20 00:00:00,Arena Pantanal - Cuiaba - MT,0,3,0,3,0,0
+2024,34,Grêmio,Juventude,1,0,Mandante,2,2,2024-11-20 00:00:00,Arena do Grêmio - Porto Alegre - RS,3,0,1,1,2,-1
+2024,34,Atlético Mineiro,Botafogo,0,1,Visitante,0,0,2024-11-20 00:00:00,Independência - Belo Horizonte - MG,0,3,1,1,-1,2
+2024,34,Vasco da Gama,Internacional,0,1,Visitante,0,1,2024-11-21 00:00:00,São Januário - Rio de Janeiro - RJ,0,3,0,3,0,0
+2024,34,Fluminense,Fortaleza,0,1,Visitante,2,2,2024-11-22 00:00:00,Maracanã - Rio de Janeiro - RJ,0,3,1,1,-1,2
+2024,35,Juventude,Cuiabá,0,0,Empate,1,1,2024-11-23 00:00:00,Alfredo Jaconi - Caxias do Sul - RS,1,1,1,1,0,0
+2024,35,Botafogo,Vitória,1,0,Mandante,1,1,2024-11-23 00:00:00,Nilton Santos - Rio de Janeiro - RJ,3,0,1,1,2,-1
+2024,35,Atlético Goianiense,Palmeiras,0,1,Visitante,0,1,2024-11-23 00:00:00,Antônio Accioly - Goiania - GO,0,3,0,3,0,0
+2024,35,São Paulo,Atlético Mineiro,1,0,Mandante,2,2,2024-11-23 00:00:00,Morumbi - Sao Paulo - SP,3,0,1,1,2,-1
+2024,35,Corinthians,Vasco da Gama,1,0,Mandante,3,1,2024-11-24 00:00:00,Neo Química Arena - Sao Paulo - SP,3,0,3,0,0,0
+2024,35,Internacional,Red Bull Bragantino,1,0,Mandante,4,1,2024-11-24 00:00:00,Beira-Rio - Porto Alegre - RS,3,0,3,0,0,0
+2024,35,Bahia,Athletico Paranaense,0,0,Empate,1,1,2024-11-24 00:00:00,Arena Fonte Nova - Salvador - BA,1,1,1,1,0,0
+2024,35,Fluminense,Criciúma,1,0,Mandante,0,0,2024-11-26 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,1,1,2,-1
+2024,35,Fortaleza,Flamengo,1,0,Mandante,0,0,2024-11-26 00:00:00,Arena Castelão - Fortaleza - CE,3,0,1,1,2,-1
+2024,35,Cruzeiro,Grêmio,0,1,Visitante,1,1,2024-11-27 00:00:00,Mineirão - Belo Horizonte - MG,0,3,1,1,-1,2
+2024,36,Palmeiras,Botafogo,0,0,Empate,1,3,2024-11-26 00:00:00,Allianz Parque - Sao Paulo - SP,1,1,0,3,1,-2
+2024,36,Atlético Mineiro,Juventude,1,0,Mandante,2,3,2024-11-26 00:00:00,Independência - Belo Horizonte - MG,3,0,0,3,3,-3
+2024,36,Cuiabá,Bahia,0,1,Visitante,1,2,2024-11-30 00:00:00,Arena Pantanal - Cuiaba - MT,0,3,0,3,0,0
+2024,36,Criciúma,Corinthians,0,1,Visitante,2,4,2024-11-30 00:00:00,Heriberto Hulse - Criciuma - SC,0,3,0,3,0,0
+2024,36,Vasco da Gama,Atlético Goianiense,1,0,Mandante,2,2,2024-11-30 00:00:00,São Januário - Rio de Janeiro - RJ,3,0,1,1,2,-1
+2024,36,Flamengo,Internacional,0,1,Visitante,3,2,2024-12-01 00:00:00,Maracanã - Rio de Janeiro - RJ,0,3,3,0,-3,3
+2024,36,Grêmio,São Paulo,0,1,Visitante,2,1,2024-12-01 00:00:00,Arena do Grêmio - Porto Alegre - RS,0,3,3,0,-3,3
+2024,36,Red Bull Bragantino,Cruzeiro,0,1,Visitante,1,1,2024-12-01 00:00:00,Nabi Abi Chedid - Braganca Paulista - SP,0,3,1,1,-1,2
+2024,36,Vitória,Fortaleza,0,1,Visitante,2,0,2024-12-01 00:00:00,Manoel Barradas - Salvador - BA,0,3,3,0,-3,3
+2024,36,Athletico Paranaense,Fluminense,0,1,Visitante,1,1,2024-12-01 00:00:00,Arena da Baixada - Curitiba - PR,0,3,1,1,-1,2
+2024,37,Corinthians,Bahia,1,0,Mandante,3,0,2024-12-03 00:00:00,Neo Química Arena - Sao Paulo - SP,3,0,3,0,0,0
+2024,37,Vasco da Gama,Atlético Mineiro,0,1,Visitante,2,0,2024-12-04 00:00:00,São Januário - Rio de Janeiro - RJ,0,3,3,0,-3,3
+2024,37,São Paulo,Juventude,1,0,Mandante,1,2,2024-12-04 00:00:00,Morumbi - Sao Paulo - SP,3,0,0,3,3,-3
+2024,37,Vitória,Grêmio,0,0,Empate,1,1,2024-12-04 00:00:00,Manoel Barradas - Salvador - BA,1,1,1,1,0,0
+2024,37,Criciúma,Flamengo,0,1,Visitante,0,3,2024-12-04 00:00:00,Heriberto Hulse - Criciuma - SC,0,3,0,3,0,0
+2024,37,Cruzeiro,Palmeiras,0,1,Visitante,1,2,2024-12-04 00:00:00,Mineirão - Belo Horizonte - MG,0,3,0,3,0,0
+2024,37,Internacional,Botafogo,0,1,Visitante,0,1,2024-12-04 00:00:00,Beira-Rio - Porto Alegre - RS,0,3,0,3,0,0
+2024,37,Atlético Goianiense,Fortaleza,0,1,Visitante,3,1,2024-12-04 00:00:00,Antônio Accioly - Goiania - GO,0,3,3,0,-3,3
+2024,37,Fluminense,Cuiabá,1,0,Mandante,1,0,2024-12-05 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,3,0,0,0
+2024,37,Athletico Paranaense,Red Bull Bragantino,1,0,Mandante,1,2,2024-12-05 00:00:00,Arena da Baixada - Curitiba - PR,3,0,0,3,3,-3
+2024,38,Cuiabá,Vasco da Gama,0,1,Visitante,1,2,2024-12-08 00:00:00,Arena Pantanal - Cuiaba - MT,0,3,0,3,0,0
+2024,38,Fortaleza,Internacional,0,1,Visitante,3,0,2024-12-08 00:00:00,Arena Castelão - Fortaleza - CE,0,3,3,0,-3,3
+2024,38,Juventude,Cruzeiro,0,0,Empate,0,1,2024-12-08 00:00:00,Alfredo Jaconi - Caxias do Sul - RS,1,1,0,3,1,-2
+2024,38,Flamengo,Vitória,1,0,Mandante,2,2,2024-12-08 00:00:00,Maracanã - Rio de Janeiro - RJ,3,0,1,1,2,-1
+2024,38,Grêmio,Corinthians,0,1,Visitante,0,3,2024-12-08 00:00:00,Arena do Grêmio - Porto Alegre - RS,0,3,0,3,0,0
+2024,38,Red Bull Bragantino,Criciúma,1,0,Mandante,5,1,2024-12-08 00:00:00,Nabi Abi Chedid - Braganca Paulista - SP,3,0,3,0,0,0
+2024,38,Palmeiras,Fluminense,1,0,Mandante,0,1,2024-12-08 00:00:00,Allianz Parque - Sao Paulo - SP,3,0,0,3,3,-3
+2024,38,Botafogo,São Paulo,1,0,Mandante,2,1,2024-12-08 00:00:00,Nilton Santos - Rio de Janeiro - RJ,3,0,3,0,0,0
+2024,38,Atlético Mineiro,Athletico Paranaense,0,0,Empate,1,0,2024-12-08 00:00:00,ARENA MRV - Belo Horizonte - MG,1,1,3,0,-2,1
+2024,38,Bahia,Atlético Goianiense,1,0,Mandante,2,0,2024-12-08 00:00:00,Arena Fonte Nova - Salvador - BA,3,0,3,0,0,0

@@ -1,0 +1,381 @@
+ano,rodada,mandante,visitante,gol_prev_mandante,gol_prev_visitante,previsao
+2020,1,Fortaleza,Athletico Paranaense,0,2,Real
+2020,1,Coritiba,Internacional,0,1,Real
+2020,1,Sport Recife,Ceará,3,2,Real
+2020,1,Santos Fc,Red Bull Bragantino,1,1,Real
+2020,1,Flamengo,Atlético Mineiro,0,1,Real
+2020,1,Grêmio,Fluminense,1,0,Real
+2020,1,Botafogo,Bahia,1,2,Real
+2020,1,Corinthians,Atlético Goianiense,0,0,Real
+2020,1,Goiás,São Paulo,0,3,Real
+2020,1,Palmeiras,Vasco da Gama,1,1,Real
+2020,2,Red Bull Bragantino,Botafogo,0,0,Empate
+2020,2,Atlético Mineiro,Corinthians,0,0,Empate
+2020,2,Athletico Paranaense,Goiás,1,0,Mandante
+2020,2,Atlético Goianiense,Flamengo,0,0,Empate
+2020,2,Bahia,Coritiba,1,0,Mandante
+2020,2,Ceará,Grêmio,0,1,Visitante
+2020,2,Fluminense,Palmeiras,0,0,Empate
+2020,2,São Paulo,Fortaleza,1,0,Mandante
+2020,2,Internacional,Santos Fc,0,0,Empate
+2020,2,Vasco da Gama,Sport Recife,0,0,Empate
+2020,3,Grêmio,Corinthians,1,0,Mandante
+2020,3,Coritiba,Flamengo,0,0,Empate
+2020,3,Palmeiras,Goiás,1,0,Mandante
+2020,3,Atlético Mineiro,Ceará,1,0,Mandante
+2020,3,Bahia,Red Bull Bragantino,1,0,Mandante
+2020,3,Vasco da Gama,São Paulo,0,0,Empate
+2020,3,Fluminense,Internacional,0,1,Visitante
+2020,3,Atlético Goianiense,Sport Recife,0,0,Empate
+2020,3,Fortaleza,Botafogo,0,0,Empate
+2020,3,Santos Fc,Athletico Paranaense,0,1,Visitante
+2020,4,Red Bull Bragantino,Fluminense,0,0,Empate
+2020,4,Flamengo,Grêmio,0,1,Visitante
+2020,4,Athletico Paranaense,Palmeiras,0,0,Empate
+2020,4,Internacional,Atlético Goianiense,0,0,Empate
+2020,4,Goiás,Fortaleza,0,0,Empate
+2020,4,Botafogo,Atlético Mineiro,0,1,Visitante
+2020,4,Corinthians,Coritiba,1,0,Mandante
+2020,4,Sport Recife,Santos Fc,0,0,Empate
+2020,4,Ceará,Vasco da Gama,0,1,Visitante
+2020,4,São Paulo,Bahia,0,1,Visitante
+2020,5,Athletico Paranaense,Fluminense,0,0,Empate
+2020,5,Internacional,Atlético Mineiro,0,0,Empate
+2020,5,Goiás,Atlético Goianiense,0,1,Visitante
+2020,5,Flamengo,Botafogo,0,0,Empate
+2020,5,Vasco da Gama,Grêmio,1,0,Mandante
+2020,5,Palmeiras,Santos Fc,0,0,Empate
+2020,5,Red Bull Bragantino,Coritiba,1,0,Mandante
+2020,5,Sport Recife,São Paulo,0,1,Visitante
+2020,5,Ceará,Bahia,0,1,Visitante
+2020,5,Corinthians,Fortaleza,0,0,Empate
+2020,6,Botafogo,Internacional,0,1,Visitante
+2020,6,Fluminense,Vasco da Gama,0,1,Visitante
+2020,6,Bahia,Palmeiras,0,0,Empate
+2020,6,Fortaleza,Red Bull Bragantino,0,0,Empate
+2020,6,São Paulo,Corinthians,1,0,Mandante
+2020,6,Santos Fc,Flamengo,0,0,Empate
+2020,6,Coritiba,Sport Recife,0,0,Empate
+2020,6,Atlético Goianiense,Ceará,0,0,Empate
+2020,6,Atlético Mineiro,Athletico Paranaense,1,0,Mandante
+2020,6,Grêmio,Goiás,1,0,Mandante
+2020,7,Ceará,Fortaleza,0,0,Empate
+2020,7,Goiás,Corinthians,0,1,Visitante
+2020,7,Fluminense,Atlético Goianiense,1,0,Mandante
+2020,7,Botafogo,Coritiba,0,0,Empate
+2020,7,Bahia,Flamengo,0,0,Empate
+2020,7,Athletico Paranaense,Red Bull Bragantino,1,0,Mandante
+2020,7,Palmeiras,Internacional,0,1,Visitante
+2020,7,Santos Fc,Vasco da Gama,0,1,Visitante
+2020,7,Grêmio,Sport Recife,1,0,Mandante
+2020,7,Atlético Mineiro,São Paulo,0,1,Visitante
+2020,8,Flamengo,Fortaleza,1,0,Mandante
+2020,8,Corinthians,Botafogo,0,0,Empate
+2020,8,Ceará,Santos Fc,1,0,Mandante
+2020,8,Red Bull Bragantino,Palmeiras,0,1,Visitante
+2020,8,São Paulo,Fluminense,0,0,Empate
+2020,8,Internacional,Bahia,1,0,Mandante
+2020,8,Vasco da Gama,Athletico Paranaense,1,0,Mandante
+2020,8,Atlético Goianiense,Grêmio,0,1,Visitante
+2020,8,Sport Recife,Goiás,1,0,Mandante
+2020,8,Coritiba,Atlético Mineiro,0,1,Visitante
+2020,9,Athletico Paranaense,Botafogo,0,0,Empate
+2020,9,Fortaleza,Sport Recife,0,0,Empate
+2020,9,Goiás,Coritiba,0,1,Visitante
+2020,9,São Paulo,Red Bull Bragantino,1,0,Mandante
+2020,9,Santos Fc,Atlético Mineiro,0,1,Visitante
+2020,9,Fluminense,Flamengo,0,1,Visitante
+2020,9,Corinthians,Palmeiras,0,1,Visitante
+2020,9,Internacional,Ceará,1,0,Mandante
+2020,9,Bahia,Grêmio,0,0,Empate
+2020,9,Vasco da Gama,Atlético Goianiense,1,0,Mandante
+2020,10,Athletico Paranaense,Coritiba,1,0,Mandante
+2020,10,Santos Fc,São Paulo,0,0,Empate
+2020,10,Grêmio,Fortaleza,1,0,Mandante
+2020,10,Fluminense,Corinthians,0,0,Empate
+2020,10,Bahia,Atlético Goianiense,0,0,Empate
+2020,10,Atlético Mineiro,Red Bull Bragantino,1,0,Mandante
+2020,10,Ceará,Flamengo,0,1,Visitante
+2020,10,Goiás,Internacional,0,1,Visitante
+2020,10,Palmeiras,Sport Recife,1,0,Mandante
+2020,10,Botafogo,Vasco da Gama,0,1,Visitante
+2020,11,São Paulo,Athletico Paranaense,1,0,Mandante
+2020,11,Corinthians,Bahia,0,0,Empate
+2020,11,Red Bull Bragantino,Ceará,0,1,Visitante
+2020,11,Fortaleza,Internacional,0,1,Visitante
+2020,11,Atlético Goianiense,Atlético Mineiro,0,0,Empate
+2020,11,Coritiba,Vasco da Gama,0,1,Visitante
+2020,11,Grêmio,Palmeiras,0,1,Visitante
+2020,11,Botafogo,Santos Fc,0,1,Visitante
+2020,11,Sport Recife,Fluminense,0,1,Visitante
+2020,11,Flamengo,Goiás,1,0,Mandante
+2020,12,Sport Recife,Corinthians,0,0,Empate
+2020,12,Athletico Paranaense,Bahia,0,0,Empate
+2020,12,Internacional,São Paulo,0,1,Visitante
+2020,12,Atlético Mineiro,Grêmio,0,0,Empate
+2020,12,Vasco da Gama,Red Bull Bragantino,1,0,Mandante
+2020,12,Palmeiras,Flamengo,0,0,Empate
+2020,12,Ceará,Goiás,1,0,Mandante
+2020,12,Atlético Goianiense,Botafogo,0,0,Empate
+2020,12,Santos Fc,Fortaleza,0,0,Empate
+2020,12,Fluminense,Coritiba,1,0,Mandante
+2020,13,Grêmio,Internacional,0,1,Visitante
+2020,13,Palmeiras,Ceará,1,0,Mandante
+2020,13,Red Bull Bragantino,Corinthians,0,0,Empate
+2020,13,Botafogo,Fluminense,0,1,Visitante
+2020,13,Flamengo,Athletico Paranaense,1,0,Mandante
+2020,13,Coritiba,São Paulo,0,1,Visitante
+2020,13,Fortaleza,Atlético Goianiense,0,0,Empate
+2020,13,Goiás,Santos Fc,0,1,Visitante
+2020,13,Bahia,Sport Recife,0,1,Visitante
+2020,13,Atlético Mineiro,Vasco da Gama,1,0,Mandante
+2020,14,Corinthians,Santos Fc,0,1,Visitante
+2020,14,Grêmio,Coritiba,1,0,Mandante
+2020,14,Bahia,Vasco da Gama,0,1,Visitante
+2020,14,Flamengo,Sport Recife,1,0,Mandante
+2020,14,São Paulo,Atlético Goianiense,1,0,Mandante
+2020,14,Goiás,Fluminense,0,1,Visitante
+2020,14,Botafogo,Palmeiras,0,1,Visitante
+2020,14,Fortaleza,Atlético Mineiro,0,1,Visitante
+2020,14,Athletico Paranaense,Ceará,0,0,Empate
+2020,14,Red Bull Bragantino,Internacional,0,1,Visitante
+2020,15,Vasco da Gama,Flamengo,0,1,Visitante
+2020,15,Palmeiras,São Paulo,0,0,Empate
+2020,15,Coritiba,Fortaleza,0,1,Visitante
+2020,15,Atlético Mineiro,Goiás,1,0,Mandante
+2020,15,Santos Fc,Grêmio,0,0,Empate
+2020,15,Fluminense,Bahia,1,0,Mandante
+2020,15,Sport Recife,Botafogo,0,0,Empate
+2020,15,Atlético Goianiense,Red Bull Bragantino,1,0,Mandante
+2020,15,Ceará,Corinthians,0,0,Empate
+2020,15,Internacional,Athletico Paranaense,1,0,Mandante
+2020,16,Palmeiras,Coritiba,1,0,Mandante
+2020,16,Grêmio,Botafogo,0,0,Empate
+2020,16,Santos Fc,Atlético Goianiense,1,0,Mandante
+2020,16,Atlético Mineiro,Fluminense,1,0,Mandante
+2020,16,Sport Recife,Internacional,0,1,Visitante
+2020,16,Athletico Paranaense,Corinthians,0,0,Empate
+2020,16,Flamengo,Red Bull Bragantino,1,0,Mandante
+2020,16,Goiás,Bahia,0,1,Visitante
+2020,16,Vasco da Gama,Fortaleza,0,1,Visitante
+2020,16,Ceará,São Paulo,0,1,Visitante
+2020,17,Fluminense,Ceará,1,0,Mandante
+2020,17,Coritiba,Santos Fc,0,1,Visitante
+2020,17,Atlético Goianiense,Athletico Paranaense,1,0,Mandante
+2020,17,São Paulo,Grêmio,1,0,Mandante
+2020,17,Corinthians,Flamengo,0,1,Visitante
+2020,17,Internacional,Vasco da Gama,1,0,Mandante
+2020,17,Fortaleza,Palmeiras,0,0,Empate
+2020,17,Red Bull Bragantino,Sport Recife,0,1,Visitante
+2020,17,Botafogo,Goiás,1,0,Mandante
+2020,17,Bahia,Atlético Mineiro,0,1,Visitante
+2020,18,Vasco da Gama,Corinthians,0,0,Empate
+2020,18,Red Bull Bragantino,Goiás,1,0,Mandante
+2020,18,Ceará,Coritiba,1,0,Mandante
+2020,18,Atlético Mineiro,Sport Recife,1,0,Mandante
+2020,18,Atlético Goianiense,Palmeiras,0,0,Empate
+2020,18,Fluminense,Santos Fc,0,0,Empate
+2020,18,Internacional,Flamengo,0,0,Empate
+2020,18,Athletico Paranaense,Grêmio,0,1,Visitante
+2020,18,Bahia,Fortaleza,0,1,Visitante
+2020,18,São Paulo,Botafogo,1,0,Mandante
+2020,19,Botafogo,Ceará,0,1,Visitante
+2020,19,Corinthians,Internacional,0,1,Visitante
+2020,19,Coritiba,Atlético Goianiense,0,1,Visitante
+2020,19,Fortaleza,Fluminense,0,1,Visitante
+2020,19,Sport Recife,Athletico Paranaense,0,0,Empate
+2020,19,Flamengo,São Paulo,0,0,Empate
+2020,19,Santos Fc,Bahia,1,0,Mandante
+2020,19,Goiás,Vasco da Gama,0,1,Visitante
+2020,19,Palmeiras,Atlético Mineiro,0,1,Visitante
+2020,19,Grêmio,Red Bull Bragantino,1,0,Mandante
+2020,20,Athletico Paranaense,Fortaleza,0,1,Visitante
+2020,20,São Paulo,Goiás,1,0,Mandante
+2020,20,Atlético Goianiense,Corinthians,0,1,Visitante
+2020,20,Vasco da Gama,Palmeiras,0,1,Visitante
+2020,20,Internacional,Coritiba,1,0,Mandante
+2020,20,Bahia,Botafogo,0,0,Empate
+2020,20,Red Bull Bragantino,Santos Fc,0,1,Visitante
+2020,20,Atlético Mineiro,Flamengo,0,1,Visitante
+2020,20,Ceará,Sport Recife,1,0,Mandante
+2020,20,Fluminense,Grêmio,0,0,Empate
+2020,21,Santos Fc,Internacional,0,1,Visitante
+2020,21,Sport Recife,Vasco da Gama,1,0,Mandante
+2020,21,Goiás,Athletico Paranaense,0,1,Visitante
+2020,21,Fortaleza,São Paulo,0,1,Visitante
+2020,21,Corinthians,Atlético Mineiro,0,1,Visitante
+2020,21,Grêmio,Ceará,1,0,Mandante
+2020,21,Flamengo,Atlético Goianiense,1,0,Mandante
+2020,21,Palmeiras,Fluminense,0,0,Empate
+2020,21,Coritiba,Bahia,0,1,Visitante
+2020,21,Botafogo,Red Bull Bragantino,0,0,Empate
+2020,22,Red Bull Bragantino,Bahia,0,0,Empate
+2020,22,Flamengo,Coritiba,1,0,Mandante
+2020,22,Athletico Paranaense,Santos Fc,0,1,Visitante
+2020,22,Goiás,Palmeiras,0,1,Visitante
+2020,22,São Paulo,Vasco da Gama,1,0,Mandante
+2020,22,Ceará,Atlético Mineiro,0,1,Visitante
+2020,22,Internacional,Fluminense,0,0,Empate
+2020,22,Botafogo,Fortaleza,0,1,Visitante
+2020,22,Corinthians,Grêmio,0,1,Visitante
+2020,22,Sport Recife,Atlético Goianiense,0,0,Empate
+2020,23,Coritiba,Corinthians,0,1,Visitante
+2020,23,Atlético Mineiro,Botafogo,1,0,Mandante
+2020,23,Fortaleza,Goiás,1,0,Mandante
+2020,23,Palmeiras,Athletico Paranaense,1,0,Mandante
+2020,23,Santos Fc,Sport Recife,1,0,Mandante
+2020,23,Bahia,São Paulo,0,1,Visitante
+2020,23,Atlético Goianiense,Internacional,0,1,Visitante
+2020,23,Vasco da Gama,Ceará,0,1,Visitante
+2020,23,Fluminense,Red Bull Bragantino,1,0,Mandante
+2020,23,Grêmio,Flamengo,0,0,Empate
+2020,24,Fortaleza,Corinthians,0,0,Empate
+2020,24,Botafogo,Flamengo,0,1,Visitante
+2020,24,Santos Fc,Palmeiras,0,0,Empate
+2020,24,Fluminense,Athletico Paranaense,1,0,Mandante
+2020,24,Bahia,Ceará,0,1,Visitante
+2020,24,Coritiba,Red Bull Bragantino,0,1,Visitante
+2020,24,Grêmio,Vasco da Gama,1,0,Mandante
+2020,24,São Paulo,Sport Recife,1,0,Mandante
+2020,24,Atlético Mineiro,Internacional,1,0,Mandante
+2020,24,Atlético Goianiense,Goiás,1,0,Mandante
+2020,25,Red Bull Bragantino,Fortaleza,0,0,Empate
+2020,25,Athletico Paranaense,Atlético Mineiro,0,1,Visitante
+2020,25,Internacional,Botafogo,1,0,Mandante
+2020,25,Palmeiras,Bahia,1,0,Mandante
+2020,25,Ceará,Atlético Goianiense,1,0,Mandante
+2020,25,Goiás,Grêmio,0,1,Visitante
+2020,25,Flamengo,Santos Fc,1,0,Mandante
+2020,25,Sport Recife,Coritiba,0,0,Empate
+2020,25,Corinthians,São Paulo,0,1,Visitante
+2020,25,Vasco da Gama,Fluminense,0,1,Visitante
+2020,26,São Paulo,Atlético Mineiro,1,0,Mandante
+2020,26,Atlético Goianiense,Fluminense,0,1,Visitante
+2020,26,Sport Recife,Grêmio,0,1,Visitante
+2020,26,Coritiba,Botafogo,0,0,Empate
+2020,26,Internacional,Palmeiras,0,1,Visitante
+2020,26,Red Bull Bragantino,Athletico Paranaense,1,0,Mandante
+2020,26,Vasco da Gama,Santos Fc,0,1,Visitante
+2020,26,Flamengo,Bahia,1,0,Mandante
+2020,26,Fortaleza,Ceará,0,1,Visitante
+2020,26,Corinthians,Goiás,1,0,Mandante
+2020,27,Atlético Mineiro,Coritiba,1,0,Mandante
+2020,27,Fortaleza,Flamengo,0,1,Visitante
+2020,27,Goiás,Sport Recife,0,1,Visitante
+2020,27,Fluminense,São Paulo,0,1,Visitante
+2020,27,Botafogo,Corinthians,0,1,Visitante
+2020,27,Bahia,Internacional,0,1,Visitante
+2020,27,Athletico Paranaense,Vasco da Gama,0,0,Empate
+2020,27,Palmeiras,Red Bull Bragantino,1,0,Mandante
+2020,27,Santos Fc,Ceará,0,0,Empate
+2020,27,Grêmio,Atlético Goianiense,1,0,Mandante
+2020,28,Botafogo,Athletico Paranaense,0,1,Visitante
+2020,28,Grêmio,Bahia,1,0,Mandante
+2020,28,Sport Recife,Fortaleza,0,1,Visitante
+2020,28,Coritiba,Goiás,0,1,Visitante
+2020,28,Red Bull Bragantino,São Paulo,0,1,Visitante
+2020,28,Flamengo,Fluminense,1,0,Mandante
+2020,28,Ceará,Internacional,0,1,Visitante
+2020,28,Atlético Goianiense,Vasco da Gama,1,0,Mandante
+2020,28,Palmeiras,Corinthians,0,0,Empate
+2020,28,Atlético Mineiro,Santos Fc,1,0,Mandante
+2020,29,Sport Recife,Palmeiras,0,1,Visitante
+2020,29,Coritiba,Athletico Paranaense,0,1,Visitante
+2020,29,Fortaleza,Grêmio,0,1,Visitante
+2020,29,São Paulo,Santos Fc,1,0,Mandante
+2020,29,Flamengo,Ceará,1,0,Mandante
+2020,29,Internacional,Goiás,1,0,Mandante
+2020,29,Atlético Goianiense,Bahia,1,0,Mandante
+2020,29,Vasco da Gama,Botafogo,1,0,Mandante
+2020,29,Red Bull Bragantino,Atlético Mineiro,0,1,Visitante
+2020,29,Corinthians,Fluminense,0,0,Empate
+2020,30,Palmeiras,Grêmio,0,0,Empate
+2020,30,Fluminense,Sport Recife,1,0,Mandante
+2020,30,Vasco da Gama,Coritiba,1,0,Mandante
+2020,30,Santos Fc,Botafogo,1,0,Mandante
+2020,30,Athletico Paranaense,São Paulo,0,1,Visitante
+2020,30,Atlético Mineiro,Atlético Goianiense,1,0,Mandante
+2020,30,Internacional,Fortaleza,1,0,Mandante
+2020,30,Ceará,Red Bull Bragantino,0,0,Empate
+2020,30,Goiás,Flamengo,0,1,Visitante
+2020,30,Bahia,Corinthians,0,1,Visitante
+2020,31,Botafogo,Atlético Goianiense,0,1,Visitante
+2020,31,Bahia,Athletico Paranaense,0,1,Visitante
+2020,31,Grêmio,Atlético Mineiro,0,0,Empate
+2020,31,Coritiba,Fluminense,0,1,Visitante
+2020,31,São Paulo,Internacional,0,0,Empate
+2020,31,Red Bull Bragantino,Vasco da Gama,1,0,Mandante
+2020,31,Fortaleza,Santos Fc,0,1,Visitante
+2020,31,Goiás,Ceará,0,1,Visitante
+2020,31,Flamengo,Palmeiras,0,0,Empate
+2020,31,Corinthians,Sport Recife,1,0,Mandante
+2020,32,São Paulo,Coritiba,1,0,Mandante
+2020,32,Vasco da Gama,Atlético Mineiro,0,1,Visitante
+2020,32,Athletico Paranaense,Flamengo,0,1,Visitante
+2020,32,Ceará,Palmeiras,0,1,Visitante
+2020,32,Internacional,Grêmio,1,0,Mandante
+2020,32,Sport Recife,Bahia,0,1,Visitante
+2020,32,Atlético Goianiense,Fortaleza,1,0,Mandante
+2020,32,Santos Fc,Goiás,1,0,Mandante
+2020,32,Fluminense,Botafogo,1,0,Mandante
+2020,32,Corinthians,Red Bull Bragantino,0,0,Empate
+2020,33,Vasco da Gama,Bahia,0,0,Empate
+2020,33,Coritiba,Grêmio,0,1,Visitante
+2020,33,Ceará,Athletico Paranaense,1,0,Mandante
+2020,33,Atlético Goianiense,São Paulo,0,1,Visitante
+2020,33,Atlético Mineiro,Fortaleza,1,0,Mandante
+2020,33,Internacional,Red Bull Bragantino,1,0,Mandante
+2020,33,Fluminense,Goiás,1,0,Mandante
+2020,33,Sport Recife,Flamengo,0,1,Visitante
+2020,33,Palmeiras,Botafogo,1,0,Mandante
+2020,33,Santos Fc,Corinthians,0,1,Visitante
+2020,34,Grêmio,Santos Fc,1,0,Mandante
+2020,34,Red Bull Bragantino,Atlético Goianiense,0,0,Empate
+2020,34,Corinthians,Ceará,0,0,Empate
+2020,34,Bahia,Fluminense,0,1,Visitante
+2020,34,Goiás,Atlético Mineiro,0,1,Visitante
+2020,34,Fortaleza,Coritiba,1,0,Mandante
+2020,34,Athletico Paranaense,Internacional,0,1,Visitante
+2020,34,Flamengo,Vasco da Gama,1,0,Mandante
+2020,34,Botafogo,Sport Recife,0,1,Visitante
+2020,34,São Paulo,Palmeiras,0,0,Empate
+2020,35,Bahia,Goiás,0,0,Empate
+2020,35,Atlético Goianiense,Santos Fc,0,0,Empate
+2020,35,Red Bull Bragantino,Flamengo,0,1,Visitante
+2020,35,Botafogo,Grêmio,0,1,Visitante
+2020,35,Internacional,Sport Recife,1,0,Mandante
+2020,35,Fortaleza,Vasco da Gama,0,0,Empate
+2020,35,São Paulo,Ceará,1,0,Mandante
+2020,35,Corinthians,Athletico Paranaense,0,0,Empate
+2020,35,Fluminense,Atlético Mineiro,0,0,Empate
+2020,35,Coritiba,Palmeiras,0,1,Visitante
+2020,36,Goiás,Botafogo,1,0,Mandante
+2020,36,Santos Fc,Coritiba,1,0,Mandante
+2020,36,Atlético Mineiro,Bahia,1,0,Mandante
+2020,36,Flamengo,Corinthians,1,0,Mandante
+2020,36,Vasco da Gama,Internacional,0,1,Visitante
+2020,36,Palmeiras,Fortaleza,1,0,Mandante
+2020,36,Athletico Paranaense,Atlético Goianiense,0,0,Empate
+2020,36,Grêmio,São Paulo,0,0,Empate
+2020,36,Ceará,Fluminense,0,1,Visitante
+2020,36,Sport Recife,Red Bull Bragantino,0,1,Visitante
+2020,37,Coritiba,Ceará,0,1,Visitante
+2020,37,Fortaleza,Bahia,0,0,Empate
+2020,37,Sport Recife,Atlético Mineiro,0,1,Visitante
+2020,37,Flamengo,Internacional,0,0,Empate
+2020,37,Corinthians,Vasco da Gama,1,0,Mandante
+2020,37,Grêmio,Athletico Paranaense,0,0,Empate
+2020,37,Santos Fc,Fluminense,0,1,Visitante
+2020,37,Goiás,Red Bull Bragantino,0,1,Visitante
+2020,37,Palmeiras,Atlético Goianiense,1,0,Mandante
+2020,37,Botafogo,São Paulo,0,1,Visitante
+2020,38,Fluminense,Fortaleza,1,0,Mandante
+2020,38,Vasco da Gama,Goiás,0,1,Visitante
+2020,38,São Paulo,Flamengo,0,1,Visitante
+2020,38,Red Bull Bragantino,Grêmio,0,0,Empate
+2020,38,Atlético Mineiro,Palmeiras,1,0,Mandante
+2020,38,Internacional,Corinthians,1,0,Mandante
+2020,38,Bahia,Santos Fc,0,1,Visitante
+2020,38,Athletico Paranaense,Sport Recife,1,0,Mandante
+2020,38,Ceará,Botafogo,1,0,Mandante
+2020,38,Atlético Goianiense,Coritiba,1,0,Mandante

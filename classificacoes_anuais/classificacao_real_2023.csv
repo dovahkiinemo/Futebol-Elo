@@ -1,0 +1,21 @@
+ano,tipo,posicao,time,pontos,vitorias,empates,derrotas,gols_pro,gols_contra,saldo
+2023,Real,1,Palmeiras,70,20,10,8,64,33,31
+2023,Real,2,Grêmio,68,21,5,12,63,56,7
+2023,Real,3,Atlético Mineiro,66,19,9,10,52,32,20
+2023,Real,4,Flamengo,66,19,9,10,56,42,14
+2023,Real,5,Botafogo,64,18,10,10,58,37,21
+2023,Real,6,Red Bull Bragantino,62,17,11,10,49,35,14
+2023,Real,7,Fluminense,56,16,8,14,51,47,4
+2023,Real,8,Athletico Paranaense,56,14,14,10,51,43,8
+2023,Real,9,Internacional,55,15,10,13,46,45,1
+2023,Real,10,Fortaleza,54,15,9,14,45,44,1
+2023,Real,11,São Paulo,53,14,11,13,40,38,2
+2023,Real,12,Cuiabá,51,14,9,15,40,39,1
+2023,Real,13,Corinthians,50,12,14,12,47,48,-1
+2023,Real,14,Cruzeiro,47,11,14,13,35,32,3
+2023,Real,15,Vasco da Gama,45,12,9,17,41,51,-10
+2023,Real,16,Bahia,44,12,8,18,50,53,-3
+2023,Real,17,Santos Fc,43,11,10,17,39,64,-25
+2023,Real,18,Goiás,38,9,11,18,36,53,-17
+2023,Real,19,Coritiba,30,8,6,24,41,73,-32
+2023,Real,20,America,24,5,9,24,42,81,-39

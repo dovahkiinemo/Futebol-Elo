@@ -1,0 +1,308 @@
+﻿ano,rodada,gol_time_mandante,gol_time_visitante,mandante,visitante,data,local
+2025,1,2,1,Cruzeiro Saf,Mirassol,29/03/2025,Mineirão - Belo Horizonte - MG
+2025,1,2,1,Grêmio,Atlético Mineiro Saf,29/03/2025,Arena do Grêmio - Porto Alegre - RS
+2025,1,2,0,Fortaleza Ec Saf,Fluminense,29/03/2025,Arena Castelão - Fortaleza - CE
+2025,1,2,0,Juventude,Vitória,29/03/2025,Alfredo Jaconi - Caxias do Sul - RS
+2025,1,0,0,São Paulo,Sport Recife,29/03/2025,Morumbi - Sao Paulo - SP
+2025,1,1,1,Flamengo,Internacional,29/03/2025,Maracanã - Rio de Janeiro - RJ
+2025,1,0,0,Palmeiras,Botafogo,30/03/2025,Allianz Parque - Sao Paulo - SP
+2025,1,2,1,Vasco da Gama S.a.f.,Santos Fc,30/03/2025,São Januário - Rio de Janeiro - RJ
+2025,1,1,1,Bahia,Corinthians,30/03/2025,Arena Fonte Nova - Salvador - BA
+2025,1,2,2,Red Bull Bragantino,Ceará,31/03/2025,Nabi Abi Chedid - Braganca Paulista - SP
+2025,2,2,0,Ceará,Grêmio,05/04/2025,Arena Castelão - Fortaleza - CE
+2025,2,3,0,Corinthians,Vasco da Gama S.a.f.,05/04/2025,Neo Química Arena - Sao Paulo - SP
+2025,2,2,0,Botafogo,Juventude,05/04/2025,Nilton Santos - Rio de Janeiro - RJ
+2025,2,2,1,Fluminense,Red Bull Bragantino,06/04/2025,Maracanã - Rio de Janeiro - RJ
+2025,2,0,0,Atlético Mineiro Saf,São Paulo,06/04/2025,Mineirão - Belo Horizonte - MG
+2025,2,1,1,Mirassol,Fortaleza Ec Saf,06/04/2025,José Maria de Campos Maia - Mirassol - SP
+2025,2,1,2,Vitória,Flamengo,06/04/2025,Manoel Barradas - Salvador - BA
+2025,2,1,2,Sport Recife,Palmeiras,06/04/2025,Ilha do Retiro - Recife - PE
+2025,2,3,0,Internacional,Cruzeiro Saf,06/04/2025,Beira-Rio - Porto Alegre - RS
+2025,2,2,2,Santos Fc,Bahia,06/04/2025,Vila Belmiro - Santos - SP
+2025,3,2,1,Juventude,Ceará,12/04/2025,Alfredo Jaconi - Caxias do Sul - RS
+2025,3,1,0,Red Bull Bragantino,Botafogo,12/04/2025,Nabi Abi Chedid - Braganca Paulista - SP
+2025,3,2,0,Palmeiras,Corinthians,12/04/2025,Arena Barueri - Barueri - SP
+2025,3,3,1,Vasco da Gama S.a.f.,Sport Recife,12/04/2025,São Januário - Rio de Janeiro - RJ
+2025,3,1,1,Bahia,Mirassol,13/04/2025,Arena Fonte Nova - Salvador - BA
+2025,3,1,1,São Paulo,Cruzeiro Saf,13/04/2025,Morumbi - Sao Paulo - SP
+2025,3,0,2,Grêmio,Flamengo,13/04/2025,Arena do Grêmio - Porto Alegre - RS
+2025,3,1,0,Fluminense,Santos Fc,13/04/2025,Maracanã - Rio de Janeiro - RJ
+2025,3,0,0,Fortaleza Ec Saf,Internacional,13/04/2025,Arena Castelão - Fortaleza - CE
+2025,3,2,2,Atlético Mineiro Saf,Vitória,13/04/2025,Mineirão - Belo Horizonte - MG
+2025,4,2,1,Ceará,Vasco da Gama S.a.f.,15/04/2025,Arena Castelão - Fortaleza - CE
+2025,4,2,2,Botafogo,São Paulo,16/04/2025,Nilton Santos - Rio de Janeiro - RJ
+2025,4,4,1,Mirassol,Grêmio,16/04/2025,José Maria de Campos Maia - Mirassol - SP
+2025,4,0,1,Sport Recife,Red Bull Bragantino,16/04/2025,Ilha do Retiro - Recife - PE
+2025,4,0,1,Internacional,Palmeiras,16/04/2025,Beira-Rio - Porto Alegre - RS
+2025,4,0,2,Corinthians,Fluminense,16/04/2025,Neo Química Arena - Sao Paulo - SP
+2025,4,6,0,Flamengo,Juventude,16/04/2025,Maracanã - Rio de Janeiro - RJ
+2025,4,2,1,Vitória,Fortaleza Ec Saf,16/04/2025,Manoel Barradas - Salvador - BA
+2025,4,2,0,Santos Fc,Atlético Mineiro Saf,16/04/2025,Vila Belmiro - Santos - SP
+2025,4,3,0,Cruzeiro Saf,Bahia,17/04/2025,Mineirão - Belo Horizonte - MG
+2025,5,2,1,Corinthians,Sport Recife,19/04/2025,Neo Química Arena - Sao Paulo - SP
+2025,5,0,0,Vasco da Gama S.a.f.,Flamengo,19/04/2025,Maracanã - Rio de Janeiro - RJ
+2025,5,1,1,Grêmio,Internacional,19/04/2025,Arena do Grêmio - Porto Alegre - RS
+2025,5,2,2,Juventude,Mirassol,20/04/2025,Alfredo Jaconi - Caxias do Sul - RS
+2025,5,2,1,São Paulo,Santos Fc,20/04/2025,Morumbi - Sao Paulo - SP
+2025,5,1,0,Atlético Mineiro Saf,Botafogo,20/04/2025,Mineirão - Belo Horizonte - MG
+2025,5,1,1,Fluminense,Vitória,20/04/2025,Maracanã - Rio de Janeiro - RJ
+2025,5,1,2,Fortaleza Ec Saf,Palmeiras,20/04/2025,Arena Castelão - Fortaleza - CE
+2025,5,1,0,Red Bull Bragantino,Cruzeiro Saf,20/04/2025,Nabi Abi Chedid - Braganca Paulista - SP
+2025,5,1,0,Bahia,Ceará,21/04/2025,Arena Fonte Nova - Salvador - BA
+2025,6,3,1,Internacional,Juventude,26/04/2025,Beira-Rio - Porto Alegre - RS
+2025,6,2,2,Mirassol,Atlético Mineiro Saf,26/04/2025,José Maria de Campos Maia - Mirassol - SP
+2025,6,1,1,Ceará,São Paulo,26/04/2025,Arena Castelão - Fortaleza - CE
+2025,6,0,0,Sport Recife,Fortaleza Ec Saf,26/04/2025,Ilha do Retiro - Recife - PE
+2025,6,2,0,Botafogo,Fluminense,26/04/2025,Nilton Santos - Rio de Janeiro - RJ
+2025,6,4,0,Flamengo,Corinthians,27/04/2025,Maracanã - Rio de Janeiro - RJ
+2025,6,0,1,Palmeiras,Bahia,27/04/2025,Allianz Parque - Sao Paulo - SP
+2025,6,1,0,Cruzeiro Saf,Vasco da Gama S.a.f.,27/04/2025,Parque do Sabiá - Uberlandia - MG
+2025,6,1,1,Vitória,Grêmio,27/04/2025,Manoel Barradas - Salvador - BA
+2025,6,1,2,Santos Fc,Red Bull Bragantino,27/04/2025,Vila Belmiro - Santos - SP
+2025,7,0,0,São Paulo,Fortaleza Ec Saf,02/05/2025,Morumbi - Sao Paulo - SP
+2025,7,1,0,Ceará,Vitória,03/05/2025,Presidente Vargas - Fortaleza - CE
+2025,7,2,1,Fluminense,Sport Recife,03/05/2025,Maracanã - Rio de Janeiro - RJ
+2025,7,4,2,Corinthians,Internacional,03/05/2025,Neo Química Arena - Sao Paulo - SP
+2025,7,1,0,Bahia,Botafogo,03/05/2025,Arena Fonte Nova - Salvador - BA
+2025,7,0,1,Vasco da Gama S.a.f.,Palmeiras,04/05/2025,Mané Garrincha - Brasilia - DF
+2025,7,1,0,Grêmio,Santos Fc,04/05/2025,Arena do Grêmio - Porto Alegre - RS
+2025,7,2,1,Cruzeiro Saf,Flamengo,04/05/2025,Mineirão - Belo Horizonte - MG
+2025,7,1,0,Red Bull Bragantino,Mirassol,05/05/2025,Cícero de Souza Marques - Braganca Paulista - SP
+2025,7,0,1,Juventude,Atlético Mineiro Saf,05/05/2025,Alfredo Jaconi - Caxias do Sul - RS
+2025,8,5,0,Fortaleza Ec Saf,Juventude,10/05/2025,Presidente Vargas - Fortaleza - CE
+2025,8,2,1,Mirassol,Corinthians,10/05/2025,José Maria de Campos Maia - Mirassol - SP
+2025,8,2,1,Vitória,Vasco da Gama S.a.f.,10/05/2025,Manoel Barradas - Salvador - BA
+2025,8,1,1,Grêmio,Red Bull Bragantino,10/05/2025,Arena do Grêmio - Porto Alegre - RS
+2025,8,1,0,Flamengo,Bahia,10/05/2025,Maracanã - Rio de Janeiro - RJ
+2025,8,0,4,Sport Recife,Cruzeiro Saf,11/05/2025,Ilha do Retiro - Recife - PE
+2025,8,1,0,Palmeiras,São Paulo,11/05/2025,Arena Barueri - Barueri - SP
+2025,8,3,2,Atlético Mineiro Saf,Fluminense,11/05/2025,ARENA MRV - Belo Horizonte - MG
+2025,8,4,0,Botafogo,Internacional,11/05/2025,Nilton Santos - Rio de Janeiro - RJ
+2025,8,0,0,Santos Fc,Ceará,12/05/2025,Allianz Parque - Sao Paulo - SP
+2025,9,2,0,Ceará,Sport Recife,17/05/2025,Arena Castelão - Fortaleza - CE
+2025,9,3,0,Vasco da Gama S.a.f.,Fortaleza Ec Saf,17/05/2025,São Januário - Rio de Janeiro - RJ
+2025,9,2,1,São Paulo,Grêmio,17/05/2025,Morumbi - Sao Paulo - SP
+2025,9,2,1,Bahia,Vitória,18/05/2025,Arena Fonte Nova - Salvador - BA
+2025,9,1,0,Corinthians,Santos Fc,18/05/2025,Neo Química Arena - Sao Paulo - SP
+2025,9,1,1,Juventude,Fluminense,18/05/2025,Alfredo Jaconi - Caxias do Sul - RS
+2025,9,0,0,Flamengo,Botafogo,18/05/2025,Maracanã - Rio de Janeiro - RJ
+2025,9,1,2,Red Bull Bragantino,Palmeiras,18/05/2025,Cícero de Souza Marques - Braganca Paulista - SP
+2025,9,0,0,Cruzeiro Saf,Atlético Mineiro Saf,18/05/2025,Mineirão - Belo Horizonte - MG
+2025,9,1,1,Internacional,Mirassol,18/05/2025,Beira-Rio - Porto Alegre - RS
+2025,10,0,2,São Paulo,Mirassol,24/05/2025,Morumbi - Sao Paulo - SP
+2025,10,2,1,Fluminense,Vasco da Gama S.a.f.,24/05/2025,Maracanã - Rio de Janeiro - RJ
+2025,10,0,0,Atlético Mineiro Saf,Corinthians,24/05/2025,ARENA MRV - Belo Horizonte - MG
+2025,10,1,0,Grêmio,Bahia,25/05/2025,Arena do Grêmio - Porto Alegre - RS
+2025,10,1,1,Sport Recife,Internacional,25/05/2025,Ilha do Retiro - Recife - PE
+2025,10,0,2,Palmeiras,Flamengo,25/05/2025,Allianz Parque - Sao Paulo - SP
+2025,10,0,1,Vitória,Santos Fc,25/05/2025,Manoel Barradas - Salvador - BA
+2025,10,0,2,Fortaleza Ec Saf,Cruzeiro Saf,25/05/2025,Arena Castelão - Fortaleza - CE
+2025,10,1,0,Red Bull Bragantino,Juventude,26/05/2025,Cícero de Souza Marques - Braganca Paulista - SP
+2025,10,3,2,Botafogo,Ceará,04/06/2025,Nilton Santos - Rio de Janeiro - RJ
+2025,11,2,1,Bahia,São Paulo,31/05/2025,Arena Fonte Nova - Salvador - BA
+2025,11,0,2,Vasco da Gama S.a.f.,Red Bull Bragantino,31/05/2025,São Januário - Rio de Janeiro - RJ
+2025,11,1,0,Mirassol,Sport Recife,01/06/2025,José Maria de Campos Maia - Mirassol - SP
+2025,11,0,2,Juventude,Grêmio,01/06/2025,Alfredo Jaconi - Caxias do Sul - RS
+2025,11,0,1,Santos Fc,Botafogo,01/06/2025,Vila Belmiro - Santos - SP
+2025,11,0,1,Ceará,Atlético Mineiro Saf,01/06/2025,Arena Castelão - Fortaleza - CE
+2025,11,0,0,Corinthians,Vitória,01/06/2025,Neo Química Arena - Sao Paulo - SP
+2025,11,5,0,Flamengo,Fortaleza Ec Saf,01/06/2025,Maracanã - Rio de Janeiro - RJ
+2025,11,2,1,Cruzeiro Saf,Palmeiras,01/06/2025,Mineirão - Belo Horizonte - MG
+2025,11,0,2,Internacional,Fluminense,01/06/2025,Beira-Rio - Porto Alegre - RS
+2025,12,0,3,Red Bull Bragantino,Bahia,12/06/2025,Cícero de Souza Marques - Braganca Paulista - SP
+2025,12,0,0,Vitória,Cruzeiro Saf,12/06/2025,Manoel Barradas - Salvador - BA
+2025,12,2,3,Fortaleza Ec Saf,Santos Fc,12/06/2025,Arena Castelão - Fortaleza - CE
+2025,12,1,1,Grêmio,Corinthians,12/06/2025,Arena do Grêmio - Porto Alegre - RS
+2025,12,1,3,São Paulo,Vasco da Gama S.a.f.,12/06/2025,Morumbi - Sao Paulo - SP
+2025,12,2,0,Atlético Mineiro Saf,Internacional,12/06/2025,ARENA MRV - Belo Horizonte - MG
+2025,12,3,3,Botafogo,Mirassol,17/09/2025,Nilton Santos - Rio de Janeiro - RJ
+2025,12,4,1,Palmeiras,Juventude,11/10/2025,Allianz Parque - Sao Paulo - SP
+2025,12,1,0,Fluminense,Ceará,29/10/2025,Maracanã - Rio de Janeiro - RJ
+2025,12,2,0,Flamengo,São Paulo,12/07/2025,Maracanã - Rio de Janeiro - RJ
+2025,13,1,0,Internacional,Vitória,12/07/2025,Beira-Rio - Porto Alegre - RS
+2025,13,0,2,Vasco da Gama S.a.f.,Botafogo,12/07/2025,Mané Garrincha - Brasilia - DF
+2025,13,2,1,Bahia,Atlético Mineiro Saf,12/07/2025,Arena Fonte Nova - Salvador - BA
+2025,13,1,2,Corinthians,Red Bull Bragantino,13/07/2025,Neo Química Arena - Sao Paulo - SP
+2025,13,4,1,Cruzeiro Saf,Grêmio,13/07/2025,Mineirão - Belo Horizonte - MG
+2025,13,0,1,Fortaleza Ec Saf,Ceará,13/07/2025,Arena Castelão - Fortaleza - CE
+2025,13,2,0,Juventude,Sport Recife,14/07/2025,Alfredo Jaconi - Caxias do Sul - RS
+2025,13,2,1,Mirassol,Fluminense,08/10/2025,José Maria de Campos Maia - Mirassol - SP
+2025,13,1,1,Palmeiras,Mirassol,16/07/2025,Allianz Parque - Sao Paulo - SP
+2025,14,0,1,Ceará,Corinthians,16/07/2025,Arena Castelão - Fortaleza - CE
+2025,14,1,0,Santos Fc,Flamengo,16/07/2025,Vila Belmiro - Santos - SP
+2025,14,0,0,Botafogo,Vitória,16/07/2025,Nilton Santos - Rio de Janeiro - RJ
+2025,14,2,2,Red Bull Bragantino,São Paulo,16/07/2025,Cícero de Souza Marques - Braganca Paulista - SP
+2025,14,0,2,Fluminense,Cruzeiro Saf,17/07/2025,Maracanã - Rio de Janeiro - RJ
+2025,14,2,1,Grêmio,Fortaleza Ec Saf,29/07/2025,Arena do Grêmio - Porto Alegre - RS
+2025,14,2,0,Juventude,Vasco da Gama S.a.f.,20/08/2025,Alfredo Jaconi - Caxias do Sul - RS
+2025,14,3,1,Atlético Mineiro Saf,Sport Recife,08/10/2025,ARENA MRV - Belo Horizonte - MG
+2025,14,1,0,Bahia,Internacional,22/10/2025,Arena Fonte Nova - Salvador - BA
+2025,15,1,1,Fortaleza Ec Saf,Bahia,19/07/2025,Arena Castelão - Fortaleza - CE
+2025,15,1,1,Vasco da Gama S.a.f.,Grêmio,19/07/2025,São Januário - Rio de Janeiro - RJ
+2025,15,3,0,Mirassol,Santos Fc,19/07/2025,José Maria de Campos Maia - Mirassol - SP
+2025,15,2,0,São Paulo,Corinthians,19/07/2025,Morumbi - Sao Paulo - SP
+2025,15,1,0,Internacional,Ceará,20/07/2025,Beira-Rio - Porto Alegre - RS
+2025,15,1,0,Vitória,Red Bull Bragantino,20/07/2025,Manoel Barradas - Salvador - BA
+2025,15,4,0,Cruzeiro Saf,Juventude,20/07/2025,Mineirão - Belo Horizonte - MG
+2025,15,3,2,Palmeiras,Atlético Mineiro Saf,20/07/2025,Allianz Parque - Sao Paulo - SP
+2025,15,0,1,Sport Recife,Botafogo,20/07/2025,Ilha do Retiro - Recife - PE
+2025,15,1,0,Flamengo,Fluminense,20/07/2025,Maracanã - Rio de Janeiro - RJ
+2025,16,1,2,Fluminense,Palmeiras,23/07/2025,Maracanã - Rio de Janeiro - RJ
+2025,16,0,2,Ceará,Mirassol,23/07/2025,Arena Castelão - Fortaleza - CE
+2025,16,0,0,Corinthians,Cruzeiro Saf,23/07/2025,Neo Química Arena - Sao Paulo - SP
+2025,16,1,2,Santos Fc,Internacional,23/07/2025,Vila Belmiro - Santos - SP
+2025,16,1,2,Red Bull Bragantino,Flamengo,23/07/2025,Cícero de Souza Marques - Braganca Paulista - SP
+2025,16,2,2,Vitória,Sport Recife,23/07/2025,Manoel Barradas - Salvador - BA
+2025,16,0,1,Juventude,São Paulo,24/07/2025,Alfredo Jaconi - Caxias do Sul - RS
+2025,16,1,1,Grêmio,Botafogo,24/09/2025,Arena do Grêmio - Porto Alegre - RS
+2025,16,3,1,Vasco da Gama S.a.f.,Bahia,24/09/2025,São Januário - Rio de Janeiro - RJ
+2025,17,3,1,Fortaleza Ec Saf,Red Bull Bragantino,26/07/2025,Arena Castelão - Fortaleza - CE
+2025,17,2,2,Sport Recife,Santos Fc,26/07/2025,Ilha do Retiro - Recife - PE
+2025,17,1,1,Botafogo,Corinthians,26/07/2025,Nilton Santos - Rio de Janeiro - RJ
+2025,17,1,1,Mirassol,Vitória,26/07/2025,José Maria de Campos Maia - Mirassol - SP
+2025,17,1,0,Palmeiras,Grêmio,26/07/2025,Allianz Parque - Sao Paulo - SP
+2025,17,3,1,São Paulo,Fluminense,27/07/2025,Morumbi - Sao Paulo - SP
+2025,17,1,2,Cruzeiro Saf,Ceará,27/07/2025,Mineirão - Belo Horizonte - MG
+2025,17,3,0,Bahia,Juventude,27/07/2025,Arena Fonte Nova - Salvador - BA
+2025,17,1,1,Internacional,Vasco da Gama S.a.f.,27/07/2025,Beira-Rio - Porto Alegre - RS
+2025,17,1,0,Flamengo,Atlético Mineiro Saf,27/07/2025,Maracanã - Rio de Janeiro - RJ
+2025,18,0,0,Sport Recife,Bahia,02/08/2025,Ilha do Retiro - Recife - PE
+2025,18,3,2,Mirassol,Vasco da Gama S.a.f.,02/08/2025,José Maria de Campos Maia - Mirassol - SP
+2025,18,1,0,Fluminense,Grêmio,02/08/2025,Maracanã - Rio de Janeiro - RJ
+2025,18,1,1,Corinthians,Fortaleza Ec Saf,03/08/2025,Neo Química Arena - Sao Paulo - SP
+2025,18,0,2,Botafogo,Cruzeiro Saf,03/08/2025,Nilton Santos - Rio de Janeiro - RJ
+2025,18,1,1,Ceará,Flamengo,03/08/2025,Arena Castelão - Fortaleza - CE
+2025,18,2,1,Atlético Mineiro Saf,Red Bull Bragantino,03/08/2025,ARENA MRV - Belo Horizonte - MG
+2025,18,2,2,Vitória,Palmeiras,03/08/2025,Manoel Barradas - Salvador - BA
+2025,18,1,2,Internacional,São Paulo,03/08/2025,Beira-Rio - Porto Alegre - RS
+2025,18,3,1,Santos Fc,Juventude,04/08/2025,Morumbi - Sao Paulo - SP
+2025,19,1,3,Red Bull Bragantino,Internacional,09/08/2025,Cícero de Souza Marques - Braganca Paulista - SP
+2025,19,2,0,São Paulo,Vitória,09/08/2025,Morumbi - Sao Paulo - SP
+2025,19,2,1,Flamengo,Mirassol,09/08/2025,Maracanã - Rio de Janeiro - RJ
+2025,19,0,5,Fortaleza Ec Saf,Botafogo,09/08/2025,Arena Castelão - Fortaleza - CE
+2025,19,3,3,Bahia,Fluminense,09/08/2025,Arena Fonte Nova - Salvador - BA
+2025,19,2,1,Palmeiras,Ceará,10/08/2025,Allianz Parque - Sao Paulo - SP
+2025,19,1,1,Vasco da Gama S.a.f.,Atlético Mineiro Saf,10/08/2025,São Januário - Rio de Janeiro - RJ
+2025,19,1,2,Cruzeiro Saf,Santos Fc,10/08/2025,Mineirão - Belo Horizonte - MG
+2025,19,0,1,Grêmio,Sport Recife,10/08/2025,Arena do Grêmio - Porto Alegre - RS
+2025,19,2,1,Juventude,Corinthians,11/08/2025,Alfredo Jaconi - Caxias do Sul - RS
+2025,20,2,1,Fluminense,Fortaleza Ec Saf,16/08/2025,Maracanã - Rio de Janeiro - RJ
+2025,20,1,0,Ceará,Red Bull Bragantino,16/08/2025,Arena Castelão - Fortaleza - CE
+2025,20,2,2,Vitória,Juventude,16/08/2025,Manoel Barradas - Salvador - BA
+2025,20,2,2,Sport Recife,São Paulo,16/08/2025,Ilha do Retiro - Recife - PE
+2025,20,1,2,Corinthians,Bahia,16/08/2025,Neo Química Arena - Sao Paulo - SP
+2025,20,1,3,Atlético Mineiro Saf,Grêmio,17/08/2025,ARENA MRV - Belo Horizonte - MG
+2025,20,0,6,Santos Fc,Vasco da Gama S.a.f.,17/08/2025,Morumbi - Sao Paulo - SP
+2025,20,1,3,Internacional,Flamengo,17/08/2025,Beira-Rio - Porto Alegre - RS
+2025,20,0,1,Botafogo,Palmeiras,17/08/2025,Nilton Santos - Rio de Janeiro - RJ
+2025,20,1,1,Mirassol,Cruzeiro Saf,18/08/2025,José Maria de Campos Maia - Mirassol - SP
+2025,21,4,2,Red Bull Bragantino,Fluminense,23/08/2025,Cícero de Souza Marques - Braganca Paulista - SP
+2025,21,2,1,Cruzeiro Saf,Internacional,23/08/2025,Mineirão - Belo Horizonte - MG
+2025,21,0,0,Grêmio,Ceará,23/08/2025,Arena do Grêmio - Porto Alegre - RS
+2025,21,2,3,Vasco da Gama S.a.f.,Corinthians,24/08/2025,São Januário - Rio de Janeiro - RJ
+2025,21,2,0,Bahia,Santos Fc,24/08/2025,Arena Fonte Nova - Salvador - BA
+2025,21,1,3,Juventude,Botafogo,24/08/2025,Alfredo Jaconi - Caxias do Sul - RS
+2025,21,0,1,Fortaleza Ec Saf,Mirassol,24/08/2025,Arena Castelão - Fortaleza - CE
+2025,21,2,0,São Paulo,Atlético Mineiro Saf,24/08/2025,Morumbi - Sao Paulo - SP
+2025,21,3,0,Palmeiras,Sport Recife,25/08/2025,Allianz Parque - Sao Paulo - SP
+2025,21,8,0,Flamengo,Vitória,25/08/2025,Maracanã - Rio de Janeiro - RJ
+2025,22,0,1,Ceará,Juventude,30/08/2025,Arena Castelão - Fortaleza - CE
+2025,22,4,1,Botafogo,Red Bull Bragantino,30/08/2025,Nilton Santos - Rio de Janeiro - RJ
+2025,22,1,0,Cruzeiro Saf,São Paulo,30/08/2025,Mineirão - Belo Horizonte - MG
+2025,22,1,1,Flamengo,Grêmio,31/08/2025,Maracanã - Rio de Janeiro - RJ
+2025,22,0,0,Santos Fc,Fluminense,31/08/2025,Vila Belmiro - Santos - SP
+2025,22,1,1,Corinthians,Palmeiras,31/08/2025,Neo Química Arena - Sao Paulo - SP
+2025,22,1,0,Vitória,Atlético Mineiro Saf,31/08/2025,Manoel Barradas - Salvador - BA
+2025,22,5,1,Mirassol,Bahia,31/08/2025,José Maria de Campos Maia - Mirassol - SP
+2025,22,2,3,Sport Recife,Vasco da Gama S.a.f.,31/08/2025,Ilha do Retiro - Recife - PE
+2025,22,2,1,Internacional,Fortaleza Ec Saf,31/08/2025,Beira-Rio - Porto Alegre - RS
+2025,23,2,0,Fortaleza Ec Saf,Vitória,13/09/2025,Arena Castelão - Fortaleza - CE
+2025,23,0,1,Grêmio,Mirassol,13/09/2025,Arena do Grêmio - Porto Alegre - RS
+2025,23,4,1,Palmeiras,Internacional,13/09/2025,Allianz Parque - Sao Paulo - SP
+2025,23,0,1,Fluminense,Corinthians,13/09/2025,Maracanã - Rio de Janeiro - RJ
+2025,23,1,1,Red Bull Bragantino,Sport Recife,14/09/2025,Cícero de Souza Marques - Braganca Paulista - SP
+2025,23,1,1,Atlético Mineiro Saf,Santos Fc,14/09/2025,ARENA MRV - Belo Horizonte - MG
+2025,23,0,2,Juventude,Flamengo,14/09/2025,Alfredo Jaconi - Caxias do Sul - RS
+2025,23,1,0,São Paulo,Botafogo,14/09/2025,Morumbi - Sao Paulo - SP
+2025,23,2,2,Vasco da Gama S.a.f.,Ceará,14/09/2025,São Januário - Rio de Janeiro - RJ
+2025,23,1,2,Bahia,Cruzeiro Saf,15/09/2025,Arena Fonte Nova - Salvador - BA
+2025,24,0,1,Vitória,Fluminense,20/09/2025,Manoel Barradas - Salvador - BA
+2025,24,1,0,Botafogo,Atlético Mineiro Saf,20/09/2025,Nilton Santos - Rio de Janeiro - RJ
+2025,24,1,1,Ceará,Bahia,20/09/2025,Arena Castelão - Fortaleza - CE
+2025,24,4,1,Palmeiras,Fortaleza Ec Saf,20/09/2025,Allianz Parque - Sao Paulo - SP
+2025,24,2,0,Mirassol,Juventude,21/09/2025,José Maria de Campos Maia - Mirassol - SP
+2025,24,2,3,Internacional,Grêmio,21/09/2025,Beira-Rio - Porto Alegre - RS
+2025,24,1,1,Flamengo,Vasco da Gama S.a.f.,21/09/2025,Maracanã - Rio de Janeiro - RJ
+2025,24,1,0,Sport Recife,Corinthians,21/09/2025,Ilha do Retiro - Recife - PE
+2025,24,1,0,Santos Fc,São Paulo,21/09/2025,Vila Belmiro - Santos - SP
+2025,24,2,1,Cruzeiro Saf,Red Bull Bragantino,21/09/2025,Mineirão - Belo Horizonte - MG
+2025,25,1,0,Fortaleza Ec Saf,Sport Recife,27/09/2025,Arena Castelão - Fortaleza - CE
+2025,25,1,1,Juventude,Internacional,27/09/2025,Alfredo Jaconi - Caxias do Sul - RS
+2025,25,2,0,Vasco da Gama S.a.f.,Cruzeiro Saf,27/09/2025,São Januário - Rio de Janeiro - RJ
+2025,25,1,0,Atlético Mineiro Saf,Mirassol,27/09/2025,ARENA MRV - Belo Horizonte - MG
+2025,25,3,1,Grêmio,Vitória,28/09/2025,Arena do Grêmio - Porto Alegre - RS
+2025,25,2,0,Fluminense,Botafogo,28/09/2025,Maracanã - Rio de Janeiro - RJ
+2025,25,1,0,Bahia,Palmeiras,28/09/2025,Arena Fonte Nova - Salvador - BA
+2025,25,2,2,Red Bull Bragantino,Santos Fc,28/09/2025,Cícero de Souza Marques - Braganca Paulista - SP
+2025,25,1,2,Corinthians,Flamengo,28/09/2025,Neo Química Arena - Sao Paulo - SP
+2025,25,0,1,São Paulo,Ceará,29/09/2025,Morumbi - Sao Paulo - SP
+2025,26,0,0,Atlético Mineiro Saf,Juventude,30/09/2025,ARENA MRV - Belo Horizonte - MG
+2025,26,1,1,Mirassol,Red Bull Bragantino,01/10/2025,José Maria de Campos Maia - Mirassol - SP
+2025,26,2,2,Sport Recife,Fluminense,01/10/2025,Ilha do Retiro - Recife - PE
+2025,26,3,0,Palmeiras,Vasco da Gama S.a.f.,01/10/2025,Allianz Parque - Sao Paulo - SP
+2025,26,1,1,Internacional,Corinthians,01/10/2025,Beira-Rio - Porto Alegre - RS
+2025,26,2,1,Botafogo,Bahia,01/10/2025,Nilton Santos - Rio de Janeiro - RJ
+2025,26,1,1,Santos Fc,Grêmio,01/10/2025,Vila Belmiro - Santos - SP
+2025,26,1,0,Vitória,Ceará,02/10/2025,Manoel Barradas - Salvador - BA
+2025,26,0,2,Fortaleza Ec Saf,São Paulo,02/10/2025,Arena Castelão - Fortaleza - CE
+2025,26,0,0,Flamengo,Cruzeiro Saf,02/10/2025,Maracanã - Rio de Janeiro - RJ
+2025,27,1,0,Red Bull Bragantino,Grêmio,04/10/2025,Cícero de Souza Marques - Braganca Paulista - SP
+2025,27,3,0,Fluminense,Atlético Mineiro Saf,04/10/2025,Maracanã - Rio de Janeiro - RJ
+2025,27,2,0,Internacional,Botafogo,04/10/2025,Beira-Rio - Porto Alegre - RS
+2025,27,3,0,Corinthians,Mirassol,04/10/2025,Neo Química Arena - Sao Paulo - SP
+2025,27,2,3,São Paulo,Palmeiras,05/10/2025,Morumbi - Sao Paulo - SP
+2025,27,4,3,Vasco da Gama S.a.f.,Vitória,05/10/2025,São Januário - Rio de Janeiro - RJ
+2025,27,1,2,Juventude,Fortaleza Ec Saf,05/10/2025,Alfredo Jaconi - Caxias do Sul - RS
+2025,27,1,0,Bahia,Flamengo,05/10/2025,Arena Fonte Nova - Salvador - BA
+2025,27,1,1,Cruzeiro Saf,Sport Recife,05/10/2025,Mineirão - Belo Horizonte - MG
+2025,27,3,0,Ceará,Santos Fc,05/10/2025,Arena Castelão - Fortaleza - CE
+2025,28,5,1,Palmeiras,Red Bull Bragantino,15/10/2025,Allianz Parque - Sao Paulo - SP
+2025,28,0,3,Botafogo,Flamengo,15/10/2025,Nilton Santos - Rio de Janeiro - RJ
+2025,28,1,1,Sport Recife,Ceará,15/10/2025,Ilha do Retiro - Recife - PE
+2025,28,3,1,Mirassol,Internacional,15/10/2025,José Maria de Campos Maia - Mirassol - SP
+2025,28,1,1,Atlético Mineiro Saf,Cruzeiro Saf,15/10/2025,ARENA MRV - Belo Horizonte - MG
+2025,28,3,1,Santos Fc,Corinthians,15/10/2025,Vila Belmiro - Santos - SP
+2025,28,0,2,Fortaleza Ec Saf,Vasco da Gama S.a.f.,15/10/2025,Arena Castelão - Fortaleza - CE
+2025,28,2,0,Grêmio,São Paulo,16/10/2025,Arena do Grêmio - Porto Alegre - RS
+2025,28,2,1,Vitória,Bahia,16/10/2025,Manoel Barradas - Salvador - BA
+2025,28,1,0,Fluminense,Juventude,16/10/2025,Maracanã - Rio de Janeiro - RJ
+2025,29,1,0,Corinthians,Atlético Mineiro Saf,18/10/2025,Neo Química Arena - Sao Paulo - SP
+2025,29,1,0,Cruzeiro Saf,Fortaleza Ec Saf,18/10/2025,Mineirão - Belo Horizonte - MG
+2025,29,3,2,Flamengo,Palmeiras,19/10/2025,Maracanã - Rio de Janeiro - RJ
+2025,29,3,0,Mirassol,São Paulo,19/10/2025,José Maria de Campos Maia - Mirassol - SP
+2025,29,2,0,Internacional,Sport Recife,19/10/2025,Beira-Rio - Porto Alegre - RS
+2025,29,0,2,Ceará,Botafogo,19/10/2025,Arena Castelão - Fortaleza - CE
+2025,29,4,0,Bahia,Grêmio,19/10/2025,Arena Fonte Nova - Salvador - BA
+2025,29,1,0,Juventude,Red Bull Bragantino,20/10/2025,Alfredo Jaconi - Caxias do Sul - RS
+2025,29,2,0,Vasco da Gama S.a.f.,Fluminense,20/10/2025,Maracanã - Rio de Janeiro - RJ
+2025,29,0,1,Santos Fc,Vitória,20/10/2025,Vila Belmiro - Santos - SP
+2025,30,0,1,Vitória,Corinthians,25/10/2025,Manoel Barradas - Salvador - BA
+2025,30,1,0,Atlético Mineiro Saf,Ceará,25/10/2025,ARENA MRV - Belo Horizonte - MG
+2025,30,1,0,Fluminense,Internacional,25/10/2025,Maracanã - Rio de Janeiro - RJ
+2025,30,1,2,Sport Recife,Mirassol,25/10/2025,Ilha do Retiro - Recife - PE
+2025,30,1,0,Fortaleza Ec Saf,Flamengo,25/10/2025,Arena Castelão - Fortaleza - CE
+2025,30,2,0,São Paulo,Bahia,25/10/2025,Morumbi - Sao Paulo - SP
+2025,30,3,1,Grêmio,Juventude,26/10/2025,Arena do Grêmio - Porto Alegre - RS
+2025,30,2,2,Botafogo,Santos Fc,26/10/2025,Nilton Santos - Rio de Janeiro - RJ
+2025,30,0,3,Red Bull Bragantino,Vasco da Gama S.a.f.,26/10/2025,Cícero de Souza Marques - Braganca Paulista - SP
+2025,30,0,0,Palmeiras,Cruzeiro Saf,26/10/2025,Allianz Parque - Sao Paulo - SP
+2025,31,1,1,Santos Fc,Fortaleza Ec Saf,01/11/2025,Vila Belmiro - Santos - SP
+2025,31,3,1,Cruzeiro Saf,Vitória,01/11/2025,Mineirão - Belo Horizonte - MG
+2025,31,0,0,Mirassol,Botafogo,01/11/2025,José Maria de Campos Maia - Mirassol - SP
+2025,31,3,0,Flamengo,Sport Recife,01/11/2025,Maracanã - Rio de Janeiro - RJ
+2025,31,2,1,Bahia,Red Bull Bragantino,02/11/2025,Arena Fonte Nova - Salvador - BA
+2025,31,2,0,Corinthians,Grêmio,02/11/2025,Neo Química Arena - Sao Paulo - SP
+2025,31,2,0,Ceará,Fluminense,02/11/2025,Arena Castelão - Fortaleza - CE
+2025,31,0,0,Internacional,Atlético Mineiro Saf,02/11/2025,Beira-Rio - Porto Alegre - RS
+2025,31,0,2,Juventude,Palmeiras,02/11/2025,Alfredo Jaconi - Caxias do Sul - RS
+2025,31,0,2,Vasco da Gama S.a.f.,São Paulo,02/11/2025,São Januário - Rio de Janeiro - RJ

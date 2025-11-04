@@ -1,0 +1,381 @@
+ano,rodada,mandante,visitante,gol_prev_mandante,gol_prev_visitante,previsao
+2019,1,São Paulo,Botafogo,2,0,Real
+2019,1,Chapecoense,Internacional,2,0,Real
+2019,1,Atlético Mineiro,Avaí,2,1,Real
+2019,1,Flamengo,Cruzeiro,3,1,Real
+2019,1,Grêmio,Santos Fc,1,2,Real
+2019,1,Bahia,Corinthians,3,2,Real
+2019,1,Athletico Paranaense,Vasco da Gama,4,1,Real
+2019,1,Ceará,Csa,4,0,Real
+2019,1,Palmeiras,Fortaleza,4,0,Real
+2019,1,Fluminense,Goiás,0,1,Real
+2019,2,Internacional,Flamengo,0,1,Visitante
+2019,2,Csa,Palmeiras,0,1,Visitante
+2019,2,Corinthians,Chapecoense,0,1,Visitante
+2019,2,Avaí,Grêmio,0,0,Empate
+2019,2,Cruzeiro,Ceará,0,1,Visitante
+2019,2,Vasco da Gama,Atlético Mineiro,0,1,Visitante
+2019,2,Goiás,São Paulo,0,0,Empate
+2019,2,Fortaleza,Athletico Paranaense,0,1,Visitante
+2019,2,Santos Fc,Fluminense,1,0,Mandante
+2019,2,Botafogo,Bahia,0,1,Visitante
+2019,3,Vasco da Gama,Corinthians,0,1,Visitante
+2019,3,Palmeiras,Internacional,1,0,Mandante
+2019,3,Ceará,Atlético Mineiro,0,0,Empate
+2019,3,Chapecoense,Athletico Paranaense,0,0,Empate
+2019,3,São Paulo,Flamengo,1,0,Mandante
+2019,3,Botafogo,Fortaleza,1,0,Mandante
+2019,3,Csa,Santos Fc,0,1,Visitante
+2019,3,Cruzeiro,Goiás,0,0,Empate
+2019,3,Grêmio,Fluminense,0,0,Empate
+2019,3,Bahia,Avaí,0,0,Empate
+2019,4,Fluminense,Botafogo,0,0,Empate
+2019,4,Corinthians,Grêmio,1,0,Mandante
+2019,4,Goiás,Ceará,0,1,Visitante
+2019,4,Flamengo,Chapecoense,0,0,Empate
+2019,4,Internacional,Cruzeiro,0,1,Visitante
+2019,4,Santos Fc,Vasco da Gama,1,0,Mandante
+2019,4,Atlético Mineiro,Palmeiras,0,1,Visitante
+2019,4,Athletico Paranaense,Bahia,0,0,Empate
+2019,4,Avaí,Csa,1,0,Mandante
+2019,4,Fortaleza,São Paulo,0,1,Visitante
+2019,5,Fluminense,Cruzeiro,0,0,Empate
+2019,5,Palmeiras,Santos Fc,1,0,Mandante
+2019,5,Atlético Mineiro,Flamengo,0,0,Empate
+2019,5,São Paulo,Bahia,1,0,Mandante
+2019,5,Internacional,Csa,1,0,Mandante
+2019,5,Chapecoense,Fortaleza,1,0,Mandante
+2019,5,Goiás,Botafogo,0,0,Empate
+2019,5,Athletico Paranaense,Corinthians,1,0,Mandante
+2019,5,Vasco da Gama,Avaí,0,1,Visitante
+2019,5,Ceará,Grêmio,1,0,Mandante
+2019,6,Botafogo,Palmeiras,0,1,Visitante
+2019,6,Grêmio,Atlético Mineiro,0,1,Visitante
+2019,6,Santos Fc,Internacional,0,1,Visitante
+2019,6,Flamengo,Athletico Paranaense,0,0,Empate
+2019,6,Bahia,Fluminense,0,0,Empate
+2019,6,Corinthians,São Paulo,0,0,Empate
+2019,6,Fortaleza,Vasco da Gama,1,0,Mandante
+2019,6,Cruzeiro,Chapecoense,0,1,Visitante
+2019,6,Avaí,Ceará,0,1,Visitante
+2019,6,Csa,Goiás,0,1,Visitante
+2019,7,Flamengo,Fortaleza,1,0,Mandante
+2019,7,Bahia,Grêmio,1,0,Mandante
+2019,7,Botafogo,Vasco da Gama,1,0,Mandante
+2019,7,São Paulo,Cruzeiro,1,0,Mandante
+2019,7,Athletico Paranaense,Fluminense,0,0,Empate
+2019,7,Ceará,Santos Fc,1,0,Mandante
+2019,7,Atlético Mineiro,Csa,1,0,Mandante
+2019,7,Internacional,Avaí,1,0,Mandante
+2019,7,Chapecoense,Palmeiras,0,1,Visitante
+2019,7,Corinthians,Goiás,1,0,Mandante
+2019,8,Vasco da Gama,Internacional,0,1,Visitante
+2019,8,Palmeiras,Athletico Paranaense,1,0,Mandante
+2019,8,Grêmio,Fortaleza,0,0,Empate
+2019,8,Cruzeiro,Corinthians,0,1,Visitante
+2019,8,Ceará,Bahia,0,0,Empate
+2019,8,Avaí,São Paulo,0,1,Visitante
+2019,8,Fluminense,Flamengo,0,1,Visitante
+2019,8,Santos Fc,Atlético Mineiro,0,1,Visitante
+2019,8,Csa,Botafogo,0,1,Visitante
+2019,8,Goiás,Chapecoense,0,0,Empate
+2019,9,Botafogo,Grêmio,1,0,Mandante
+2019,9,Fortaleza,Cruzeiro,0,0,Empate
+2019,9,Internacional,Bahia,0,0,Empate
+2019,9,Santos Fc,Corinthians,0,0,Empate
+2019,9,Csa,Flamengo,0,1,Visitante
+2019,9,Vasco da Gama,Ceará,0,1,Visitante
+2019,9,Atlético Mineiro,São Paulo,0,0,Empate
+2019,9,Chapecoense,Fluminense,0,1,Visitante
+2019,9,Goiás,Athletico Paranaense,0,1,Visitante
+2019,9,Palmeiras,Avaí,1,0,Mandante
+2019,10,Fortaleza,Avaí,1,0,Mandante
+2019,10,Grêmio,Vasco da Gama,1,0,Mandante
+2019,10,São Paulo,Palmeiras,0,1,Visitante
+2019,10,Bahia,Santos Fc,0,1,Visitante
+2019,10,Flamengo,Goiás,1,0,Mandante
+2019,10,Corinthians,Csa,1,0,Mandante
+2019,10,Athletico Paranaense,Internacional,0,1,Visitante
+2019,10,Cruzeiro,Botafogo,0,1,Visitante
+2019,10,Chapecoense,Atlético Mineiro,0,1,Visitante
+2019,10,Fluminense,Ceará,0,1,Visitante
+2019,11,Vasco da Gama,Fluminense,0,1,Visitante
+2019,11,Bahia,Cruzeiro,1,0,Mandante
+2019,11,Ceará,Palmeiras,0,1,Visitante
+2019,11,Internacional,Grêmio,1,0,Mandante
+2019,11,Csa,Athletico Paranaense,0,1,Visitante
+2019,11,Botafogo,Santos Fc,0,1,Visitante
+2019,11,Corinthians,Flamengo,0,1,Visitante
+2019,11,Atlético Mineiro,Fortaleza,1,0,Mandante
+2019,11,Avaí,Goiás,0,1,Visitante
+2019,11,São Paulo,Chapecoense,1,0,Mandante
+2019,12,Palmeiras,Vasco da Gama,1,0,Mandante
+2019,12,Fluminense,São Paulo,0,1,Visitante
+2019,12,Cruzeiro,Athletico Paranaense,0,1,Visitante
+2019,12,Internacional,Ceará,0,0,Empate
+2019,12,Chapecoense,Bahia,0,1,Visitante
+2019,12,Flamengo,Botafogo,1,0,Mandante
+2019,12,Santos Fc,Avaí,1,0,Mandante
+2019,12,Fortaleza,Corinthians,0,1,Visitante
+2019,12,Goiás,Atlético Mineiro,0,1,Visitante
+2019,12,Csa,Grêmio,0,1,Visitante
+2019,13,Ceará,Fortaleza,1,0,Mandante
+2019,13,Fluminense,Internacional,0,1,Visitante
+2019,13,Santos Fc,Goiás,1,0,Mandante
+2019,13,Bahia,Flamengo,0,1,Visitante
+2019,13,Avaí,Botafogo,0,1,Visitante
+2019,13,Corinthians,Palmeiras,0,1,Visitante
+2019,13,Atlético Mineiro,Cruzeiro,1,0,Mandante
+2019,13,Vasco da Gama,Csa,1,0,Mandante
+2019,13,Grêmio,Chapecoense,1,0,Mandante
+2019,13,Athletico Paranaense,São Paulo,0,0,Empate
+2019,14,São Paulo,Santos Fc,0,1,Visitante
+2019,14,Ceará,Chapecoense,1,0,Mandante
+2019,14,Flamengo,Grêmio,1,0,Mandante
+2019,14,Atlético Mineiro,Fluminense,1,0,Mandante
+2019,14,Internacional,Corinthians,0,1,Visitante
+2019,14,Botafogo,Athletico Paranaense,0,1,Visitante
+2019,14,Palmeiras,Bahia,1,0,Mandante
+2019,14,Avaí,Cruzeiro,0,0,Empate
+2019,14,Goiás,Vasco da Gama,0,1,Visitante
+2019,14,Csa,Fortaleza,0,1,Visitante
+2019,15,Corinthians,Botafogo,1,0,Mandante
+2019,15,Fortaleza,Internacional,0,1,Visitante
+2019,15,Vasco da Gama,Flamengo,0,1,Visitante
+2019,15,Athletico Paranaense,Atlético Mineiro,0,0,Empate
+2019,15,Grêmio,Palmeiras,0,1,Visitante
+2019,15,Bahia,Goiás,1,0,Mandante
+2019,15,São Paulo,Ceará,1,0,Mandante
+2019,15,Cruzeiro,Santos Fc,0,1,Visitante
+2019,15,Fluminense,Csa,1,0,Mandante
+2019,15,Chapecoense,Avaí,0,0,Empate
+2019,16,Atlético Mineiro,Bahia,0,0,Empate
+2019,16,Grêmio,Athletico Paranaense,0,1,Visitante
+2019,16,Goiás,Internacional,0,1,Visitante
+2019,16,Vasco da Gama,São Paulo,0,1,Visitante
+2019,16,Santos Fc,Fortaleza,1,0,Mandante
+2019,16,Ceará,Flamengo,0,1,Visitante
+2019,16,Avaí,Corinthians,0,1,Visitante
+2019,16,Csa,Cruzeiro,0,1,Visitante
+2019,16,Botafogo,Chapecoense,1,0,Mandante
+2019,16,Palmeiras,Fluminense,1,0,Mandante
+2019,17,São Paulo,Grêmio,1,0,Mandante
+2019,17,Bahia,Csa,1,0,Mandante
+2019,17,Athletico Paranaense,Ceará,1,0,Mandante
+2019,17,Chapecoense,Santos Fc,0,1,Visitante
+2019,17,Internacional,Botafogo,1,0,Mandante
+2019,17,Flamengo,Palmeiras,1,0,Mandante
+2019,17,Fortaleza,Goiás,1,0,Mandante
+2019,17,Cruzeiro,Vasco da Gama,0,1,Visitante
+2019,17,Corinthians,Atlético Mineiro,1,0,Mandante
+2019,17,Fluminense,Avaí,1,0,Mandante
+2019,18,Vasco da Gama,Bahia,0,1,Visitante
+2019,18,Corinthians,Ceará,1,0,Mandante
+2019,18,Avaí,Flamengo,0,1,Visitante
+2019,18,Fortaleza,Fluminense,1,0,Mandante
+2019,18,Internacional,São Paulo,0,1,Visitante
+2019,18,Goiás,Palmeiras,0,1,Visitante
+2019,18,Cruzeiro,Grêmio,0,1,Visitante
+2019,18,Botafogo,Atlético Mineiro,0,1,Visitante
+2019,18,Santos Fc,Athletico Paranaense,1,0,Mandante
+2019,18,Csa,Chapecoense,0,1,Visitante
+2019,19,Flamengo,Santos Fc,1,0,Mandante
+2019,19,Palmeiras,Cruzeiro,1,0,Mandante
+2019,19,Chapecoense,Vasco da Gama,0,1,Visitante
+2019,19,Ceará,Botafogo,0,0,Empate
+2019,19,Athletico Paranaense,Avaí,1,0,Mandante
+2019,19,Atlético Mineiro,Internacional,0,1,Visitante
+2019,19,Grêmio,Goiás,1,0,Mandante
+2019,19,Bahia,Fortaleza,1,0,Mandante
+2019,19,Fluminense,Corinthians,0,1,Visitante
+2019,19,São Paulo,Csa,1,0,Mandante
+2019,20,Botafogo,São Paulo,0,1,Visitante
+2019,20,Cruzeiro,Flamengo,0,1,Visitante
+2019,20,Corinthians,Bahia,0,0,Empate
+2019,20,Santos Fc,Grêmio,0,0,Empate
+2019,20,Internacional,Chapecoense,1,0,Mandante
+2019,20,Csa,Ceará,0,1,Visitante
+2019,20,Vasco da Gama,Athletico Paranaense,0,1,Visitante
+2019,20,Fortaleza,Palmeiras,0,1,Visitante
+2019,20,Goiás,Fluminense,0,1,Visitante
+2019,20,Avaí,Atlético Mineiro,0,1,Visitante
+2019,21,Ceará,Cruzeiro,1,0,Mandante
+2019,21,São Paulo,Goiás,1,0,Mandante
+2019,21,Flamengo,Internacional,1,0,Mandante
+2019,21,Bahia,Botafogo,1,0,Mandante
+2019,21,Palmeiras,Csa,1,0,Mandante
+2019,21,Grêmio,Avaí,1,0,Mandante
+2019,21,Fluminense,Santos Fc,0,1,Visitante
+2019,21,Athletico Paranaense,Fortaleza,1,0,Mandante
+2019,21,Atlético Mineiro,Vasco da Gama,0,0,Empate
+2019,21,Chapecoense,Corinthians,0,1,Visitante
+2019,22,Flamengo,São Paulo,1,0,Mandante
+2019,22,Corinthians,Vasco da Gama,1,0,Mandante
+2019,22,Internacional,Palmeiras,0,1,Visitante
+2019,22,Santos Fc,Csa,1,0,Mandante
+2019,22,Fluminense,Grêmio,0,1,Visitante
+2019,22,Atlético Mineiro,Ceará,0,1,Visitante
+2019,22,Athletico Paranaense,Chapecoense,1,0,Mandante
+2019,22,Goiás,Cruzeiro,1,0,Mandante
+2019,22,Fortaleza,Botafogo,0,1,Visitante
+2019,22,Avaí,Bahia,0,1,Visitante
+2019,23,São Paulo,Fortaleza,1,0,Mandante
+2019,23,Vasco da Gama,Santos Fc,0,1,Visitante
+2019,23,Grêmio,Corinthians,0,0,Empate
+2019,23,Bahia,Athletico Paranaense,1,0,Mandante
+2019,23,Cruzeiro,Internacional,0,1,Visitante
+2019,23,Chapecoense,Flamengo,0,1,Visitante
+2019,23,Botafogo,Fluminense,1,0,Mandante
+2019,23,Ceará,Goiás,0,0,Empate
+2019,23,Palmeiras,Atlético Mineiro,1,0,Mandante
+2019,23,Csa,Avaí,0,0,Empate
+2019,24,Botafogo,Goiás,0,1,Visitante
+2019,24,Csa,Internacional,0,1,Visitante
+2019,24,Fortaleza,Chapecoense,1,0,Mandante
+2019,24,Grêmio,Ceará,1,0,Mandante
+2019,24,Bahia,São Paulo,0,0,Empate
+2019,24,Cruzeiro,Fluminense,0,1,Visitante
+2019,24,Santos Fc,Palmeiras,0,1,Visitante
+2019,24,Corinthians,Athletico Paranaense,1,0,Mandante
+2019,24,Avaí,Vasco da Gama,0,1,Visitante
+2019,24,Flamengo,Atlético Mineiro,1,0,Mandante
+2019,25,Goiás,Csa,1,0,Mandante
+2019,25,Fluminense,Bahia,0,1,Visitante
+2019,25,Palmeiras,Botafogo,1,0,Mandante
+2019,25,Ceará,Avaí,1,0,Mandante
+2019,25,Vasco da Gama,Fortaleza,0,0,Empate
+2019,25,Athletico Paranaense,Flamengo,0,1,Visitante
+2019,25,Internacional,Santos Fc,0,1,Visitante
+2019,25,São Paulo,Corinthians,0,1,Visitante
+2019,25,Chapecoense,Cruzeiro,0,1,Visitante
+2019,25,Atlético Mineiro,Grêmio,0,1,Visitante
+2019,26,Csa,Atlético Mineiro,0,1,Visitante
+2019,26,Grêmio,Bahia,1,0,Mandante
+2019,26,Fortaleza,Flamengo,0,1,Visitante
+2019,26,Cruzeiro,São Paulo,0,1,Visitante
+2019,26,Palmeiras,Chapecoense,1,0,Mandante
+2019,26,Goiás,Corinthians,0,1,Visitante
+2019,26,Vasco da Gama,Botafogo,0,0,Empate
+2019,26,Santos Fc,Ceará,1,0,Mandante
+2019,26,Avaí,Internacional,0,1,Visitante
+2019,26,Fluminense,Athletico Paranaense,0,1,Visitante
+2019,27,Fortaleza,Grêmio,0,1,Visitante
+2019,27,Corinthians,Cruzeiro,1,0,Mandante
+2019,27,Atlético Mineiro,Santos Fc,0,1,Visitante
+2019,27,Internacional,Vasco da Gama,1,0,Mandante
+2019,27,São Paulo,Avaí,1,0,Mandante
+2019,27,Flamengo,Fluminense,1,0,Mandante
+2019,27,Chapecoense,Goiás,0,1,Visitante
+2019,27,Athletico Paranaense,Palmeiras,0,1,Visitante
+2019,27,Bahia,Ceará,1,0,Mandante
+2019,27,Botafogo,Csa,1,0,Mandante
+2019,28,Ceará,Vasco da Gama,0,1,Visitante
+2019,28,Corinthians,Santos Fc,0,0,Empate
+2019,28,Bahia,Internacional,0,0,Empate
+2019,28,Fluminense,Chapecoense,1,0,Mandante
+2019,28,Cruzeiro,Fortaleza,0,1,Visitante
+2019,28,São Paulo,Atlético Mineiro,1,0,Mandante
+2019,28,Grêmio,Botafogo,1,0,Mandante
+2019,28,Athletico Paranaense,Goiás,1,0,Mandante
+2019,28,Avaí,Palmeiras,0,1,Visitante
+2019,28,Flamengo,Csa,1,0,Mandante
+2019,29,Atlético Mineiro,Chapecoense,1,0,Mandante
+2019,29,Avaí,Fortaleza,0,1,Visitante
+2019,29,Palmeiras,São Paulo,1,0,Mandante
+2019,29,Csa,Corinthians,0,1,Visitante
+2019,29,Vasco da Gama,Grêmio,0,1,Visitante
+2019,29,Ceará,Fluminense,1,0,Mandante
+2019,29,Santos Fc,Bahia,1,0,Mandante
+2019,29,Goiás,Flamengo,0,1,Visitante
+2019,29,Internacional,Athletico Paranaense,0,1,Visitante
+2019,29,Botafogo,Cruzeiro,0,0,Empate
+2019,30,Fortaleza,Atlético Mineiro,1,0,Mandante
+2019,30,Palmeiras,Ceará,1,0,Mandante
+2019,30,Fluminense,Vasco da Gama,0,1,Visitante
+2019,30,Chapecoense,São Paulo,0,1,Visitante
+2019,30,Flamengo,Corinthians,1,0,Mandante
+2019,30,Grêmio,Internacional,1,0,Mandante
+2019,30,Athletico Paranaense,Csa,1,0,Mandante
+2019,30,Cruzeiro,Bahia,0,1,Visitante
+2019,30,Santos Fc,Botafogo,1,0,Mandante
+2019,30,Goiás,Avaí,1,0,Mandante
+2019,31,Corinthians,Fortaleza,1,0,Mandante
+2019,31,Atlético Mineiro,Goiás,0,1,Visitante
+2019,31,Avaí,Santos Fc,0,1,Visitante
+2019,31,Vasco da Gama,Palmeiras,0,1,Visitante
+2019,31,Bahia,Chapecoense,1,0,Mandante
+2019,31,Athletico Paranaense,Cruzeiro,1,0,Mandante
+2019,31,São Paulo,Fluminense,1,0,Mandante
+2019,31,Ceará,Internacional,0,1,Visitante
+2019,31,Botafogo,Flamengo,0,1,Visitante
+2019,31,Grêmio,Csa,1,0,Mandante
+2019,32,Goiás,Santos Fc,0,1,Visitante
+2019,32,Palmeiras,Corinthians,1,0,Mandante
+2019,32,São Paulo,Athletico Paranaense,0,1,Visitante
+2019,32,Internacional,Fluminense,1,0,Mandante
+2019,32,Cruzeiro,Atlético Mineiro,1,0,Mandante
+2019,32,Flamengo,Bahia,1,0,Mandante
+2019,32,Chapecoense,Grêmio,0,1,Visitante
+2019,32,Csa,Vasco da Gama,0,1,Visitante
+2019,32,Fortaleza,Ceará,0,1,Visitante
+2019,32,Botafogo,Avaí,1,0,Mandante
+2019,33,Santos Fc,São Paulo,1,0,Mandante
+2019,33,Fluminense,Atlético Mineiro,0,0,Empate
+2019,33,Bahia,Palmeiras,0,1,Visitante
+2019,33,Grêmio,Flamengo,0,1,Visitante
+2019,33,Chapecoense,Ceará,0,1,Visitante
+2019,33,Athletico Paranaense,Botafogo,1,0,Mandante
+2019,33,Corinthians,Internacional,1,0,Mandante
+2019,33,Fortaleza,Csa,1,0,Mandante
+2019,33,Vasco da Gama,Goiás,1,0,Mandante
+2019,33,Cruzeiro,Avaí,1,0,Mandante
+2019,34,Flamengo,Vasco da Gama,1,0,Mandante
+2019,34,Santos Fc,Cruzeiro,1,0,Mandante
+2019,34,Goiás,Bahia,0,1,Visitante
+2019,34,Palmeiras,Grêmio,0,0,Empate
+2019,34,Atlético Mineiro,Athletico Paranaense,0,1,Visitante
+2019,34,Botafogo,Corinthians,0,1,Visitante
+2019,34,Ceará,São Paulo,0,1,Visitante
+2019,34,Avaí,Chapecoense,0,1,Visitante
+2019,34,Internacional,Fortaleza,0,0,Empate
+2019,34,Csa,Fluminense,0,1,Visitante
+2019,35,Chapecoense,Botafogo,0,1,Visitante
+2019,35,Internacional,Goiás,1,0,Mandante
+2019,35,Bahia,Atlético Mineiro,1,0,Mandante
+2019,35,Athletico Paranaense,Grêmio,0,1,Visitante
+2019,35,Corinthians,Avaí,1,0,Mandante
+2019,35,Flamengo,Ceará,1,0,Mandante
+2019,35,Fluminense,Palmeiras,0,1,Visitante
+2019,35,Fortaleza,Santos Fc,0,1,Visitante
+2019,35,São Paulo,Vasco da Gama,0,0,Empate
+2019,35,Cruzeiro,Csa,1,0,Mandante
+2019,36,Botafogo,Internacional,0,1,Visitante
+2019,36,Ceará,Athletico Paranaense,0,1,Visitante
+2019,36,Avaí,Fluminense,0,1,Visitante
+2019,36,Goiás,Fortaleza,0,1,Visitante
+2019,36,Palmeiras,Flamengo,0,1,Visitante
+2019,36,Csa,Bahia,0,1,Visitante
+2019,36,Atlético Mineiro,Corinthians,0,1,Visitante
+2019,36,Grêmio,São Paulo,1,0,Mandante
+2019,36,Santos Fc,Chapecoense,1,0,Mandante
+2019,36,Vasco da Gama,Cruzeiro,1,0,Mandante
+2019,37,Athletico Paranaense,Santos Fc,1,0,Mandante
+2019,37,Ceará,Corinthians,0,1,Visitante
+2019,37,Atlético Mineiro,Botafogo,1,0,Mandante
+2019,37,Chapecoense,Csa,1,0,Mandante
+2019,37,São Paulo,Internacional,0,0,Empate
+2019,37,Fluminense,Fortaleza,0,1,Visitante
+2019,37,Palmeiras,Goiás,1,0,Mandante
+2019,37,Grêmio,Cruzeiro,1,0,Mandante
+2019,37,Bahia,Vasco da Gama,0,0,Empate
+2019,37,Flamengo,Avaí,1,0,Mandante
+2019,38,Santos Fc,Flamengo,0,1,Visitante
+2019,38,Goiás,Grêmio,0,1,Visitante
+2019,38,Internacional,Atlético Mineiro,0,0,Empate
+2019,38,Fortaleza,Bahia,1,0,Mandante
+2019,38,Corinthians,Fluminense,1,0,Mandante
+2019,38,Csa,São Paulo,0,1,Visitante
+2019,38,Vasco da Gama,Chapecoense,1,0,Mandante
+2019,38,Botafogo,Ceará,0,1,Visitante
+2019,38,Cruzeiro,Palmeiras,0,1,Visitante
+2019,38,Avaí,Athletico Paranaense,0,1,Visitante
